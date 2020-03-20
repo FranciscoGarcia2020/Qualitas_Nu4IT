@@ -1,0 +1,23 @@
+Archivo LOG de reportes del 2019/02/07 13:16:40
+*******************************************************
+13:16:40: Iniciando QContent descarga de documentos
+13:16:42: Se busca comparar el archivo idc--59254917F con un patrón de Póliza. sin OCR
+13:16:42: Se busca comparar el archivo idc--59254917F con un patrón de Factura sin OCR. sin OCR
+13:16:42: Se encontró que el archivo idc--59254917F es una Factura. sin OCR
+13:16:42: Se movió el documento idc--59254917F al directorio de Factura. sin OCR
+13:16:51: Se navega a la URL: https://tramitesdigitales.sat.gob.mx/Sicofi.ValidacionCFD/Default.aspx
+13:16:51: Se toma screenshot y se procesar CAPTCHA con valor: yV7Yf
+13:16:51: Se digita el captcha con valor: yV7Yf
+13:16:52: Se manda click al elemento Continuar
+13:16:52: Se digita el RFC del emisor: OKE100921P813
+13:16:52: Se digita la serie: WAU9FD8T3EA007986
+13:16:52: Se digita el Folio del Comprobante: EANI00000116
+13:16:52: Se digita el Número de Aprobación: 
+13:16:52: Se digita el Año de Aprobación: 14-04-07
+13:16:52: Se manda click al botón Consultar
+13:42:55: Se encontró el siguiente error: System.Threading.ThreadStateException: No se puede crear una instancia del control ActiveX '8856f961-340a-11d0-a96b-00c04fd705a2' porque el subproceso actual no está en un contenedor uniproceso.
+   en System.Windows.Forms.WebBrowserBase..ctor(String clsidString)
+   en System.Windows.Forms.WebBrowser..ctor()
+   en QPil.Forms.ValidaDatosSat.InitializeComponent() en C:\Users\Fernanda Rey\Desktop\RepoQualitas\QPil\Forms\ValidaDatosSat.Designer.cs:línea 33
+   en QPil.Forms.ValidaDatosSat..ctor(String rutaLogSat, String rutaPdf, String rfc, String serie, String folio, String noAprobacion, String anio, String certificado, String id) en C:\Users\Fernanda Rey\Desktop\RepoQualitas\QPil\Forms\ValidaDatosSat.cs:línea 25
+   en QPil.Procesos.CaptchaSAT.ProcesoCaptchaSat(DataRow datos) en C:\Users\Fernanda Rey\Desktop\RepoQualitas\QPil\Procesos\CaptchaSAT.cs:línea 145

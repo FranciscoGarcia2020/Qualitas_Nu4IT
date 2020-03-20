@@ -1,0 +1,106 @@
+Archivo LOG de reportes del 2019/02/14 15:58:06
+*******************************************************
+15:58:11: C:\Users\Fernanda Rey\Desktop\pruebas\Siniestros\04182635987
+15:58:11: Se busca comparar el archivo 20190128105758536 con un patrón de Póliza. sin OCR
+15:58:37: Se busca comparar el archivo 20190128105758536 con un patrón de Póliza
+15:58:37: Se busca comparar el archivo 20190128105758536 con un patrón de Factura
+15:58:37: Se encontró que el archivo 20190128105758536 es una Factura
+15:58:37: Se movió el documento 20190128105758536 al directorio de Factura
+15:58:37: Se busca comparar el archivo idc-75508646 con un patrón de Póliza. sin OCR
+15:58:37: Se busca comparar el archivo idc-75508646 con un patrón de Factura sin OCR. sin OCR
+15:58:37: Se encontró que el archivo idc-75508646 es una Factura. sin OCR
+15:58:37: Se movió el documento idc-75508646 al directorio de Factura. sin OCR
+15:58:37: Se busca comparar el archivo idc-75544378 con un patrón de Póliza. sin OCR
+15:58:37: Se busca comparar el archivo idc-75544378 con un patrón de Factura sin OCR. sin OCR
+15:58:37: Se encontró que el archivo idc-75544378 es una Factura. sin OCR
+15:58:37: Se movió el documento idc-75544378 al directorio de Factura. sin OCR
+15:58:37: Se busca comparar el archivo idc-75544385 con un patrón de Póliza. sin OCR
+15:58:37: Se busca comparar el archivo idc-75544385 con un patrón de Factura sin OCR. sin OCR
+15:58:37: Se encontró que el archivo idc-75544385 es una Factura. sin OCR
+15:58:37: Se movió el documento idc-75544385 al directorio de Factura. sin OCR
+15:58:37: Se busca comparar el archivo idc-78792276 con un patrón de Póliza. sin OCR
+15:58:37: Se busca comparar el archivo idc-78792276 con un patrón de Factura sin OCR. sin OCR
+15:58:37: Se encontró que el archivo idc-78792276 es una Factura. sin OCR
+15:58:37: Se movió el documento idc-78792276 al directorio de Factura. sin OCR
+16:04:31: Se navega a la URL: https://tramitesdigitales.sat.gob.mx/Sicofi.ValidacionCFD/Default.aspx
+16:04:31: Se toma screenshot y se procesar CAPTCHA con valor: yV7Yf
+16:04:31: Se digita el captcha con valor: yV7Yf
+16:04:32: Se manda click al elemento Continuar
+16:04:32: Se digita el RFC del emisor: AUT091023H43
+16:04:32: Se digita la serie: 
+16:04:32: Se digita el Folio del Comprobante: 
+16:04:32: Se digita el Número de Aprobación: 
+16:04:32: Se digita el Año de Aprobación: 
+16:04:32: Se manda click al botón Consultar
+16:05:18: Se navega a la URL: https://tramitesdigitales.sat.gob.mx/Sicofi.ValidacionCFD/Default.aspx
+16:05:18: Se toma screenshot y se procesar CAPTCHA con valor: yV7Yf
+16:05:18: Se digita el captcha con valor: yV7Yf
+16:05:19: Se manda click al elemento Continuar
+16:05:19: Se digita el RFC del emisor: AUT091023H46
+16:05:19: Se digita la serie: E
+16:05:19: Se digita el Folio del Comprobante: 0000897
+16:05:19: Se digita el Número de Aprobación: 424694
+16:05:19: Se digita el Año de Aprobación: 2011
+16:05:19: Se manda click al botón Consultar
+16:05:20: Coincide 00001000000202409238
+16:05:20: Estatus: Activo
+16:05:49: Se navega a la URL: https://tramitesdigitales.sat.gob.mx/Sicofi.ValidacionCFD/Default.aspx
+16:05:49: Se toma screenshot y se procesar CAPTCHA con valor: yV7Yf
+16:05:49: Se digita el captcha con valor: yV7Yf
+16:05:49: Se manda click al elemento Continuar
+16:05:49: Se digita el RFC del emisor: TRA0710029P9L
+16:05:50: Se digita la serie: 3WKAD40X5EF854781.(Número
+16:05:50: Se digita el Folio del Comprobante: 
+16:05:50: Se digita el Número de Aprobación: 
+16:05:50: Se digita el Año de Aprobación: 18-12-0371
+16:05:50: Se manda click al botón Consultar
+16:06:04: Se navega a la URL: https://tramitesdigitales.sat.gob.mx/Sicofi.ValidacionCFD/Default.aspx
+16:06:04: Se toma screenshot y se procesar CAPTCHA con valor: yV7Yf
+16:06:04: Se digita el captcha con valor: yV7Yf
+16:06:04: Se manda click al elemento Continuar
+16:06:04: Se digita el RFC del emisor: 
+16:06:05: Se digita la serie: 
+16:06:05: Se digita el Folio del Comprobante: 
+16:06:05: Se digita el Número de Aprobación: 
+16:06:05: Se digita el Año de Aprobación: 
+16:06:05: Se manda click al botón Consultar
+16:06:11: Se navega a la URL: https://tramitesdigitales.sat.gob.mx/Sicofi.ValidacionCFD/Default.aspx
+16:06:11: Se toma screenshot y se procesar CAPTCHA con valor: yV7Yf
+16:06:11: Se digita el captcha con valor: yV7Yf
+16:06:11: Se manda click al elemento Continuar
+16:06:12: Se digita el RFC del emisor: 04180618736Af
+16:06:12: Se digita la serie: 3C6JRBCT8JG158859
+16:06:12: Se digita el Folio del Comprobante: 2929
+16:06:12: Se digita el Número de Aprobación: 
+16:06:12: Se digita el Año de Aprobación: 18-10-01
+16:06:12: Se manda click al botón Consultar
+16:06:18: Se navega a la URL: https://tramitesdigitales.sat.gob.mx/Sicofi.ValidacionCFD/Default.aspx
+16:06:18: Se toma screenshot y se procesar CAPTCHA con valor: yV7Yf
+16:06:18: Se digita el captcha con valor: yV7Yf
+16:06:18: Se manda click al elemento Continuar
+16:06:19: Se digita el RFC del emisor: ajvA141303•vom
+16:06:19: Se digita la serie: 3SCPZWDE731016324
+16:06:19: Se digita el Folio del Comprobante: 
+16:06:19: Se digita el Número de Aprobación: 
+16:06:19: Se digita el Año de Aprobación: Emisión
+16:06:19: Se manda click al botón Consultar
+16:06:37: Se navega a la URL: https://verificacfdi.facturaelectronica.sat.gob.mx/
+16:06:39: Se ingresó folio fiscal: 
+16:06:40: Se ingresó RFC de Emisor: 
+16:06:40: Se ingresó RFC de Receptor: 
+16:06:40: Se ingresó Captcha: 
+16:06:53: Se navega a la URL: https://verificacfdi.facturaelectronica.sat.gob.mx/
+16:06:56: Se ingresó folio fiscal: 
+16:06:56: Se ingresó RFC de Emisor: 
+16:06:56: Se ingresó RFC de Receptor: 
+16:06:56: Se ingresó Captcha: 
+16:08:10: Se navega a la URL: https://verificacfdi.facturaelectronica.sat.gob.mx/
+16:08:13: Se ingresó folio fiscal: 
+16:08:13: Se ingresó RFC de Emisor: 
+16:08:13: Se ingresó RFC de Receptor: 
+16:08:13: Se ingresó Captcha: 
+16:08:18: Se navega a la URL: https://verificacfdi.facturaelectronica.sat.gob.mx/
+16:08:20: Se ingresó folio fiscal: 
+16:08:20: Se ingresó RFC de Emisor: 
+16:08:20: Se ingresó RFC de Receptor: 
+16:08:21: Se ingresó Captcha: 

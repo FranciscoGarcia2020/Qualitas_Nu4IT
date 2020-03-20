@@ -1,0 +1,17 @@
+Archivo LOG de reportes del 2019/02/07 13:56:25
+*******************************************************
+13:56:25: Iniciando QContent descarga de documentos
+13:56:29: Se busca comparar el archivo idc--59254917F con un patrón de Póliza. sin OCR
+13:56:29: Se busca comparar el archivo idc--59254917F con un patrón de Factura sin OCR. sin OCR
+13:56:29: Se encontró que el archivo idc--59254917F es una Factura. sin OCR
+13:56:29: Se movió el documento idc--59254917F al directorio de Factura. sin OCR
+13:56:47: Se navega a la URL: https://tramitesdigitales.sat.gob.mx/Sicofi.ValidacionCFD/Default.aspx
+13:56:47: Se toma screenshot y se procesar CAPTCHA con valor: yV7Yf
+13:56:47: Se digita el captcha con valor: yV7Yf
+13:56:48: Se manda click al elemento Continuar
+13:56:48: Se digita el RFC del emisor: OKE100921P813
+13:56:48: Se digita la serie: WAU9FD8T3EA007986
+13:56:48: Se digita el Folio del Comprobante: EANI00000116
+13:56:48: Se digita el Número de Aprobación: 
+13:56:48: Se digita el Año de Aprobación: 14-04-07
+13:56:48: Se manda click al botón Consultar

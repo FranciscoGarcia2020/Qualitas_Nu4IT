@@ -1,0 +1,29 @@
+Archivo LOG de reportes del 2019/02/18 10:47:54
+*******************************************************
+10:47:59: C:\Users\Fernanda Rey\Desktop\pruebas\Siniestros\04182635987
+10:47:59: Se busca comparar el archivo 20190128105758536 con un patrón de Póliza. sin OCR
+10:48:26: Se busca comparar el archivo 20190128105758536 con un patrón de Póliza
+10:48:26: Se busca comparar el archivo 20190128105758536 con un patrón de Factura
+10:48:26: Se crea el directorio: C:\Users\Fernanda Rey\Desktop\pruebas\Siniestros\04182635987\Factura
+10:48:26: Se encontró que el archivo 20190128105758536 es una Factura
+10:48:26: Se movió el documento 20190128105758536 al directorio de Factura
+10:48:26: Se busca comparar el archivo idc--59254911P con un patrón de Póliza. sin OCR
+10:48:26: Se crea el directorio: C:\Users\Fernanda Rey\Desktop\pruebas\Siniestros\04182635987\Poliza
+10:48:26: Se encontró que el archivo idc--59254911P es una Póliza. sin OCR
+10:48:26: Se movió el documento idc--59254911P al directorio de Poliza. sin OCR
+10:48:26: Se extrajo poliza: 2660279436 endoso: 000000 inciso:0001
+10:48:26: Se extrajo serie: WAU9FDET.11
+10:48:26: Se extrajo modelo: 
+10:48:26: Se extrajo motor: 
+10:48:26: Se extrajo DM:  5%
+10:48:26: Se extrajo RT:  5%
+10:48:26: Se busca comparar el archivo idc--59254916T con un patrón de Póliza. sin OCR
+10:48:26: Se busca comparar el archivo idc--59254916T con un patrón de Tenencia sin OCR. sin OCR
+10:48:26: Se crea el directorio: C:\Users\Fernanda Rey\Desktop\pruebas\Siniestros\04182635987\Tenencia
+10:48:26: Se encontró que el archivo idc--59254916T es una Tenencia. sin OCR
+10:48:26: Se movió el documento idc--59254916T al directorio de Tenencia. sin OCR
+10:48:26: Se busca comparar el archivo idc--59254917F con un patrón de Póliza. sin OCR
+10:48:26: Se busca comparar el archivo idc--59254917F con un patrón de Factura sin OCR. sin OCR
+10:48:26: Se encontró que el archivo idc--59254917F es una Factura. sin OCR
+10:48:26: Se movió el documento idc--59254917F al directorio de Factura. sin OCR
+10:48:26: Se busca comparar el archivo idc-73951168F con un patrón de Póliza. sin OCR

@@ -1,0 +1,15 @@
+Archivo LOG de reportes del 2019/02/14 11:10:26
+*******************************************************
+11:10:31: C:\Users\Fernanda Rey\Desktop\pruebas\Siniestros\04182635987
+11:10:31: Se busca comparar el archivo 20190128105758536 con un patrón de Póliza. sin OCR
+11:10:59: Se busca comparar el archivo 20190128105758536 con un patrón de Póliza
+11:10:59: Se busca comparar el archivo 20190128105758536 con un patrón de Factura
+11:10:59: Se encontró que el archivo 20190128105758536 es una Factura
+11:12:44: Excepción System.IO.IOException: No se puede crear un archivo que ya existe.
+
+   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.__Error.WinIOError()
+   en System.IO.File.InternalMove(String sourceFileName, String destFileName, Boolean checkHost)
+   en System.IO.File.Move(String sourceFileName, String destFileName)
+   en QPil.Procesos.ManejoDeDocumentos.leePDFconOCR(String nombreDirectorioSiniestro, String documento, String siniestro) en C:\Users\Fernanda Rey\Desktop\RepoQualitas\QPil\Procesos\ManejoDeDocumentos.cs:línea 270
+11:12:45: Se busca comparar el archivo idc--59254917F con un patrón de Póliza. sin OCR

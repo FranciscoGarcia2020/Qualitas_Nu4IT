@@ -1,0 +1,120 @@
+Archivo LOG de reportes del 2019/02/07 11:10:20
+*******************************************************
+11:10:20: Iniciando QContent descarga de documentos
+11:10:21: Se busca comparar el archivo 20190128105758536 con un patrón de Póliza. sin OCR
+11:10:46: Se busca comparar el archivo 20190128105758536 con un patrón de Póliza
+11:10:46: Se busca comparar el archivo 20190128105758536 con un patrón de Factura
+11:10:46: Se crea el directorio: C:\Users\Fernanda Rey\Desktop\pruebas\Siniestros\04182635987\Factura
+11:10:46: Se encontró que el archivo 20190128105758536 es una Factura
+11:10:46: Se movió el documento 20190128105758536 al directorio de Factura
+11:10:46: Se busca comparar el archivo idc--59254911P con un patrón de Póliza. sin OCR
+11:10:46: Se crea el directorio: C:\Users\Fernanda Rey\Desktop\pruebas\Siniestros\04182635987\Poliza
+11:10:46: Se encontró que el archivo idc--59254911P es una Póliza. sin OCR
+11:10:46: Se movió el documento idc--59254911P al directorio de Poliza. sin OCR
+11:10:46: Se busca comparar el archivo idc--59254916T con un patrón de Póliza. sin OCR
+11:10:46: Se busca comparar el archivo idc--59254916T con un patrón de Tenencia sin OCR. sin OCR
+11:10:46: Se crea el directorio: C:\Users\Fernanda Rey\Desktop\pruebas\Siniestros\04182635987\Tenencia
+11:10:46: Se encontró que el archivo idc--59254916T es una Tenencia. sin OCR
+11:10:46: Se movió el documento idc--59254916T al directorio de Tenencia. sin OCR
+11:10:46: Se busca comparar el archivo idc--59254917F con un patrón de Póliza. sin OCR
+11:10:46: Se busca comparar el archivo idc--59254917F con un patrón de Factura sin OCR. sin OCR
+11:10:46: Se encontró que el archivo idc--59254917F es una Factura. sin OCR
+11:10:46: Se movió el documento idc--59254917F al directorio de Factura. sin OCR
+11:10:46: Se busca comparar el archivo idc-73951168F con un patrón de Póliza. sin OCR
+11:10:52: Se busca comparar el archivo idc-73951168F con un patrón de Póliza
+11:10:52: Se busca comparar el archivo idc-73951168F con un patrón de Factura
+11:10:52: Se encontró que el archivo idc-73951168F es una Factura
+11:10:52: Se movió el documento idc-73951168F al directorio de Factura
+11:10:52: Se busca comparar el archivo idc-73951175T con un patrón de Póliza. sin OCR
+11:10:57: Se busca comparar el archivo idc-73951175T con un patrón de Póliza
+11:10:57: Se busca comparar el archivo idc-73951175T con un patrón de Tenencia
+11:10:57: Se encontró que el archivo idc-73951175T es una Tenencia
+11:10:57: Se movió el documento idc-73951175T al directorio de Tenencia
+11:10:57: Se busca comparar el archivo idc-73951181T con un patrón de Póliza. sin OCR
+11:11:01: Se busca comparar el archivo idc-73951181T con un patrón de Póliza
+11:11:01: Se busca comparar el archivo idc-73951181T con un patrón de Tenencia
+11:11:01: Se encontró que el archivo idc-73951181T es una Tenencia
+11:11:01: Se movió el documento idc-73951181T al directorio de Tenencia
+11:11:01: Se busca comparar el archivo idc-75266885P con un patrón de Póliza. sin OCR
+11:11:01: Se encontró que el archivo idc-75266885P es una Póliza. sin OCR
+11:11:01: Se movió el documento idc-75266885P al directorio de Poliza. sin OCR
+11:11:01: Se busca comparar el archivo idc-75266891F con un patrón de Póliza. sin OCR
+11:11:01: Se busca comparar el archivo idc-75266891F con un patrón de Factura sin OCR. sin OCR
+11:11:01: Se encontró que el archivo idc-75266891F es una Factura. sin OCR
+11:11:01: Se movió el documento idc-75266891F al directorio de Factura. sin OCR
+11:11:01: Se busca comparar el archivo idc-75266899T con un patrón de Póliza. sin OCR
+11:11:01: Se busca comparar el archivo idc-75266899T con un patrón de Tenencia sin OCR. sin OCR
+11:11:01: Se encontró que el archivo idc-75266899T es una Tenencia. sin OCR
+11:11:01: Se movió el documento idc-75266899T al directorio de Tenencia. sin OCR
+11:11:01: Se busca comparar el archivo idc-75393119P con un patrón de Póliza. sin OCR
+11:11:01: Se encontró que el archivo idc-75393119P es una Póliza. sin OCR
+11:11:01: Se movió el documento idc-75393119P al directorio de Poliza. sin OCR
+11:11:01: Se busca comparar el archivo idc-75393130T con un patrón de Póliza. sin OCR
+11:11:01: Se busca comparar el archivo idc-75393130T con un patrón de Tenencia sin OCR. sin OCR
+11:11:01: Se encontró que el archivo idc-75393130T es una Tenencia. sin OCR
+11:11:01: Se movió el documento idc-75393130T al directorio de Tenencia. sin OCR
+11:11:01: Se busca comparar el archivo idc-75393137F con un patrón de Póliza. sin OCR
+11:11:01: Se busca comparar el archivo idc-75393137F con un patrón de Factura sin OCR. sin OCR
+11:11:01: Se encontró que el archivo idc-75393137F es una Factura. sin OCR
+11:11:01: Se movió el documento idc-75393137F al directorio de Factura. sin OCR
+11:11:01: Se busca comparar el archivo idc-75487751P con un patrón de Póliza. sin OCR
+11:11:01: Se encontró que el archivo idc-75487751P es una Póliza. sin OCR
+11:11:01: Se movió el documento idc-75487751P al directorio de Poliza. sin OCR
+11:11:01: Se busca comparar el archivo idc-75487755F con un patrón de Póliza. sin OCR
+11:11:01: Se busca comparar el archivo idc-75487755F con un patrón de Factura sin OCR. sin OCR
+11:11:01: Se encontró que el archivo idc-75487755F es una Factura. sin OCR
+11:11:01: Se movió el documento idc-75487755F al directorio de Factura. sin OCR
+11:11:01: Se busca comparar el archivo idc-75487767T con un patrón de Póliza. sin OCR
+11:11:01: Se busca comparar el archivo idc-75487767T con un patrón de Tenencia sin OCR. sin OCR
+11:11:01: Se encontró que el archivo idc-75487767T es una Tenencia. sin OCR
+11:11:01: Se movió el documento idc-75487767T al directorio de Tenencia. sin OCR
+11:11:01: Se busca comparar el archivo idc-75514407F con un patrón de Póliza. sin OCR
+11:11:02: Se busca comparar el archivo idc-75514407F con un patrón de Factura sin OCR. sin OCR
+11:11:02: Se encontró que el archivo idc-75514407F es una Factura. sin OCR
+11:11:02: Se movió el documento idc-75514407F al directorio de Factura. sin OCR
+11:11:02: Se busca comparar el archivo idc-75514409T con un patrón de Póliza. sin OCR
+11:11:14: Se busca comparar el archivo idc-75514409T con un patrón de Póliza
+11:11:14: Se busca comparar el archivo idc-75514409T con un patrón de Tenencia
+11:11:14: Se encontró que el archivo idc-75514409T es una Tenencia
+11:11:14: Se movió el documento idc-75514409T al directorio de Tenencia
+11:11:14: Se busca comparar el archivo idc-75514418F con un patrón de Póliza. sin OCR
+11:11:14: Se busca comparar el archivo idc-75514418F con un patrón de Factura sin OCR. sin OCR
+11:11:14: Se encontró que el archivo idc-75514418F es una Factura. sin OCR
+11:11:14: Se movió el documento idc-75514418F al directorio de Factura. sin OCR
+11:11:14: Se busca comparar el archivo idc-75515166P con un patrón de Póliza. sin OCR
+11:11:32: Se busca comparar el archivo idc-75515166P con un patrón de Póliza
+11:11:32: Se encontró que el archivo idc-75515166P es una Póliza
+11:11:32: Se movió el documento idc-75515166P al directorio de Poliza
+11:11:32: Se busca comparar el archivo idc-75515169F con un patrón de Póliza. sin OCR
+11:11:50: Se busca comparar el archivo idc-75515169F con un patrón de Póliza
+11:11:50: Se busca comparar el archivo idc-75515169F con un patrón de Factura
+11:11:50: Se encontró que el archivo idc-75515169F es una Factura
+11:11:50: Se movió el documento idc-75515169F al directorio de Factura
+11:11:50: Se busca comparar el archivo idc-75515171T con un patrón de Póliza. sin OCR
+11:11:54: Se busca comparar el archivo idc-75515171T con un patrón de Póliza
+11:11:54: Se busca comparar el archivo idc-75515171T con un patrón de Tenencia
+11:11:54: Se encontró que el archivo idc-75515171T es una Tenencia
+11:11:54: Se movió el documento idc-75515171T al directorio de Tenencia
+11:11:54: Se busca comparar el archivo idc-75517250P con un patrón de Póliza. sin OCR
+11:11:54: Se encontró que el archivo idc-75517250P es una Póliza. sin OCR
+11:11:54: Se movió el documento idc-75517250P al directorio de Poliza. sin OCR
+11:11:54: Se busca comparar el archivo idc-75517255T con un patrón de Póliza. sin OCR
+11:12:03: Se busca comparar el archivo idc-75517255T con un patrón de Póliza
+11:12:03: Se busca comparar el archivo idc-75517255T con un patrón de Tenencia
+11:12:03: Se encontró que el archivo idc-75517255T es una Tenencia
+11:12:03: Se movió el documento idc-75517255T al directorio de Tenencia
+11:12:03: Se busca comparar el archivo idc-75517259F con un patrón de Póliza. sin OCR
+11:12:03: Se busca comparar el archivo idc-75517259F con un patrón de Factura sin OCR. sin OCR
+11:12:03: Se encontró que el archivo idc-75517259F es una Factura. sin OCR
+11:12:03: Se movió el documento idc-75517259F al directorio de Factura. sin OCR
+11:12:03: Se busca comparar el archivo idc-75533025P con un patrón de Póliza. sin OCR
+11:12:03: Se encontró que el archivo idc-75533025P es una Póliza. sin OCR
+11:12:03: Se movió el documento idc-75533025P al directorio de Poliza. sin OCR
+11:12:03: Se busca comparar el archivo idc-75533026F con un patrón de Póliza. sin OCR
+11:12:03: Se busca comparar el archivo idc-75533026F con un patrón de Factura sin OCR. sin OCR
+11:12:03: Se encontró que el archivo idc-75533026F es una Factura. sin OCR
+11:12:03: Se movió el documento idc-75533026F al directorio de Factura. sin OCR
+11:12:03: Se busca comparar el archivo idc-75533030T con un patrón de Póliza. sin OCR
+11:12:03: Se busca comparar el archivo idc-75533030T con un patrón de Tenencia sin OCR. sin OCR
+11:12:03: Se encontró que el archivo idc-75533030T es una Tenencia. sin OCR
+11:12:03: Se movió el documento idc-75533030T al directorio de Tenencia. sin OCR

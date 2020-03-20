@@ -1,0 +1,12 @@
+Archivo LOG de reportes del 2019/02/07 16:13:30
+*******************************************************
+16:13:30: Iniciando QContent descarga de documentos
+16:14:32: Se busca comparar el archivo idc--59254911P con un patrón de Póliza. sin OCR
+16:14:34: Se encontró que el archivo idc--59254911P es una Póliza. sin OCR
+16:14:35: Se movió el documento idc--59254911P al directorio de Poliza. sin OCR
+16:14:41: Se extrajo poliza: 2660279436 endoso: 000000 inciso:0001
+16:14:42: Se extrajo serie: WAU9FDET.11
+16:14:46: Se extrajo modelo: 
+16:14:51: Se extrajo motor: 
+16:14:54: Se extrajo DM:  5%
+16:14:55: Se extrajo RT:  5%

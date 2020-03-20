@@ -1,0 +1,92 @@
+Archivo LOG de reportes del 2019/02/14 11:42:17
+*******************************************************
+11:42:22: C:\Users\Fernanda Rey\Desktop\pruebas\Siniestros\04182635987
+11:42:22: Se busca comparar el archivo 20190128105758536 con un patrón de Póliza. sin OCR
+11:42:48: Se busca comparar el archivo 20190128105758536 con un patrón de Póliza
+11:42:48: Se busca comparar el archivo 20190128105758536 con un patrón de Factura
+11:42:48: Se encontró que el archivo 20190128105758536 es una Factura
+11:42:48: Se movió el documento 20190128105758536 al directorio de Factura
+11:42:49: Se busca comparar el archivo idc-75508646 con un patrón de Póliza. sin OCR
+11:42:49: Se busca comparar el archivo idc-75508646 con un patrón de Factura sin OCR. sin OCR
+11:42:49: Se encontró que el archivo idc-75508646 es una Factura. sin OCR
+11:42:49: Se movió el documento idc-75508646 al directorio de Factura. sin OCR
+11:42:49: Se busca comparar el archivo idc-75508650 con un patrón de Póliza. sin OCR
+11:42:49: Se busca comparar el archivo idc-75508650 con un patrón de Factura sin OCR. sin OCR
+11:42:49: Se encontró que el archivo idc-75508650 es una Factura. sin OCR
+11:42:49: Se movió el documento idc-75508650 al directorio de Factura. sin OCR
+11:42:49: Se busca comparar el archivo idc-75508651 con un patrón de Póliza. sin OCR
+11:42:49: Se busca comparar el archivo idc-75508651 con un patrón de Factura sin OCR. sin OCR
+11:42:49: Se encontró que el archivo idc-75508651 es una Factura. sin OCR
+11:42:49: Se movió el documento idc-75508651 al directorio de Factura. sin OCR
+11:42:49: Se busca comparar el archivo idc-75510921 con un patrón de Póliza. sin OCR
+11:42:59: Se busca comparar el archivo idc-75510921 con un patrón de Póliza
+11:42:59: Se busca comparar el archivo idc-75510921 con un patrón de Factura
+11:42:59: Se encontró que el archivo idc-75510921 es una Factura
+11:42:59: Se movió el documento idc-75510921 al directorio de Factura
+11:42:59: Se busca comparar el archivo idc-75516159 con un patrón de Póliza. sin OCR
+11:43:09: Se busca comparar el archivo idc-75516159 con un patrón de Póliza
+11:43:09: Se busca comparar el archivo idc-75516159 con un patrón de Factura
+11:43:09: Se encontró que el archivo idc-75516159 es una Factura
+11:43:09: Se movió el documento idc-75516159 al directorio de Factura
+11:43:09: Se busca comparar el archivo idc-75544349 con un patrón de Póliza. sin OCR
+11:43:09: Se busca comparar el archivo idc-75544349 con un patrón de Factura sin OCR. sin OCR
+11:43:09: Se encontró que el archivo idc-75544349 es una Factura. sin OCR
+11:43:09: Se movió el documento idc-75544349 al directorio de Factura. sin OCR
+11:43:09: Se busca comparar el archivo idc-75544373 con un patrón de Póliza. sin OCR
+11:43:09: Se busca comparar el archivo idc-75544373 con un patrón de Factura sin OCR. sin OCR
+11:43:09: Se encontró que el archivo idc-75544373 es una Factura. sin OCR
+11:43:09: Se movió el documento idc-75544373 al directorio de Factura. sin OCR
+11:43:09: Se busca comparar el archivo idc-75544378 con un patrón de Póliza. sin OCR
+11:43:09: Se busca comparar el archivo idc-75544378 con un patrón de Factura sin OCR. sin OCR
+11:43:09: Se encontró que el archivo idc-75544378 es una Factura. sin OCR
+11:43:09: Se movió el documento idc-75544378 al directorio de Factura. sin OCR
+11:43:09: Se busca comparar el archivo idc-75544385 con un patrón de Póliza. sin OCR
+11:43:09: Se busca comparar el archivo idc-75544385 con un patrón de Factura sin OCR. sin OCR
+11:43:09: Se encontró que el archivo idc-75544385 es una Factura. sin OCR
+11:43:09: Se movió el documento idc-75544385 al directorio de Factura. sin OCR
+11:43:09: Se busca comparar el archivo idc-78792276 con un patrón de Póliza. sin OCR
+11:43:09: Se busca comparar el archivo idc-78792276 con un patrón de Factura sin OCR. sin OCR
+11:43:09: Se encontró que el archivo idc-78792276 es una Factura. sin OCR
+11:43:09: Se movió el documento idc-78792276 al directorio de Factura. sin OCR
+11:43:35: Se navega a la URL: https://tramitesdigitales.sat.gob.mx/Sicofi.ValidacionCFD/Default.aspx
+11:43:35: Se toma screenshot y se procesar CAPTCHA con valor: yV7Yf
+11:43:35: Se digita el captcha con valor: yV7Yf
+11:43:36: Se manda click al elemento Continuar
+11:43:36: Se digita el RFC del emisor: AUT091023H43
+11:43:36: Se digita la serie: 
+11:43:36: Se digita el Folio del Comprobante: 
+11:43:36: Se digita el Número de Aprobación: 
+11:43:36: Se digita el Año de Aprobación: 
+11:43:36: Se manda click al botón Consultar
+11:44:30: Se navega a la URL: https://tramitesdigitales.sat.gob.mx/Sicofi.ValidacionCFD/Default.aspx
+11:44:30: Se toma screenshot y se procesar CAPTCHA con valor: yV7Yf
+11:44:30: Se digita el captcha con valor: yV7Yf
+11:44:31: Se manda click al elemento Continuar
+11:44:31: Se digita el RFC del emisor: AUT091023H46
+11:44:31: Se digita la serie: E
+11:44:31: Se digita el Folio del Comprobante: 0000897
+11:44:32: Se digita el Número de Aprobación: 424694
+11:44:32: Se digita el Año de Aprobación: 2011
+11:44:32: Se manda click al botón Consultar
+11:44:32: Coincide 00001000000202409238
+11:44:32: Estatus: Activo
+11:44:37: Se navega a la URL: https://tramitesdigitales.sat.gob.mx/Sicofi.ValidacionCFD/Default.aspx
+11:44:37: Se toma screenshot y se procesar CAPTCHA con valor: yV7Yf
+11:44:37: Se digita el captcha con valor: yV7Yf
+11:44:38: Se manda click al elemento Continuar
+11:44:38: Se digita el RFC del emisor: TRA0710029P9L
+11:44:38: Se digita la serie: 3WKAD40X5EF854781.(Número
+11:44:38: Se digita el Folio del Comprobante: 
+11:44:38: Se digita el Número de Aprobación: 
+11:44:38: Se digita el Año de Aprobación: 18-12-0371
+11:44:38: Se manda click al botón Consultar
+11:44:45: Se navega a la URL: https://tramitesdigitales.sat.gob.mx/Sicofi.ValidacionCFD/Default.aspx
+11:44:45: Se toma screenshot y se procesar CAPTCHA con valor: yV7Yf
+11:44:46: Se digita el captcha con valor: yV7Yf
+11:44:46: Se manda click al elemento Continuar
+11:44:46: Se digita el RFC del emisor: 014221110050.
+11:44:46: Se digita la serie: 
+11:44:46: Se digita el Folio del Comprobante: 
+11:44:46: Se digita el Número de Aprobación: 
+11:44:46: Se digita el Año de Aprobación: 77/12/3022
+11:44:46: Se manda click al botón Consultar

@@ -1,0 +1,60 @@
+Archivo LOG de reportes del 2019/02/15 17:01:16
+*******************************************************
+17:01:21: C:\Users\Fernanda Rey\Desktop\pruebas\Siniestros\04182635987
+17:01:21: Se busca comparar el archivo 20190128105758536 con un patrón de Póliza. sin OCR
+17:01:47: Se busca comparar el archivo 20190128105758536 con un patrón de Póliza
+17:01:47: Se busca comparar el archivo 20190128105758536 con un patrón de Factura
+17:01:47: Se encontró que el archivo 20190128105758536 es una Factura
+17:01:47: Se movió el documento 20190128105758536 al directorio de Factura
+17:01:47: Se busca comparar el archivo idc--59254917F con un patrón de Póliza. sin OCR
+17:01:47: Se busca comparar el archivo idc--59254917F con un patrón de Factura sin OCR. sin OCR
+17:01:47: Se encontró que el archivo idc--59254917F es una Factura. sin OCR
+17:01:47: Se movió el documento idc--59254917F al directorio de Factura. sin OCR
+17:01:47: Se busca comparar el archivo idc-73951168F con un patrón de Póliza. sin OCR
+17:01:53: Se busca comparar el archivo idc-73951168F con un patrón de Póliza
+17:01:53: Se busca comparar el archivo idc-73951168F con un patrón de Factura
+17:01:53: Se encontró que el archivo idc-73951168F es una Factura
+17:01:53: Se movió el documento idc-73951168F al directorio de Factura
+17:01:53: Se busca comparar el archivo idc-75266891F con un patrón de Póliza. sin OCR
+17:01:53: Se busca comparar el archivo idc-75266891F con un patrón de Factura sin OCR. sin OCR
+17:01:53: Se encontró que el archivo idc-75266891F es una Factura. sin OCR
+17:01:53: Se movió el documento idc-75266891F al directorio de Factura. sin OCR
+17:01:53: Se busca comparar el archivo idc-75393137F con un patrón de Póliza. sin OCR
+17:01:53: Se busca comparar el archivo idc-75393137F con un patrón de Factura sin OCR. sin OCR
+17:01:53: Se encontró que el archivo idc-75393137F es una Factura. sin OCR
+17:01:53: Se movió el documento idc-75393137F al directorio de Factura. sin OCR
+17:01:53: Se busca comparar el archivo idc-75514407F con un patrón de Póliza. sin OCR
+17:01:53: Se busca comparar el archivo idc-75514407F con un patrón de Factura sin OCR. sin OCR
+17:01:53: Se encontró que el archivo idc-75514407F es una Factura. sin OCR
+17:01:53: Se movió el documento idc-75514407F al directorio de Factura. sin OCR
+17:01:53: Se busca comparar el archivo idc-75514418F con un patrón de Póliza. sin OCR
+17:01:53: Se busca comparar el archivo idc-75514418F con un patrón de Factura sin OCR. sin OCR
+17:01:53: Se encontró que el archivo idc-75514418F es una Factura. sin OCR
+17:01:53: Se movió el documento idc-75514418F al directorio de Factura. sin OCR
+17:01:53: Se busca comparar el archivo idc-75515169F con un patrón de Póliza. sin OCR
+17:02:11: Se busca comparar el archivo idc-75515169F con un patrón de Póliza
+17:02:11: Se busca comparar el archivo idc-75515169F con un patrón de Factura
+17:02:11: Se encontró que el archivo idc-75515169F es una Factura
+17:02:11: Se movió el documento idc-75515169F al directorio de Factura
+17:02:12: Se busca comparar el archivo idc-75533026F con un patrón de Póliza. sin OCR
+17:02:12: Se busca comparar el archivo idc-75533026F con un patrón de Factura sin OCR. sin OCR
+17:02:12: Se encontró que el archivo idc-75533026F es una Factura. sin OCR
+17:02:12: Se movió el documento idc-75533026F al directorio de Factura. sin OCR
+17:02:12: Se busca comparar el archivo idc-75544378 con un patrón de Póliza. sin OCR
+17:02:12: Se busca comparar el archivo idc-75544378 con un patrón de Factura sin OCR. sin OCR
+17:02:12: Se encontró que el archivo idc-75544378 es una Factura. sin OCR
+17:02:12: Se movió el documento idc-75544378 al directorio de Factura. sin OCR
+17:02:23: Se accede a la URL: http://www2.repuve.gob.mx:8080/ciudadania/
+17:02:42: Se toma captura a la pantalla y se procesa captcha con valor: r8we
+17:02:43: Se ingresa el número de serie: 
+17:02:45: Se ingresa el captcha: r8we
+17:02:52: Se manda click al botón buscar
+17:04:00: Se accede a la URL: http://www2.repuve.gob.mx:8080/ciudadania/
+17:04:07: Se toma captura a la pantalla y se procesa captcha con valor: 
+17:04:07: Se ingresa el número de serie: WBAVL9109CVT77514
+17:04:09: Se ingresa el captcha: 
+17:04:53: Se manda click al botón buscar
+17:05:04: Se toma captura a la pantalla y se procesa captcha con valor: 
+17:05:04: Se ingresa el número de serie: WBAVL9109CVT77514
+17:05:06: Se ingresa el captcha: 
+17:05:06: Se manda click al botón buscar

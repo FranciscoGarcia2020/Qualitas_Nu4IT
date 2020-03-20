@@ -1,0 +1,20 @@
+Archivo LOG de reportes del 2019/02/15 13:29:35
+*******************************************************
+13:29:40: C:\Users\Fernanda Rey\Desktop\pruebas\Siniestros\04182635987
+13:29:40: Se busca comparar el archivo 20190128105758536 con un patrón de Póliza. sin OCR
+13:30:06: Se busca comparar el archivo 20190128105758536 con un patrón de Póliza
+13:30:06: Se busca comparar el archivo 20190128105758536 con un patrón de Factura
+13:30:06: Se encontró que el archivo 20190128105758536 es una Factura
+13:30:06: Se movió el documento 20190128105758536 al directorio de Factura
+13:30:06: Se busca comparar el archivo idc--59254917F con un patrón de Póliza. sin OCR
+13:30:06: Se busca comparar el archivo idc--59254917F con un patrón de Factura sin OCR. sin OCR
+13:30:06: Se encontró que el archivo idc--59254917F es una Factura. sin OCR
+13:30:06: Se movió el documento idc--59254917F al directorio de Factura. sin OCR
+13:30:06: Se busca comparar el archivo idc-73951168F con un patrón de Póliza. sin OCR
+13:30:12: Se busca comparar el archivo idc-73951168F con un patrón de Póliza
+13:30:12: Se busca comparar el archivo idc-73951168F con un patrón de Factura
+13:30:12: Se encontró que el archivo idc-73951168F es una Factura
+13:30:12: Se movió el documento idc-73951168F al directorio de Factura
+13:30:12: Se busca comparar el archivo idc-75266891F con un patrón de Póliza. sin OCR
+13:30:12: Se busca comparar el archivo idc-75266891F con un patrón de Factura sin OCR. sin OCR
+13:30:12: Se encontró que el archivo idc-75266891F es una Factura. sin OCR

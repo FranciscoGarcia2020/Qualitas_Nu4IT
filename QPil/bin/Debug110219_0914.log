@@ -1,0 +1,8 @@
+Archivo LOG de reportes del 2019/02/11 09:14:34
+*******************************************************
+09:14:34: Iniciando QContent descarga de documentos
+09:18:13: Se busca comparar el archivo 20190128105758536 con un patrón de Póliza. sin OCR
+09:18:41: Se busca comparar el archivo 20190128105758536 con un patrón de Póliza
+09:18:41: Se busca comparar el archivo 20190128105758536 con un patrón de Factura
+09:18:41: Se encontró que el archivo 20190128105758536 es una Factura
+09:18:41: Se movió el documento 20190128105758536 al directorio de Factura

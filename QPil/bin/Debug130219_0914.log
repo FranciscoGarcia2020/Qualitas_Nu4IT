@@ -1,0 +1,63 @@
+Archivo LOG de reportes del 2019/02/13 09:14:31
+*******************************************************
+09:14:31: Iniciando QContent descarga de documentos
+09:14:32: Se busca comparar el archivo 20190128105758536 con un patrón de Póliza. sin OCR
+09:15:04: Se busca comparar el archivo 20190128105758536 con un patrón de Póliza
+09:15:04: Se busca comparar el archivo 20190128105758536 con un patrón de Factura
+09:15:04: Se encontró que el archivo 20190128105758536 es una Factura
+09:15:04: Se movió el documento 20190128105758536 al directorio de Factura
+09:15:04: Se busca comparar el archivo idc--59254917F con un patrón de Póliza. sin OCR
+09:15:04: Se busca comparar el archivo idc--59254917F con un patrón de Factura sin OCR. sin OCR
+09:15:04: Se encontró que el archivo idc--59254917F es una Factura. sin OCR
+09:15:04: Se movió el documento idc--59254917F al directorio de Factura. sin OCR
+09:15:04: Se busca comparar el archivo idc-73951168F con un patrón de Póliza. sin OCR
+09:15:10: Se busca comparar el archivo idc-73951168F con un patrón de Póliza
+09:15:10: Se busca comparar el archivo idc-73951168F con un patrón de Factura
+09:15:10: Se encontró que el archivo idc-73951168F es una Factura
+09:15:10: Se movió el documento idc-73951168F al directorio de Factura
+09:15:18: Se navega a la URL: https://tramitesdigitales.sat.gob.mx/Sicofi.ValidacionCFD/Default.aspx
+09:15:19: Se toma screenshot y se procesar CAPTCHA con valor: yV7Yf
+09:15:19: Se digita el captcha con valor: yV7Yf
+09:15:20: Se manda click al elemento Continuar
+09:15:20: Se digita el RFC del emisor: AUT091023H43
+09:15:20: Se digita la serie: 
+09:15:20: Se digita el Folio del Comprobante: 
+09:15:20: Se digita el Número de Aprobación: 
+09:15:20: Se digita el Año de Aprobación: 
+09:15:20: Se manda click al botón Consultar
+09:17:59: Se navega a la URL: https://tramitesdigitales.sat.gob.mx/Sicofi.ValidacionCFD/Default.aspx
+09:17:59: Se toma screenshot y se procesar CAPTCHA con valor: yV7Yf
+09:17:59: Se digita el captcha con valor: yV7Yf
+09:18:00: Se manda click al elemento Continuar
+09:18:00: Se digita el RFC del emisor: AUT091023H46
+09:18:00: Se digita la serie: E
+09:18:00: Se digita el Folio del Comprobante: 0000897
+09:18:00: Se digita el Número de Aprobación: 424694
+09:18:00: Se digita el Año de Aprobación: 2011
+09:18:01: Se manda click al botón Consultar
+09:24:11: Se encontró el siguiente error: System.NullReferenceException: Referencia a objeto no establecida como instancia de un objeto.
+   en QPil.Procesos.CaptchaSAT.ProcesoCaptchaSat(DataRow datos) en C:\Users\Fernanda Rey\Desktop\RepoQualitas\QPil\Procesos\CaptchaSAT.cs:línea 280
+09:24:16: Se navega a la URL: https://tramitesdigitales.sat.gob.mx/Sicofi.ValidacionCFD/Default.aspx
+09:24:16: Se toma screenshot y se procesar CAPTCHA con valor: yV7Yf
+09:24:16: Se digita el captcha con valor: yV7Yf
+09:24:17: Se manda click al elemento Continuar
+09:24:17: Se digita el RFC del emisor: OKE100921P813
+09:24:17: Se digita la serie: WAU9FD8T3EA007986
+09:24:17: Se digita el Folio del Comprobante: EANI00000116
+09:24:17: Se digita el Número de Aprobación: 
+09:24:17: Se digita el Año de Aprobación: 14-04-07
+09:24:17: Se manda click al botón Consultar
+09:24:22: Se encontró el siguiente error: System.NullReferenceException: Referencia a objeto no establecida como instancia de un objeto.
+   en QPil.Procesos.CaptchaSAT.ProcesoCaptchaSat(DataRow datos) en C:\Users\Fernanda Rey\Desktop\RepoQualitas\QPil\Procesos\CaptchaSAT.cs:línea 186
+09:24:26: Se navega a la URL: https://tramitesdigitales.sat.gob.mx/Sicofi.ValidacionCFD/Default.aspx
+09:24:26: Se toma screenshot y se procesar CAPTCHA con valor: yV7Yf
+09:24:26: Se digita el captcha con valor: yV7Yf
+09:24:27: Se manda click al elemento Continuar
+09:24:27: Se digita el RFC del emisor: 1012232530171
+09:24:27: Se digita la serie: 
+09:24:27: Se digita el Folio del Comprobante: 
+09:24:27: Se digita el Número de Aprobación: 
+09:24:27: Se digita el Año de Aprobación: 
+09:24:27: Se manda click al botón Consultar
+16:32:05: Se encontró el siguiente error: System.NullReferenceException: Referencia a objeto no establecida como instancia de un objeto.
+   en QPil.Procesos.CaptchaSAT.ProcesoCaptchaSat(DataRow datos) en C:\Users\Fernanda Rey\Desktop\RepoQualitas\QPil\Procesos\CaptchaSAT.cs:línea 186

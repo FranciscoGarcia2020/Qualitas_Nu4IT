@@ -1,0 +1,22 @@
+Archivo LOG de reportes del 2019/02/11 09:27:01
+*******************************************************
+09:27:01: Iniciando QContent descarga de documentos
+09:28:50: Se busca comparar el archivo 20190128105758536 con un patrón de Póliza. sin OCR
+09:29:44: Se busca comparar el archivo 20190128105758536 con un patrón de Póliza
+09:29:48: Se busca comparar el archivo 20190128105758536 con un patrón de Factura
+09:29:49: Se encontró que el archivo 20190128105758536 es una Factura
+09:29:50: Se movió el documento 20190128105758536 al directorio de Factura
+09:31:44: Se busca comparar el archivo idc--59254917F con un patrón de Póliza. sin OCR
+09:31:44: Se busca comparar el archivo idc--59254917F con un patrón de Factura sin OCR. sin OCR
+09:31:44: Se encontró que el archivo idc--59254917F es una Factura. sin OCR
+09:31:44: Se movió el documento idc--59254917F al directorio de Factura. sin OCR
+09:31:58: Se navega a la URL: https://tramitesdigitales.sat.gob.mx/Sicofi.ValidacionCFD/Default.aspx
+09:31:58: Se toma screenshot y se procesar CAPTCHA con valor: yV7Yf
+09:31:58: Se digita el captcha con valor: yV7Yf
+09:32:01: Se manda click al elemento Continuar
+09:32:01: Se digita el RFC del emisor: AUT091023H43
+09:32:01: Se digita la serie: 
+09:32:01: Se digita el Folio del Comprobante: 
+09:32:01: Se digita el Número de Aprobación: 
+09:32:01: Se digita el Año de Aprobación: 
+09:32:01: Se manda click al botón Consultar

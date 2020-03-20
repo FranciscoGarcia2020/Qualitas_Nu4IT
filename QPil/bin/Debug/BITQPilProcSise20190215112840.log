@@ -1,0 +1,70 @@
+Archivo LOG de reportes del 2019/02/15 11:28:51
+*******************************************************
+11:28:56: C:\Users\Fernanda Rey\Desktop\pruebas\Siniestros\04182635987
+11:28:56: Se busca comparar el archivo 20190128105758536 con un patrón de Póliza. sin OCR
+11:29:22: Se busca comparar el archivo 20190128105758536 con un patrón de Póliza
+11:29:22: Se busca comparar el archivo 20190128105758536 con un patrón de Factura
+11:29:22: Se encontró que el archivo 20190128105758536 es una Factura
+11:29:22: Se movió el documento 20190128105758536 al directorio de Factura
+11:29:22: Se busca comparar el archivo idc-75544378 con un patrón de Póliza. sin OCR
+11:29:22: Se busca comparar el archivo idc-75544378 con un patrón de Factura sin OCR. sin OCR
+11:29:22: Se encontró que el archivo idc-75544378 es una Factura. sin OCR
+11:29:22: Se movió el documento idc-75544378 al directorio de Factura. sin OCR
+11:29:27: Se navega a la URL: https://tramitesdigitales.sat.gob.mx/Sicofi.ValidacionCFD/Default.aspx
+11:29:27: Se toma screenshot y se procesar CAPTCHA con valor: yV7Yf
+11:29:27: Se digita el captcha con valor: yV7Yf
+11:29:28: Se manda click al elemento Continuar
+11:29:28: Se digita el RFC del emisor: AUT091023H43
+11:29:28: Se digita la serie: 
+11:29:28: Se digita el Folio del Comprobante: 
+11:29:28: Se digita el Número de Aprobación: 
+11:29:28: Se digita el Año de Aprobación: 
+11:29:28: Se manda click al botón Consultar
+11:29:48: Se navega a la URL: https://tramitesdigitales.sat.gob.mx/Sicofi.ValidacionCFD/Default.aspx
+11:29:48: Se toma screenshot y se procesar CAPTCHA con valor: yV7Yf
+11:29:49: Se digita el captcha con valor: yV7Yf
+11:29:49: Se manda click al elemento Continuar
+11:29:49: Se digita el RFC del emisor: 
+11:29:49: Se digita la serie: 
+11:29:49: Se digita el Folio del Comprobante: 
+11:29:49: Se digita el Número de Aprobación: 
+11:29:49: Se digita el Año de Aprobación: 
+11:29:50: Se manda click al botón Consultar
+11:29:57: Se navega a la URL: https://verificacfdi.facturaelectronica.sat.gob.mx/
+11:29:59: Se ingresó folio fiscal: 
+11:30:00: Se ingresó RFC de Emisor: 
+11:30:00: Se ingresó RFC de Receptor: 
+11:30:00: Se ingresó Captcha: 
+11:30:19: Se navega a la URL: https://verificacfdi.facturaelectronica.sat.gob.mx/
+11:30:21: Se ingresó folio fiscal: 
+11:30:21: Se ingresó RFC de Emisor: 
+11:30:21: Se ingresó RFC de Receptor: 
+11:30:21: Se ingresó Captcha: 
+11:30:32: Se accede a la URL: http://www2.repuve.gob.mx:8080/ciudadania/
+11:30:33: Se toma captura a la pantalla y se procesa captcha con valor: 9852
+11:30:33: Se ingresa el número de serie: 
+11:30:36: Se ingresa el captcha: 9852
+11:30:36: Se manda click al botón buscar
+11:31:16: Se accede a la URL: http://www2.repuve.gob.mx:8080/ciudadania/
+11:31:17: Se toma captura a la pantalla y se procesa captcha con valor: hk9
+11:31:18: Se ingresa el número de serie: 
+11:31:20: Se ingresa el captcha: hk9
+11:31:20: Se manda click al botón buscar
+11:32:20: Se accede a la URL: http://www2.repuve.gob.mx:8080/ciudadania/
+11:32:21: Se toma captura a la pantalla y se procesa captcha con valor: 2EU
+11:32:21: Se ingresa el número de serie: 
+11:32:23: Se ingresa el captcha: 2EU
+11:32:23: Se manda click al botón buscar
+11:32:34: Se encontró el siguiente error: OpenQA.Selenium.WebDriverException: no such session
+  (Driver info: chromedriver=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb),platform=Windows NT 10.0.17134 x86_64)
+   en OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   en OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   en OpenQA.Selenium.Remote.RemoteWebDriver.set_Url(String value)
+   en OpenQA.Selenium.Remote.RemoteNavigator.GoToUrl(String url)
+   en QPil.Procesos.CaptchaRepuve.ProcesoCaptchaRepuve(DataRow datos) en C:\Users\Fernanda Rey\Desktop\RepoQualitas\QPil\Procesos\CaptchaRepuve.cs:línea 89
+11:32:36: Se encontró el siguiente error: OpenQA.Selenium.WebDriverException: no such session
+  (Driver info: chromedriver=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb),platform=Windows NT 10.0.17134 x86_64)
+   en OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   en OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   en OpenQA.Selenium.Remote.RemoteWebDriver.Close()
+   en QPil.Procesos.CaptchaRepuve.ProcesoCaptchaRepuve(DataRow datos) en C:\Users\Fernanda Rey\Desktop\RepoQualitas\QPil\Procesos\CaptchaRepuve.cs:línea 156

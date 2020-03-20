@@ -1,0 +1,75 @@
+Archivo LOG de reportes del 2019/02/15 12:35:23
+*******************************************************
+12:35:28: C:\Users\Fernanda Rey\Desktop\pruebas\Siniestros\04182635987
+12:35:29: Se busca comparar el archivo 20190128105758536 con un patrón de Póliza. sin OCR
+12:35:56: Se busca comparar el archivo 20190128105758536 con un patrón de Póliza
+12:35:56: Se busca comparar el archivo 20190128105758536 con un patrón de Factura
+12:35:56: Se encontró que el archivo 20190128105758536 es una Factura
+12:35:56: Se movió el documento 20190128105758536 al directorio de Factura
+12:35:56: Se busca comparar el archivo idc-75266891F con un patrón de Póliza. sin OCR
+12:35:56: Se busca comparar el archivo idc-75266891F con un patrón de Factura sin OCR. sin OCR
+12:35:56: Se encontró que el archivo idc-75266891F es una Factura. sin OCR
+12:35:56: Se movió el documento idc-75266891F al directorio de Factura. sin OCR
+12:35:56: Se busca comparar el archivo idc-75544378 con un patrón de Póliza. sin OCR
+12:35:56: Se busca comparar el archivo idc-75544378 con un patrón de Factura sin OCR. sin OCR
+12:35:56: Se encontró que el archivo idc-75544378 es una Factura. sin OCR
+12:35:56: Se movió el documento idc-75544378 al directorio de Factura. sin OCR
+12:36:02: Se navega a la URL: https://tramitesdigitales.sat.gob.mx/Sicofi.ValidacionCFD/Default.aspx
+12:36:02: Se toma screenshot y se procesar CAPTCHA con valor: yV7Yf
+12:36:02: Se digita el captcha con valor: yV7Yf
+12:36:03: Se manda click al elemento Continuar
+12:36:03: Se digita el RFC del emisor: AUT091023H43
+12:36:03: Se digita la serie: 
+12:36:03: Se digita el Folio del Comprobante: 
+12:36:03: Se digita el Número de Aprobación: 
+12:36:03: Se digita el Año de Aprobación: 
+12:36:03: Se manda click al botón Consultar
+12:36:10: Se navega a la URL: https://tramitesdigitales.sat.gob.mx/Sicofi.ValidacionCFD/Default.aspx
+12:36:11: Se toma screenshot y se procesar CAPTCHA con valor: yV7Yf
+12:36:11: Se digita el captcha con valor: yV7Yf
+12:36:11: Se manda click al elemento Continuar
+12:36:11: Se digita el RFC del emisor: PAU-831108-IV2
+12:36:11: Se digita la serie: 9BWCCO5W8
+12:36:12: Se digita el Folio del Comprobante: 1787
+12:36:12: Se digita el Número de Aprobación: 
+12:36:12: Se digita el Año de Aprobación: MERIDA,
+12:36:12: Se manda click al botón Consultar
+12:36:18: Se navega a la URL: https://tramitesdigitales.sat.gob.mx/Sicofi.ValidacionCFD/Default.aspx
+12:36:18: Se toma screenshot y se procesar CAPTCHA con valor: yV7Yf
+12:36:18: Se digita el captcha con valor: yV7Yf
+12:36:19: Se manda click al elemento Continuar
+12:36:19: Se digita el RFC del emisor: 
+12:36:19: Se digita la serie: 
+12:36:19: Se digita el Folio del Comprobante: 
+12:36:19: Se digita el Número de Aprobación: 
+12:36:19: Se digita el Año de Aprobación: 
+12:36:19: Se manda click al botón Consultar
+12:36:25: Se navega a la URL: https://verificacfdi.facturaelectronica.sat.gob.mx/
+12:36:27: Se ingresó folio fiscal: 
+12:36:27: Se ingresó RFC de Emisor: 
+12:36:27: Se ingresó RFC de Receptor: 
+12:36:27: Se ingresó Captcha: 
+12:36:37: Se navega a la URL: https://verificacfdi.facturaelectronica.sat.gob.mx/
+12:36:39: Se ingresó folio fiscal: 
+12:36:39: Se ingresó RFC de Emisor: 
+12:36:40: Se ingresó RFC de Receptor: 
+12:36:40: Se ingresó Captcha: 
+12:36:49: Se navega a la URL: https://verificacfdi.facturaelectronica.sat.gob.mx/
+12:36:51: Se ingresó folio fiscal: 
+12:36:51: Se ingresó RFC de Emisor: 
+12:36:51: Se ingresó RFC de Receptor: 
+12:36:51: Se ingresó Captcha: 
+12:39:31: Se accede a la URL: http://www2.repuve.gob.mx:8080/ciudadania/
+12:39:49: Se toma captura a la pantalla y se procesa captcha con valor: 
+12:39:49: Se ingresa el número de serie: 
+12:39:52: Se ingresa el captcha: 
+12:39:52: Se manda click al botón buscar
+12:41:20: Se accede a la URL: http://www2.repuve.gob.mx:8080/ciudadania/
+12:41:21: Se toma captura a la pantalla y se procesa captcha con valor: 26b
+12:41:21: Se ingresa el número de serie: WBAVL9109DVT77514
+12:41:23: Se ingresa el captcha: 26b
+12:41:24: Se manda click al botón buscar
+12:41:33: Se manda click al elemento PGJ
+12:41:38: El vehiculo con serie WAU9FD8T3EA007986tiene el siguiente reporte en PGJ: Sin Reporte de Robo
+12:41:39: Se manda click al elemento OCRA
+12:41:40: El vehiculo con serie WAU9FD8T3EA007986  tiene el siguiente reporte en OCRA: Sin Reporte de Robo

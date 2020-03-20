@@ -1,0 +1,75 @@
+Archivo LOG de reportes del 2019/02/15 08:48:00
+*******************************************************
+08:48:05: C:\Users\Fernanda Rey\Desktop\pruebas\Siniestros\04182635987
+08:48:05: Se busca comparar el archivo 20190128105758536 con un patrón de Póliza. sin OCR
+08:48:32: Se busca comparar el archivo 20190128105758536 con un patrón de Póliza
+08:48:32: Se busca comparar el archivo 20190128105758536 con un patrón de Factura
+08:48:32: Se encontró que el archivo 20190128105758536 es una Factura
+08:48:32: Se movió el documento 20190128105758536 al directorio de Factura
+08:48:33: Se busca comparar el archivo idc-75544378 con un patrón de Póliza. sin OCR
+08:48:33: Se busca comparar el archivo idc-75544378 con un patrón de Factura sin OCR. sin OCR
+08:48:33: Se encontró que el archivo idc-75544378 es una Factura. sin OCR
+08:48:33: Se movió el documento idc-75544378 al directorio de Factura. sin OCR
+08:48:33: Se busca comparar el archivo idc-75544385 con un patrón de Póliza. sin OCR
+08:48:33: Se busca comparar el archivo idc-75544385 con un patrón de Factura sin OCR. sin OCR
+08:48:33: Se encontró que el archivo idc-75544385 es una Factura. sin OCR
+08:48:33: Se movió el documento idc-75544385 al directorio de Factura. sin OCR
+08:48:33: Se busca comparar el archivo idc-78792276 con un patrón de Póliza. sin OCR
+08:48:33: Se busca comparar el archivo idc-78792276 con un patrón de Factura sin OCR. sin OCR
+08:48:33: Se encontró que el archivo idc-78792276 es una Factura. sin OCR
+08:48:33: Se movió el documento idc-78792276 al directorio de Factura. sin OCR
+08:48:49: Se navega a la URL: https://tramitesdigitales.sat.gob.mx/Sicofi.ValidacionCFD/Default.aspx
+08:48:49: Se toma screenshot y se procesar CAPTCHA con valor: yV7Yf
+08:48:49: Se digita el captcha con valor: yV7Yf
+08:48:49: Se manda click al elemento Continuar
+08:48:49: Se digita el RFC del emisor: AUT091023H43
+08:48:49: Se digita la serie: 
+08:48:49: Se digita el Folio del Comprobante: 
+08:48:50: Se digita el Número de Aprobación: 
+08:48:50: Se digita el Año de Aprobación: 
+08:48:50: Se manda click al botón Consultar
+08:48:56: Se navega a la URL: https://tramitesdigitales.sat.gob.mx/Sicofi.ValidacionCFD/Default.aspx
+08:48:56: Se toma screenshot y se procesar CAPTCHA con valor: yV7Yf
+08:48:56: Se digita el captcha con valor: yV7Yf
+08:48:57: Se manda click al elemento Continuar
+08:48:57: Se digita el RFC del emisor: 
+08:48:57: Se digita la serie: 
+08:48:57: Se digita el Folio del Comprobante: 
+08:48:57: Se digita el Número de Aprobación: 
+08:48:57: Se digita el Año de Aprobación: 
+08:48:57: Se manda click al botón Consultar
+08:49:14: Se navega a la URL: https://tramitesdigitales.sat.gob.mx/Sicofi.ValidacionCFD/Default.aspx
+08:49:14: Se toma screenshot y se procesar CAPTCHA con valor: yV7Yf
+08:49:14: Se digita el captcha con valor: yV7Yf
+08:49:14: Se manda click al elemento Continuar
+08:49:14: Se digita el RFC del emisor: 04180618736Af
+08:49:15: Se digita la serie: 3C6JRBCT8JG158859
+08:49:15: Se digita el Folio del Comprobante: 2929
+08:49:15: Se digita el Número de Aprobación: 
+08:49:15: Se digita el Año de Aprobación: 18-10-01
+08:49:15: Se manda click al botón Consultar
+08:49:35: Se navega a la URL: https://tramitesdigitales.sat.gob.mx/Sicofi.ValidacionCFD/Default.aspx
+08:49:35: Se toma screenshot y se procesar CAPTCHA con valor: yV7Yf
+08:49:35: Se digita el captcha con valor: yV7Yf
+08:49:36: Se manda click al elemento Continuar
+08:49:36: Se digita el RFC del emisor: ajvA141303•vom
+08:49:36: Se digita la serie: 3SCPZWDE731016324
+08:49:36: Se digita el Folio del Comprobante: 
+08:49:36: Se digita el Número de Aprobación: 
+08:49:36: Se digita el Año de Aprobación: Emisión
+08:49:36: Se manda click al botón Consultar
+08:50:00: Se navega a la URL: https://verificacfdi.facturaelectronica.sat.gob.mx/
+08:50:02: Se ingresó folio fiscal: 
+08:50:02: Se ingresó RFC de Emisor: 
+08:50:02: Se ingresó RFC de Receptor: 
+08:50:03: Se ingresó Captcha: 
+08:50:30: Se navega a la URL: https://verificacfdi.facturaelectronica.sat.gob.mx/
+08:50:32: Se ingresó folio fiscal: 
+08:50:32: Se ingresó RFC de Emisor: 
+08:50:32: Se ingresó RFC de Receptor: 
+08:50:32: Se ingresó Captcha: 
+08:55:25: Se navega a la URL: https://verificacfdi.facturaelectronica.sat.gob.mx/
+08:55:27: Se ingresó folio fiscal: 
+08:55:27: Se ingresó RFC de Emisor: 
+08:55:27: Se ingresó RFC de Receptor: 
+08:55:27: Se ingresó Captcha: 

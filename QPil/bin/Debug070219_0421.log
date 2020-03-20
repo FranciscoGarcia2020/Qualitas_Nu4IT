@@ -1,0 +1,30 @@
+Archivo LOG de reportes del 2019/02/07 16:21:36
+*******************************************************
+16:21:36: Iniciando QContent descarga de documentos
+16:21:40: Se busca comparar el archivo idc--59254911P con un patrón de Póliza. sin OCR
+16:21:40: Se encontró que el archivo idc--59254911P es una Póliza. sin OCR
+16:21:40: Se movió el documento idc--59254911P al directorio de Poliza. sin OCR
+16:21:40: Se extrajo poliza: 2660279436 endoso: 000000 inciso:0001
+16:21:40: Se extrajo serie: WAU9FDET.11
+16:21:40: Se extrajo modelo: 
+16:21:40: Se extrajo motor: 
+16:21:40: Se extrajo DM:  5%
+16:21:40: Se extrajo RT:  5%
+16:22:16: Se busca comparar el archivo idc--59254916T con un patrón de Póliza. sin OCR
+16:22:18: Se busca comparar el archivo idc--59254916T con un patrón de Tenencia sin OCR. sin OCR
+16:22:19: Se encontró que el archivo idc--59254916T es una Tenencia. sin OCR
+16:22:19: Se movió el documento idc--59254916T al directorio de Tenencia. sin OCR
+16:22:30: Se busca comparar el archivo idc--59254917F con un patrón de Póliza. sin OCR
+16:22:31: Se busca comparar el archivo idc--59254917F con un patrón de Factura sin OCR. sin OCR
+16:22:32: Se encontró que el archivo idc--59254917F es una Factura. sin OCR
+16:22:33: Se movió el documento idc--59254917F al directorio de Factura. sin OCR
+16:23:10: Se navega a la URL: https://tramitesdigitales.sat.gob.mx/Sicofi.ValidacionCFD/Default.aspx
+16:23:13: Se toma screenshot y se procesar CAPTCHA con valor: yV7Yf
+16:23:13: Se digita el captcha con valor: yV7Yf
+16:23:13: Se manda click al elemento Continuar
+16:23:14: Se digita el RFC del emisor: OKE100921P813
+16:23:14: Se digita la serie: WAU9FD8T3EA007986
+16:23:14: Se digita el Folio del Comprobante: EANI00000116
+16:23:14: Se digita el Número de Aprobación: 
+16:23:14: Se digita el Año de Aprobación: 14-04-07
+16:23:14: Se manda click al botón Consultar

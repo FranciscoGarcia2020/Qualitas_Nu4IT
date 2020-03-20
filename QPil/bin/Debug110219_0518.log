@@ -1,0 +1,60 @@
+Archivo LOG de reportes del 2019/02/11 17:18:52
+*******************************************************
+17:18:52: Iniciando QContent descarga de documentos
+17:18:52: Se busca comparar el archivo 20190128105758536 con un patrón de Póliza. sin OCR
+17:19:18: Se busca comparar el archivo 20190128105758536 con un patrón de Póliza
+17:19:18: Se busca comparar el archivo 20190128105758536 con un patrón de Factura
+17:19:18: Se encontró que el archivo 20190128105758536 es una Factura
+17:19:18: Se movió el documento 20190128105758536 al directorio de Factura
+17:19:18: Se busca comparar el archivo idc--59254917F con un patrón de Póliza. sin OCR
+17:19:18: Se busca comparar el archivo idc--59254917F con un patrón de Factura sin OCR. sin OCR
+17:19:18: Se encontró que el archivo idc--59254917F es una Factura. sin OCR
+17:19:18: Se movió el documento idc--59254917F al directorio de Factura. sin OCR
+17:19:18: Se busca comparar el archivo idc-73951168F con un patrón de Póliza. sin OCR
+17:19:24: Se busca comparar el archivo idc-73951168F con un patrón de Póliza
+17:19:24: Se busca comparar el archivo idc-73951168F con un patrón de Factura
+17:19:24: Se encontró que el archivo idc-73951168F es una Factura
+17:19:24: Se movió el documento idc-73951168F al directorio de Factura
+17:19:24: Se busca comparar el archivo idc-75266891F con un patrón de Póliza. sin OCR
+17:19:24: Se busca comparar el archivo idc-75266891F con un patrón de Factura sin OCR. sin OCR
+17:19:24: Se encontró que el archivo idc-75266891F es una Factura. sin OCR
+17:19:24: Se movió el documento idc-75266891F al directorio de Factura. sin OCR
+17:19:24: Se busca comparar el archivo idc-75393137F con un patrón de Póliza. sin OCR
+17:19:24: Se busca comparar el archivo idc-75393137F con un patrón de Factura sin OCR. sin OCR
+17:19:24: Se encontró que el archivo idc-75393137F es una Factura. sin OCR
+17:19:24: Se movió el documento idc-75393137F al directorio de Factura. sin OCR
+17:19:24: Se busca comparar el archivo idc-75487755F con un patrón de Póliza. sin OCR
+17:19:24: Se busca comparar el archivo idc-75487755F con un patrón de Factura sin OCR. sin OCR
+17:19:24: Se encontró que el archivo idc-75487755F es una Factura. sin OCR
+17:19:24: Se movió el documento idc-75487755F al directorio de Factura. sin OCR
+17:19:24: Se busca comparar el archivo idc-75514407F con un patrón de Póliza. sin OCR
+17:19:24: Se busca comparar el archivo idc-75514407F con un patrón de Factura sin OCR. sin OCR
+17:19:24: Se encontró que el archivo idc-75514407F es una Factura. sin OCR
+17:19:24: Se movió el documento idc-75514407F al directorio de Factura. sin OCR
+17:19:24: Se busca comparar el archivo idc-75514418F con un patrón de Póliza. sin OCR
+17:19:24: Se busca comparar el archivo idc-75514418F con un patrón de Factura sin OCR. sin OCR
+17:19:24: Se encontró que el archivo idc-75514418F es una Factura. sin OCR
+17:19:24: Se movió el documento idc-75514418F al directorio de Factura. sin OCR
+17:19:24: Se busca comparar el archivo idc-75515169F con un patrón de Póliza. sin OCR
+17:19:42: Se busca comparar el archivo idc-75515169F con un patrón de Póliza
+17:19:42: Se busca comparar el archivo idc-75515169F con un patrón de Factura
+17:19:42: Se encontró que el archivo idc-75515169F es una Factura
+17:19:42: Se movió el documento idc-75515169F al directorio de Factura
+17:19:42: Se busca comparar el archivo idc-75517259F con un patrón de Póliza. sin OCR
+17:19:42: Se busca comparar el archivo idc-75517259F con un patrón de Factura sin OCR. sin OCR
+17:19:42: Se encontró que el archivo idc-75517259F es una Factura. sin OCR
+17:19:42: Se movió el documento idc-75517259F al directorio de Factura. sin OCR
+17:19:42: Se busca comparar el archivo idc-75533026F con un patrón de Póliza. sin OCR
+17:19:42: Se busca comparar el archivo idc-75533026F con un patrón de Factura sin OCR. sin OCR
+17:19:43: Se encontró que el archivo idc-75533026F es una Factura. sin OCR
+17:19:43: Se movió el documento idc-75533026F al directorio de Factura. sin OCR
+17:19:52: Se navega a la URL: https://tramitesdigitales.sat.gob.mx/Sicofi.ValidacionCFD/Default.aspx
+17:19:52: Se toma screenshot y se procesar CAPTCHA con valor: yV7Yf
+17:19:52: Se digita el captcha con valor: yV7Yf
+17:19:58: Se manda click al elemento Continuar
+17:19:58: Se digita el RFC del emisor: AUT091023H43
+17:19:58: Se digita la serie: 
+17:19:58: Se digita el Folio del Comprobante: 
+17:19:58: Se digita el Número de Aprobación: 
+17:19:58: Se digita el Año de Aprobación: 
+17:19:58: Se manda click al botón Consultar

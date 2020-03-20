@@ -1,0 +1,103 @@
+Archivo LOG de reportes del 2019/02/15 12:48:19
+*******************************************************
+12:48:24: C:\Users\Fernanda Rey\Desktop\pruebas\Siniestros\04182635987
+12:48:24: Se busca comparar el archivo 20190128105758536 con un patrón de Póliza. sin OCR
+12:48:51: Se busca comparar el archivo 20190128105758536 con un patrón de Póliza
+12:48:51: Se busca comparar el archivo 20190128105758536 con un patrón de Factura
+12:48:51: Se encontró que el archivo 20190128105758536 es una Factura
+12:48:51: Se movió el documento 20190128105758536 al directorio de Factura
+12:48:51: Se busca comparar el archivo idc-75266891F con un patrón de Póliza. sin OCR
+12:48:51: Se busca comparar el archivo idc-75266891F con un patrón de Factura sin OCR. sin OCR
+12:48:51: Se encontró que el archivo idc-75266891F es una Factura. sin OCR
+12:48:51: Se movió el documento idc-75266891F al directorio de Factura. sin OCR
+12:48:51: Se busca comparar el archivo idc-75544378 con un patrón de Póliza. sin OCR
+12:48:51: Se busca comparar el archivo idc-75544378 con un patrón de Factura sin OCR. sin OCR
+12:48:51: Se encontró que el archivo idc-75544378 es una Factura. sin OCR
+12:48:51: Se movió el documento idc-75544378 al directorio de Factura. sin OCR
+12:48:57: Se navega a la URL: https://tramitesdigitales.sat.gob.mx/Sicofi.ValidacionCFD/Default.aspx
+12:48:57: Se toma screenshot y se procesar CAPTCHA con valor: yV7Yf
+12:48:57: Se digita el captcha con valor: yV7Yf
+12:48:58: Se manda click al elemento Continuar
+12:48:58: Se digita el RFC del emisor: AUT091023H43
+12:48:58: Se digita la serie: 
+12:48:58: Se digita el Folio del Comprobante: 
+12:48:58: Se digita el Número de Aprobación: 
+12:48:58: Se digita el Año de Aprobación: 
+12:48:58: Se manda click al botón Consultar
+12:49:09: Se navega a la URL: https://tramitesdigitales.sat.gob.mx/Sicofi.ValidacionCFD/Default.aspx
+12:49:10: Se toma screenshot y se procesar CAPTCHA con valor: yV7Yf
+12:49:10: Se digita el captcha con valor: yV7Yf
+12:49:10: Se manda click al elemento Continuar
+12:49:10: Se digita el RFC del emisor: PAU-831108-IV2
+12:49:11: Se digita la serie: 9BWCCO5W8
+12:49:11: Se digita el Folio del Comprobante: 1787
+12:49:11: Se digita el Número de Aprobación: 
+12:49:11: Se digita el Año de Aprobación: MERIDA,
+12:49:11: Se manda click al botón Consultar
+12:49:16: Se navega a la URL: https://tramitesdigitales.sat.gob.mx/Sicofi.ValidacionCFD/Default.aspx
+12:49:16: Se toma screenshot y se procesar CAPTCHA con valor: yV7Yf
+12:49:16: Se digita el captcha con valor: yV7Yf
+12:49:17: Se manda click al elemento Continuar
+12:49:17: Se digita el RFC del emisor: 
+12:49:17: Se digita la serie: 
+12:49:17: Se digita el Folio del Comprobante: 
+12:49:17: Se digita el Número de Aprobación: 
+12:49:17: Se digita el Año de Aprobación: 
+12:49:17: Se manda click al botón Consultar
+12:49:24: Se navega a la URL: https://verificacfdi.facturaelectronica.sat.gob.mx/
+12:49:26: Se ingresó folio fiscal: 
+12:49:26: Se ingresó RFC de Emisor: 
+12:49:27: Se ingresó RFC de Receptor: 
+12:49:27: Se ingresó Captcha: 
+12:49:36: Se navega a la URL: https://verificacfdi.facturaelectronica.sat.gob.mx/
+12:49:39: Se ingresó folio fiscal: 
+12:49:39: Se ingresó RFC de Emisor: 
+12:49:39: Se ingresó RFC de Receptor: 
+12:49:39: Se ingresó Captcha: 
+12:49:53: Se navega a la URL: https://verificacfdi.facturaelectronica.sat.gob.mx/
+12:49:55: Se ingresó folio fiscal: 
+12:49:55: Se ingresó RFC de Emisor: 
+12:49:55: Se ingresó RFC de Receptor: 
+12:49:55: Se ingresó Captcha: 
+12:50:14: Se accede a la URL: http://www2.repuve.gob.mx:8080/ciudadania/
+12:50:15: Se toma captura a la pantalla y se procesa captcha con valor: 8mhc
+12:50:15: Se ingresa el número de serie: 
+12:50:18: Se ingresa el captcha: 8mhc
+12:50:18: Se manda click al botón buscar
+12:50:52: Se accede a la URL: http://www2.repuve.gob.mx:8080/ciudadania/
+12:50:53: Se toma captura a la pantalla y se procesa captcha con valor: Vabv
+12:50:53: Se ingresa el número de serie: WBAVL9109DVT77514
+12:50:56: Se ingresa el captcha: Vabv
+12:50:56: Se manda click al botón buscar
+12:51:13: Se encontró el siguiente error: OpenQA.Selenium.WebDriverException: no such session
+  (Driver info: chromedriver=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb),platform=Windows NT 10.0.17134 x86_64)
+   en OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   en OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   en OpenQA.Selenium.Remote.RemoteWebDriver.set_Url(String value)
+   en OpenQA.Selenium.Remote.RemoteNavigator.GoToUrl(String url)
+   en QPil.Procesos.CaptchaRepuve.ProcesoCaptchaRepuve(DataRow datos, IWebDriver Driver) en C:\Users\Fernanda Rey\Desktop\RepoQualitas\QPil\Procesos\CaptchaRepuve.cs:línea 100
+12:51:15: Se encontró el siguiente error: OpenQA.Selenium.WebDriverException: no such session
+  (Driver info: chromedriver=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb),platform=Windows NT 10.0.17134 x86_64)
+   en OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   en OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   en OpenQA.Selenium.Remote.RemoteWebDriver.Close()
+   en QPil.Procesos.CaptchaRepuve.ProcesoCaptchaRepuve(DataRow datos, IWebDriver Driver) en C:\Users\Fernanda Rey\Desktop\RepoQualitas\QPil\Procesos\CaptchaRepuve.cs:línea 166
+12:51:20: Se accede a la URL: http://www2.repuve.gob.mx:8080/ciudadania/
+12:51:21: Se toma captura a la pantalla y se procesa captcha con valor: zckl
+12:51:21: Se ingresa el número de serie: 9BWCCO5W8
+12:51:24: Se ingresa el captcha: zckl
+12:51:24: Se manda click al botón buscar
+12:52:05: Se encontró el siguiente error: OpenQA.Selenium.WebDriverException: no such session
+  (Driver info: chromedriver=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb),platform=Windows NT 10.0.17134 x86_64)
+   en OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   en OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   en OpenQA.Selenium.Remote.RemoteWebDriver.set_Url(String value)
+   en OpenQA.Selenium.Remote.RemoteNavigator.GoToUrl(String url)
+   en QPil.Procesos.CaptchaRepuve.ProcesoCaptchaRepuve(DataRow datos, IWebDriver Driver) en C:\Users\Fernanda Rey\Desktop\RepoQualitas\QPil\Procesos\CaptchaRepuve.cs:línea 100
+12:52:10: Se accede a la URL: http://www2.repuve.gob.mx:8080/ciudadania/
+12:52:11: Se toma captura a la pantalla y se procesa captcha con valor: set
+12:52:11: Se ingresa el número de serie: 
+12:52:14: Se ingresa el captcha: set
+12:52:14: Se manda click al botón buscar
+12:58:15: C:\Users\Fernanda Rey\Desktop\RepoQualitas\QPil\bin\Debug\
+12:58:18: No se puede trabajar porque no se selecciona ningún archivo de siniestros

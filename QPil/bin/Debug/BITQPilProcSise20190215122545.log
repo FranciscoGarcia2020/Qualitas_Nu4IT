@@ -1,0 +1,33 @@
+Archivo LOG de reportes del 2019/02/15 12:26:24
+*******************************************************
+12:26:29: C:\Users\Fernanda Rey\Desktop\pruebas\Siniestros\04182635987
+12:26:29: Se busca comparar el archivo 20190128105758536 con un patrón de Póliza. sin OCR
+12:26:55: Se busca comparar el archivo 20190128105758536 con un patrón de Póliza
+12:26:55: Se busca comparar el archivo 20190128105758536 con un patrón de Factura
+12:26:55: Se encontró que el archivo 20190128105758536 es una Factura
+12:26:55: Se movió el documento 20190128105758536 al directorio de Factura
+12:26:55: Se busca comparar el archivo idc-73951175T con un patrón de Póliza. sin OCR
+12:27:01: Se busca comparar el archivo idc-73951175T con un patrón de Póliza
+12:27:01: Se busca comparar el archivo idc-73951175T con un patrón de Tenencia
+12:27:01: Se encontró que el archivo idc-73951175T es una Tenencia
+12:27:24: Excepción System.IO.IOException: No se puede crear un archivo que ya existe.
+
+   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.__Error.WinIOError()
+   en System.IO.File.InternalMove(String sourceFileName, String destFileName, Boolean checkHost)
+   en System.IO.File.Move(String sourceFileName, String destFileName)
+   en QPil.Procesos.ManejoDeDocumentos.leePDFconOCR(String nombreDirectorioSiniestro, String documento, String siniestro) en C:\Users\Fernanda Rey\Desktop\RepoQualitas\QPil\Procesos\ManejoDeDocumentos.cs:línea 303
+12:27:24: Se busca comparar el archivo idc-75544378 con un patrón de Póliza. sin OCR
+12:27:24: Se busca comparar el archivo idc-75544378 con un patrón de Factura sin OCR. sin OCR
+12:27:24: Se encontró que el archivo idc-75544378 es una Factura. sin OCR
+12:27:24: Se movió el documento idc-75544378 al directorio de Factura. sin OCR
+12:27:29: Se navega a la URL: https://tramitesdigitales.sat.gob.mx/Sicofi.ValidacionCFD/Default.aspx
+12:27:29: Se toma screenshot y se procesar CAPTCHA con valor: yV7Yf
+12:27:29: Se digita el captcha con valor: yV7Yf
+12:27:30: Se manda click al elemento Continuar
+12:27:30: Se digita el RFC del emisor: AUT091023H43
+12:27:30: Se digita la serie: 
+12:27:30: Se digita el Folio del Comprobante: 
+12:27:30: Se digita el Número de Aprobación: 
+12:27:30: Se digita el Año de Aprobación: 
+12:27:30: Se manda click al botón Consultar

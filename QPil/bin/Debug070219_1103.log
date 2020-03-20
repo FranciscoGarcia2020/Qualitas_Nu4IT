@@ -1,0 +1,30 @@
+Archivo LOG de reportes del 2019/02/07 11:03:03
+*******************************************************
+11:03:03: Iniciando QContent descarga de documentos
+11:03:03: Se busca comparar el archivo 20190128105758536 con un patrón de Póliza. sin OCR
+11:03:30: Se busca comparar el archivo 20190128105758536 con un patrón de Póliza
+11:03:30: Se busca comparar el archivo 20190128105758536 con un patrón de Factura
+11:03:30: Se crea el directorio: C:\Users\Fernanda Rey\Desktop\pruebas\Siniestros\04182635987\Factura
+11:03:30: Se encontró que el archivo 20190128105758536 es una Factura
+11:03:30: Se movió el documento 20190128105758536 al directorio de Factura
+11:07:48: Excepción System.ArgumentException: La cadena de entrada no tiene el formato correcto.No se puede almacenar <AUT091023H43> en la columna ID. El tipo esperado es Int32. ---> System.FormatException: La cadena de entrada no tiene el formato correcto.
+   en System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   en System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   en System.String.System.IConvertible.ToInt32(IFormatProvider provider)
+   en System.Data.Common.Int32Storage.Set(Int32 record, Object value)
+   en System.Data.DataColumn.set_Item(Int32 record, Object value)
+   --- Fin del seguimiento de la pila de la excepción interna ---
+   en System.Data.DataColumn.set_Item(Int32 record, Object value)
+   en System.Data.DataTable.NewRecordFromArray(Object[] value)
+   en System.Data.DataRowCollection.Add(Object[] values)
+   en QPil.Procesos.ManejoDeDocumentos.leerFactura6Col(String cadArchivoLeido, String rutaArchivo) en C:\Users\Fernanda Rey\Desktop\RepoQualitas\QPil\Procesos\ManejoDeDocumentos.cs:línea 692
+   en QPil.Procesos.ManejoDeDocumentos.leePDFconOCR(String nombreDirectorioSiniestro, String documento) en C:\Users\Fernanda Rey\Desktop\RepoQualitas\QPil\Procesos\ManejoDeDocumentos.cs:línea 257
+11:07:48: Se busca comparar el archivo idc--59254916T con un patrón de Póliza. sin OCR
+11:07:48: Se busca comparar el archivo idc--59254916T con un patrón de Tenencia sin OCR. sin OCR
+11:07:48: Se crea el directorio: C:\Users\Fernanda Rey\Desktop\pruebas\Siniestros\04182635987\Tenencia
+11:07:48: Se encontró que el archivo idc--59254916T es una Tenencia. sin OCR
+11:07:48: Se movió el documento idc--59254916T al directorio de Tenencia. sin OCR
+11:07:48: Se busca comparar el archivo idc--59254917F con un patrón de Póliza. sin OCR
+11:07:48: Se busca comparar el archivo idc--59254917F con un patrón de Factura sin OCR. sin OCR
+11:07:48: Se encontró que el archivo idc--59254917F es una Factura. sin OCR
+11:07:48: Se movió el documento idc--59254917F al directorio de Factura. sin OCR

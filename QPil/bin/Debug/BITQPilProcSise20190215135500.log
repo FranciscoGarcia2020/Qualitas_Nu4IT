@@ -1,0 +1,123 @@
+Archivo LOG de reportes del 2019/02/15 13:55:09
+*******************************************************
+13:55:14: C:\Users\Fernanda Rey\Desktop\pruebas\Siniestros\04182635987
+13:55:14: Se busca comparar el archivo 20190128105758536 con un patrón de Póliza. sin OCR
+13:55:40: Se busca comparar el archivo 20190128105758536 con un patrón de Póliza
+13:55:40: Se busca comparar el archivo 20190128105758536 con un patrón de Factura
+13:55:40: Se encontró que el archivo 20190128105758536 es una Factura
+13:55:40: Se movió el documento 20190128105758536 al directorio de Factura
+13:55:40: Se busca comparar el archivo idc--59254917F con un patrón de Póliza. sin OCR
+13:55:40: Se busca comparar el archivo idc--59254917F con un patrón de Factura sin OCR. sin OCR
+13:55:40: Se encontró que el archivo idc--59254917F es una Factura. sin OCR
+13:55:40: Se movió el documento idc--59254917F al directorio de Factura. sin OCR
+13:55:40: Se busca comparar el archivo idc-73951168F con un patrón de Póliza. sin OCR
+13:55:46: Se busca comparar el archivo idc-73951168F con un patrón de Póliza
+13:55:46: Se busca comparar el archivo idc-73951168F con un patrón de Factura
+13:55:46: Se encontró que el archivo idc-73951168F es una Factura
+13:55:46: Se movió el documento idc-73951168F al directorio de Factura
+13:55:46: Se busca comparar el archivo idc-75266891F con un patrón de Póliza. sin OCR
+13:55:46: Se busca comparar el archivo idc-75266891F con un patrón de Factura sin OCR. sin OCR
+13:55:46: Se encontró que el archivo idc-75266891F es una Factura. sin OCR
+13:55:46: Se movió el documento idc-75266891F al directorio de Factura. sin OCR
+13:55:46: Se busca comparar el archivo idc-75393137F con un patrón de Póliza. sin OCR
+13:55:46: Se busca comparar el archivo idc-75393137F con un patrón de Factura sin OCR. sin OCR
+13:55:46: Se encontró que el archivo idc-75393137F es una Factura. sin OCR
+13:55:46: Se movió el documento idc-75393137F al directorio de Factura. sin OCR
+13:55:46: Se busca comparar el archivo idc-75514407F con un patrón de Póliza. sin OCR
+13:55:46: Se busca comparar el archivo idc-75514407F con un patrón de Factura sin OCR. sin OCR
+13:55:46: Se encontró que el archivo idc-75514407F es una Factura. sin OCR
+13:55:46: Se movió el documento idc-75514407F al directorio de Factura. sin OCR
+13:55:46: Se busca comparar el archivo idc-75514418F con un patrón de Póliza. sin OCR
+13:55:46: Se busca comparar el archivo idc-75514418F con un patrón de Factura sin OCR. sin OCR
+13:55:46: Se encontró que el archivo idc-75514418F es una Factura. sin OCR
+13:55:46: Se movió el documento idc-75514418F al directorio de Factura. sin OCR
+13:55:46: Se busca comparar el archivo idc-75515169F con un patrón de Póliza. sin OCR
+13:56:06: Se busca comparar el archivo idc-75515169F con un patrón de Póliza
+13:56:06: Se busca comparar el archivo idc-75515169F con un patrón de Factura
+13:56:06: Se encontró que el archivo idc-75515169F es una Factura
+13:56:06: Se movió el documento idc-75515169F al directorio de Factura
+13:56:06: Se busca comparar el archivo idc-75533026F con un patrón de Póliza. sin OCR
+13:56:06: Se busca comparar el archivo idc-75533026F con un patrón de Factura sin OCR. sin OCR
+13:56:06: Se encontró que el archivo idc-75533026F es una Factura. sin OCR
+13:56:06: Se movió el documento idc-75533026F al directorio de Factura. sin OCR
+13:56:06: Se busca comparar el archivo idc-75544378 con un patrón de Póliza. sin OCR
+13:56:06: Se busca comparar el archivo idc-75544378 con un patrón de Factura sin OCR. sin OCR
+13:56:06: Se encontró que el archivo idc-75544378 es una Factura. sin OCR
+13:56:06: Se movió el documento idc-75544378 al directorio de Factura. sin OCR
+13:56:47: Se accede a la URL: http://www2.repuve.gob.mx:8080/ciudadania/
+13:56:47: Se toma captura a la pantalla y se procesa captcha con valor: mSX
+13:56:48: Se ingresa el número de serie: 
+13:56:50: Se ingresa el captcha: mSX
+13:56:50: Se manda click al botón buscar
+13:58:44: Se accede a la URL: http://www2.repuve.gob.mx:8080/ciudadania/
+13:58:45: Se toma captura a la pantalla y se procesa captcha con valor: 
+13:58:45: Se ingresa el número de serie: WBAVL9109DVT77514
+13:58:47: Se ingresa el captcha: 
+13:58:48: Se manda click al botón buscar
+14:00:06: Se accede a la URL: http://www2.repuve.gob.mx:8080/ciudadania/
+14:00:07: Se toma captura a la pantalla y se procesa captcha con valor: thy
+14:00:07: Se ingresa el número de serie: WAU9FD8T3EA007986
+14:00:10: Se ingresa el captcha: thy
+14:00:10: Se manda click al botón buscar
+14:00:19: Se accede a la URL: http://www2.repuve.gob.mx:8080/ciudadania/
+14:00:20: Se toma captura a la pantalla y se procesa captcha con valor: yqu
+14:00:20: Se ingresa el número de serie: 
+14:00:23: Se ingresa el captcha: yqu
+14:00:23: Se manda click al botón buscar
+15:09:16: Se accede a la URL: http://www2.repuve.gob.mx:8080/ciudadania/
+15:09:16: Se toma captura a la pantalla y se procesa captcha con valor: ullc
+15:09:17: Se ingresa el número de serie: 9BWCCO5W8
+15:09:19: Se ingresa el captcha: ullc
+15:09:19: Se manda click al botón buscar
+15:09:27: Se accede a la URL: http://www2.repuve.gob.mx:8080/ciudadania/
+15:09:28: Se toma captura a la pantalla y se procesa captcha con valor: 2pm7
+15:09:28: Se ingresa el número de serie: 4JGCB751226A024223
+15:09:31: Se ingresa el captcha: 2pm7
+15:09:31: Se manda click al botón buscar
+15:09:31: Se manda click al elemento PGJ
+15:09:31: El vehiculo con serie WAU9FD8T3EA007986tiene el siguiente reporte en PGJ: Sin Reporte de Robo
+15:09:32: Se manda click al elemento OCRA
+15:09:32: El vehiculo con serie WAU9FD8T3EA007986  tiene el siguiente reporte en OCRA: Sin Reporte de Robo
+15:10:20: Se accede a la URL: http://www2.repuve.gob.mx:8080/ciudadania/
+15:10:21: Se toma captura a la pantalla y se procesa captcha con valor: fVmC
+15:10:21: Se ingresa el número de serie: 
+15:10:24: Se ingresa el captcha: fVmC
+15:10:24: Se manda click al botón buscar
+15:11:18: Se accede a la URL: http://www2.repuve.gob.mx:8080/ciudadania/
+15:11:19: Se toma captura a la pantalla y se procesa captcha con valor: zfp
+15:11:20: Se ingresa el número de serie: 93Y1362JT4BJ066169,
+15:11:22: Se ingresa el captcha: zfp
+15:11:22: Se manda click al botón buscar
+15:23:05: Se accede a la URL: http://www2.repuve.gob.mx:8080/ciudadania/
+15:23:06: Se toma captura a la pantalla y se procesa captcha con valor: 063
+15:23:06: Se ingresa el número de serie: 93Y1362JT4BJ066169,
+15:23:09: Se ingresa el captcha: 063
+15:23:09: Se manda click al botón buscar
+15:25:06: Se encontró el siguiente error: OpenQA.Selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=72.0.3626.109)
+  (Driver info: chromedriver=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb),platform=Windows NT 10.0.17134 x86_64)
+   en OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   en OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   en OpenQA.Selenium.Remote.RemoteWebDriver.Close()
+   en QPil.Procesos.CaptchaRepuve.ProcesoCaptchaRepuve(DataRow datos, IWebDriver Driver)
+15:25:17: Se accede a la URL: http://www2.repuve.gob.mx:8080/ciudadania/
+15:25:18: Se toma captura a la pantalla y se procesa captcha con valor: 34yJ
+15:25:18: Se ingresa el número de serie: 
+15:25:21: Se ingresa el captcha: 34yJ
+15:25:21: Se manda click al botón buscar
+15:26:09: Se accede a la URL: http://www2.repuve.gob.mx:8080/ciudadania/
+15:26:10: Se toma captura a la pantalla y se procesa captcha con valor: 6929
+15:26:10: Se ingresa el número de serie: IIBC1AS6C1(26B24B
+15:26:13: Se ingresa el captcha: 6929
+15:26:13: Se manda click al botón buscar
+15:27:04: Se accede a la URL: http://www2.repuve.gob.mx:8080/ciudadania/
+15:27:05: Se toma captura a la pantalla y se procesa captcha con valor: m35
+15:27:05: Se ingresa el número de serie: 
+15:27:08: Se ingresa el captcha: m35
+15:27:08: Se manda click al botón buscar
+15:27:45: Se accede a la URL: http://www2.repuve.gob.mx:8080/ciudadania/
+15:27:46: Se toma captura a la pantalla y se procesa captcha con valor: 
+15:27:46: Se ingresa el número de serie: 
+15:27:49: Se ingresa el captcha: 
+15:27:49: Se manda click al botón buscar

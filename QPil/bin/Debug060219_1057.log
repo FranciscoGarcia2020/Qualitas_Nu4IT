@@ -1,0 +1,7 @@
+Archivo LOG de reportes del 2019/02/06 10:57:42
+*******************************************************
+10:57:42: Iniciando QContent descarga de documentos
+10:57:42: Se busca comparar el archivo idc--59254911P con un patrón de Póliza. sin OCR
+10:57:42: Se crea el directorio: C:\Users\Fernanda Rey\Desktop\pruebas\Siniestros\04182635987\Poliza
+10:57:42: Se encontró que el archivo idc--59254911P es una Póliza. sin OCR
+10:57:42: Se movió el documento idc--59254911P al directorio de Poliza. sin OCR

@@ -1,0 +1,583 @@
+﻿15:27:17: conectando putty alojado en C:\Users\jplaneacion2\Desktop\pruebas\Debug/
+15:27:18: obteniendo putty 1
+15:27:24: Ingresando usuario sincab
+15:27:24: entro al do while
+15:27:27: Ingresando password QSc4b-18
+15:27:30: login as: sincab
+sincab@110.10.0.11's password:
+Last login: Tue Feb  5 15:23:08 2019 from 110.10.0.254
+UniVerse Command Language 11.3
+Copyright Rocket Software, Inc. or its affiliates, All Rights Reserved 1985-2018
+sise logged on: Tue Feb  5 15:27:27 2019
+QUALITAS DESARROLLO                                       15:27:27 05 FEB 2019
+      Ingrese Codigo de Usuario :
+15:27:30: 
+15:27:34: ingresa usuario para sise cvalverde
+15:27:40: login as: sincab
+sincab@110.10.0.11's password:
+Last login: Tue Feb  5 15:23:08 2019 from 110.10.0.254
+UniVerse Command Language 11.3
+Copyright Rocket Software, Inc. or its affiliates, All Rights Reserved 1985-2018
+sise logged on: Tue Feb  5 15:27:27 2019
+QUALITAS DESARROLLO                                       15:27:27 05 FEB 2019
+
+
+
+
+      Ingrese Codigo de Usuario : CVALVERDE
+                                  CLAUDIA GONZALEZ VALVERDE
+
+      Ingrese su Password :
+
+15:27:40: 
+15:27:40: entra al do de contraseñas
+15:27:42: ingresa la contraseña Valverde/3
+15:27:47: QUALITAS DESARROLLO            *** CUAJIMALPA ***               15:27 05/02/2019
+                                                                       CVALVERDE
+QUALITAS CIA. DE SEGUROS        *** CUAJIMALPA ***           15:27 05 FEB 2019
+13200000000000                  *** Cabina ***                       CVALVERDE
+                     1. ***Sistema de Informacion***
+                     2. ***Reportes***
+                     3. ***Consulta de Polizas/Endosos***
+                     4. ***Siniestros***
+                     5. ***Impresion***
+                     6. ***Reportes de Cabina***
+                     7. ***Reporte de Servicios***
+                     8. Atencion Sistemas Operaciones
+                     9. Modificar horas y fechas en reportes de Siniestros
+                    10. Gener de Rep en Excel X estruc de Vtas
+                    11. Reingenieria de Cabina
+                    12. Folios Auto Sustituto
+                    13. Salir
+  Seleccione la Opcion o (F) para salir ==>
+15:27:47: 
+15:27:58: ingresando 8
+15:28:06: 13200000000000                  *** Cabina ***               15:27   CVALVERDE
+                                                                     CVALVERDE
+>M
+  Seleccione la Opcion o (F) para salir ==> F
+ME-SIS                  ** M E N U  P R I N C I P A L **               CVALVERDE
+                         1. Ventas
+                         2. Emision
+                         3. Siniestros
+                         4. Caja
+                         5. Aplicacion de Remesas
+                         6. Contabilidad
+                         7. Procesos en Ciclo
+                         8. Consultas Gerenciales
+                         9. Tecnico
+                        10. S I S T E M A S
+                        11. Autorizaciones
+                        12. Emision Danos
+                        13. Procesos para generar el OLAP
+                        14. Procesos WEB
+                        15. Avisos de apertura de Siniestros
+Digite la alternativa seleccionada (F=Fin):3
+ME-SIS-SIN                 ** S I N I E S T R O S **                   CVALVERDE
+                   1. Informacion Normativa de Siniestros
+                   2. Administracion de Siniestros
+                   3. Administracion de Autos Robados
+                   4. Administracion de Juicios
+                   5. Impresion Urgente de Caratulas
+                   6. Impresion Urgente de Autorizacion de Pago
+                   7. Sistema de Informacion
+                   8. Manejo de Impresoras
+                   9. Cierre diario de Siniestros
+                  10. Numero de Terminal
+                  11. Consultas de contabilidad
+                  12. Finiquitos
+                  13. Reporte atencion de siniestros x ajustadores locales
+                  14. Gastos Medicos
+                  15. Listados Varios
+                  16. Reporte de Atencion de siniestros x Ofna de Emision
+                  17. Reporte de Atencion de siniestros x Agente
+                  18. Consulta de Agentes / Promotores
+                  19. Listado de Reportes sin siniestro afectando ROBO
+                  20. Envio de cobros a terminales de ajustadores (SIICA)
+Digite la alternativa seleccionada (F=Fin):2
+ME-SIN-ADM                 ** S I N I E S T R O S **                   CVALVERDE
+   0. Papeleria y Expedientes              21. Depuracion de reservas
+   1. Reportes                             22. Suma Asegurada Gastos de Transp.
+   2. Reclamos                             23. Depuracion de reservas (opcion 2)   3. Estimaciones de Valuacion            24. Pago de Nomina a Ajustadores
+   4. Autorizacion Tecnica de Pago         25. Carga % para apertura aut. de Salva 5. Generacion de Ordenes de Pago        26. Reporte del Proceso de Depuracion
+   6. Siniestros Pendientes de Pago        27. Incremento de S.A. en Siniestros
+   7. Siniestros Pagados en el Mes         28. Control de Tiempos (SEVASA)
+   8. Consulta de Siniestros               29. Alta Causas x Incremento en S.A.
+   9. Consulta por Conductor/Accidentado   30. Reportes para SEVASA
+  10. Consulta de Polizas/Endosos          31. Reporte de Ingresos Pendientes
+  11. Consulta de Prestadores              32. Autoriz. para PT con Rec.Pend.
+  12. Listados Varios                      33. Autoriz. para Deducible Manual
+  13. Consulta caratulas                   34. REPORTE CAUCIONES RH
+  14. Cardex de Siniestros                 35. Mas opciones ...
+  15. Consulta de Cardex de Siniestros
+  16. Listado de Polizas Pagadas para Grabado
+  17. Listado de Polizas Pagadas a Grabado X Gerente
+  19. Listado de Cuentas Deudoras Aseguradoras
+  20. Tramites de Siniestros
+Digite la alternativa seleccionada (F=Fin):8
+CO-SIN                    ** CONSULTA DE SINIESTROS **                 CVALVERDE
+                      1. Consulta de Siniestros por Poliza
+                      2. Consulta de Autorizaciones de Pago
+                      3. Consulta de Pagos por Siniestros
+                      4. Consulta de Estimaciones Historicas
+                      5. Consulta de Reportes por Poliza
+                      6. Reporte de Siniestros con Ded RC
+                      7. Numeros de serie ultimos 8 digitos
+                      8. Listados Varios
+                      9. Consulta de Reclamos
+                     10. Consulta de Reportes
+                     11. Consulta de Tramites
+                     12. Consulta de Oficinas y Centro de Costo
+                     13. Consulta de Siniestros de un inciso
+                     14. Consulta de Folios Automaticos
+                     15. Consulta de Folios/Subfolios Medicos
+                     16. Reporte de Siniestros sin Deducible R.C. (P. Nocturno)
+                     17. Reporte de Inspeccion
+                     18. Marcar Siniestros Catastróficos
+Digite la alternativa seleccionada (F=Fin)
+15:28:06: ingresando 9
+15:28:22: Digite la alternativa seleccionada (F=Fin) 9
+QUALITAS DESARROLLO      *** SISTEMA DE SINIESTROS ***     15:28:06 05 FEB 2019
+                              CONSULTA DE SINIESTROS
+--------------------------------------------------------------------------------
+C/A/M/R/?/F : C     Oficina : 312 Ramo : 04 Ejercicio : 18 Siniestro : 1219947
+ 1.Numero de Reporte     :
+ 2.Numero de Poliza      : 1378386      Fecha de registro :
+   Numero de Endoso      : 4124088256                       29/10/18
+   Numero de Inciso      : 000000
+          Agente         : 0001 TOYOTA COROLLA S MT  Mod.:2014  Motor:2ZR-L00038
+          Asegurado      : 33559 LORANT MARTINEZ SALAS Y CIA, AGTE DE SEG Y DE
+          Vigencia       : 0009778691 AYALA MENDEZ MARIA GUADALUPE                        Moneda         : 17/11/13 al 01/12/18
+ 3.Detalle del Siniestro : $
+                           1 NA CONTRA OBJETO FIJO
+                           2 MURO
+ 4.Conductor/Accidentado :
+ 5.Fecha ocurrido        : MARIA GUADALUPE AYALA          :
+ 7.Fecha reclamo         : 29/10/18      8.Ajustador      : 1 CRS
+ 9.Fecha demanda legal   : 29/10/18     10.Fecha ajuste   : 30455 RUIZ GARCIA OS
+11.Causa Siniestro       :
+12.Entidad               : 27 COLISION
+                           05006 SALTILLO
+   Modificar?    Solo 6  :    (N=No Mod A=Anul H=Hist O=Obs Q=Finiquito    (No)
+     <RTN> Continuar       .. P=Pag/Pend R=Repo E=Endoso I=Inciso M=Marca)
+15:28:36:      <RTN> Continuar       R. P=Pag/Pend R=Repo E=Endoso I=Inciso M=Marca)
+QUALITAS DESARROLLO                                         15:28:23 05 FEB 2019
+               ** CONSULTA DE CONTROL DE TIEMPOS DE SINIESTROS **
+   Ramo: 04 AUTOMOVILES       Ejercicio: 18   Of.: 267   No. de Reporte:1378386
+ 1.Fec. Rep.: 29/10/2018 13:20  2.F.Ocurr: 29/10/2018  3.Hora O.: 13:17
+ 4.Poliza   : 4124088256        5.Endoso : 000000      6.Inciso : 0001
+ 7.Asegurado: AYALA MENDEZ MARIA GUADALUPE                   Poliza Vencida
+ 8.Conductor: MARIA GUADALUPE AYALA                8a.Edad:    8b.Sexo:
+ 9.Reporto  : DANIEL LOPEZ
+10.Marca Veh: TOYOTA COROLLA S MT                     11.Modelo : 2014
+12.Serie:  5YFBURHE4EP023022    13.Placas: FJU9777    14.Color  : NEGRO
+15.C.ocurrio: NA CONTRA OBJETO FIJO
+              MURO
+16.Ubicacion: BOULEVARD NAZARIO ORTIZ GARZA
+17.Entre    : BOULEVARD VENUSTIANO CARRANZA
+18.Colonia  : NUEVA ESPANA
+19.Delegac. :                  20.Obs.: SALTILLO / COAHUILA
+21.Entidad  : 05006 SALTILLO              22.Cita   : N 29.Cond.Esp.:
+23.Tel.Lugar: 8442278297       24.Tel.Encuesta:                 35.CODE: N
+25.Status   : 03 Con siniestro 26.Gerente: TOYOTA FIN 27.Stro. Asig:   1219947
+Sa Cabinista:  01006 MARICRUZ DIAZ PULIDO             Oficina Cabinista:010
+N=No Modifica, C=Cita, A=Anula, O=O.Sin. :
+15:28:48:    Ramo:                      Ejercicio:      Of.:       No. de Reporte:1378386
+         04 AUTOMOVILES                  18        267                  1378386
+                             VEHICULOS INVOLUCRADOS      Reporte SAC:181254099
+28. Marca         Tipo         Mod. Placas     Color      Conductor
+  1 TOYOTA COROL  TY           2014 FJU9777    NEGRO      MARIA GUADALUPE AYAL
+  2 MURO DE CONT
+                      E S T A D O  D E  L A  P O L I Z A
+Cobertura          Suma Asegurada       Vig. Desde       Vig. Hasta
+01 AMPLIA             239,890.00           17/11/2013       01/12/2018
+                             D E D U C I B L E S
+ D.M.  :  5.00 %  R.T.    : 10.00 %  R.C.    :            E.E.  :
+ R.C.B.:          R.C.Per :          R.C.Pas :            R.C.C.:
+Cve.Agte: 33559     Nombre Agte: LORANT MARTINEZ SALAS Y C Texto S/N: N
+B=Cobert.,S=Srv.,T=Taller,G=Aseg,A=Anula H=Tur,X=Txt.,I=Impresion,2=2Atn
+15:28:56:    Ramo:                      Ejercicio:      Of.:       No. de Reporte:1378386
+         04 AUTOMOVILES                  18        267                  1378386
+                             VEHICULOS INVOLUCRADOS      Reporte SAC:181254099
+28. Marca         Tipo         Mod. Placas     Color      Conductor
+  1 TOYOTA COROL  TY           2014 FJU9777    NEGRO      MARIA GUADALUPE AYAL
+  2 MURO DE CONT
+                      E S T A D O  D E  L A  P O L I Z A
+Cobertura          Suma Asegurada       Vig. Desde       Vig. Hasta
+01 AMPLIA             239,890.00           17/11/2013       01/12/2018
+                             D E D U C I B L E S
+ D.M.  :  5.00 %  R.T.    : 10.00 %  R.C.    :            E.E.  :
+ R.C.B.:          R.C.Per :          R.C.Pas :            R.C.C.:
+Cve.Agte: 33559     Nombre Agte: LORANT MARTINEZ SALAS Y C Texto S/N: N
+B=Cobert.,S=Srv.,T=Taller,G=Aseg,A=Anula H=Tur,X=Txt.,I=Impresion,2=2Atn
+15:28:56: inicia la consulta infoAdmiSiniestro
+15:28:56: sinietro 1219947
+15:28:56: reporte 1378386
+15:28:56: poliza4124088256
+15:28:56: fecha de registro 29/10/18
+15:28:56: endoso 000000
+15:28:56: inciso 0001
+15:28:56: modelo 2014
+15:28:56: motor 2ZR-L00038
+15:28:56: vigencia 17/11/13 al 01/12/18
+15:28:56: fecha ocurrido 29/10/18
+15:28:56: inicia informacion desde la lista reporte
+15:28:56: asegurado AYALA MENDEZ MARIA GUADALUPE                   
+15:28:56: serie 5YFBURHE4EP023022
+15:28:56: placas FJU9777
+15:28:56: como ocurrio NA CONTRA OBJETO FIJO
+15:28:56: marca TOYOTA COROLLA S MT                     
+15:28:56: se buscan los datos en la lista continuaReporte
+15:28:56: reporte sac 181254099
+15:28:56: cobertura AMPLIA
+15:28:56: DM 5.00 %  
+15:28:56: RT 10.00 %  
+15:28:56: comentario 29/10/2018 16:11 (DM30455): ESTRELLAMIENT
+15:28:56: Estatus de la Poliza: Poliza Vencida 
+15:28:56: ingresando siniestro
+15:29:13: 
+15:29:13: ingresando salirSiniestro
+15:29:17: ingresando f
+15:29:20: ingresando 10
+15:29:37:                              VEHICULOS INVOLUCRADOS      Reporte SAC:181254099
+28. Marca         Tipo         Mod. Placas     Color      Conductor
+  1 TOYOTA COROL  TY           2014 FJU9777    NEGRO      MARIA GUADALUPE AYAL
+  2 MURO DE CONT
+                      E S T A D O  D E  L A  P O L I Z A
+Cobertura          Suma Asegurada       Vig. Desde       Vig. Hasta
+01 AMPLIA             239,890.00           17/11/2013       01/12/2018
+                             D E D U C I B L E S
+ D.M.  :  5.00 %  R.T.    : 10.00 %  R.C.    :            E.E.  :
+ R.C.B.:          R.C.Per :          R.C.Pas :            R.C.C.:
+Cve.Agte: 33559     Nombre Agte: LORANT MARTINEZ SALAS Y C Texto S/N: N
+25.Status   : 03 Con siniestro 26.Gerente: TOYOTA FIN 27.Stro. Asig:   1219947
+QUALITAS DESARROLLO                                         15:29:13 05 FEB 2019
+C/A/M/R/?/F : C     Oficina : F.. Ramo :    Ejercicio :    Siniestro :o
+ 2.Numero de Poliza      :              Fecha de registro :
+   Numero de Endoso      :
+   Numero de Anexo       :
+          Agente         :
+          Asegurado      :
+          Vigencia       :
+          Moneda         :
+ 3.Detalle del Siniestro :
+ 5.Fecha ocurrido        :               6.Cod. de Estado :
+ 7.Fecha reclamo         :               8.Ajustador      :
+ 9.Fecha demanda legal   :              10.Fecha ajuste   :
+12.Entidad               :
+   Modificar?    Solo 6  : A. (N=No Mod A=Anul H=Hist O=Obs Q=Finiquito    (No)
+                                   /Pend R=Repo E=Endoso I=Inciso M=Marca)
+QUALITAS DESARROLLO            *** CUAJIMALPA ***               15:29 05/02/2019
+Digite la alternativa seleccionada (F=Fin) F
+Digite la alternativa seleccionada (F=Fin):10
+CO-EMI                                                                 CVALVERDE
+                    ** CONSULTA DE POLIZAS/ENDOSOS **
+                       1. Consulta de Operaciones
+                       2. Consulta de Coberturas
+                       3. Consulta desde el Ultimo Endoso
+                       4. Detalle de Pagos (Impresion)
+                       5. Consulta de Coberturas del Ultimo Endoso
+                       6. Consulta de Recibos de Pago
+                       7. Consulta de Siniestros por Poliza
+                       8. Consulta de Incisos por Numero de Serie
+                       9. Consulta Recibos Pendientes y Pagados de Poliza
+                      10. Consultas los Movimientos de un Inciso
+                      11. Consulta Polizas con Cargo y Devolucion de Derecho
+                      12. Consulta de Polizas por Numero de Serie
+                      13. Consulta de Pagos de Siniestros
+                      14. Consulta de Cambio de Agente a Polizas
+                      15. Sistema de Informacion Asegurados/Agentes/Placas/Conductores                16. Mas Opciones
+                      17. Consulta de Caratulas
+                      18. Consulta de Movimientos X Endoso
+                      19. Consulta de Autorizaciones x Poliza
+Digite la alternativa seleccionada (F=Fin)
+15:29:37: ingresando consultaPoliza
+15:29:41: ingresando poliza
+15:29:44: ingresando inciso
+15:30:01: Digite la alternativa seleccionada (F=Fin) 10
+QUALITAS DESARROLLO                                        15:29:38 05 FEB 2019
+                       ** CONSULTA DE POLIZA/ENDOSO **
+Cod.Ramo : 04             Nro.Poliza:4124088256  Nro.Inciso:0001
+          SITUACION ACTUAL ==> 0001-VIGENTE ENDOSO : 353965
+     Item Endoso Stat   Prima Neta End.Mod Stat.Mod  Prima N.Mod    Fec.Emi
+     ---- ------ ---- ------------ ------- -------- -------------  ----------
+  1  0001 000000  I      40,117.20 000000                    0.00    05/12/13
+  2  0001 353965  M           0.00 000000      I        40,117.20    26/12/18
+Nro= Descripcion de cobertura       <RETURN> Continuar         F= Salir
+15:30:01: ingresando salirPoliza
+15:30:41: Cod.Ramo : F. (F=Fin)     Nro.Poliza:            Nro.Inciso:
+QUALITAS DESARROLLO            *** CUAJIMALPA ***               15:30 05/02/2019
+Digite la alternativa seleccionada (F=Fin)
+15:30:49: Digite la alternativa seleccionada (F=Fin) 1
+Cod.Ramo : .. (F=Fin)     Nro.Poliza:            Nro.Endoso:
+15:30:49: ingresando consultaOperaciones
+15:30:52: ingresando poliza
+15:30:56: ingresando endoso
+15:30:59: ingresando 
+15:31:03: ingreso a infoPoliza
+11:42:21: Fecha Emision 05/12/2013
+11:42:21: ingreso a infoOperaciones
+15:31:03: Primas Pendientes: sin pendientes
+15:31:05: b,enter
+15:31:06: enter
+15:31:07: enter
+15:31:30:                                                                                 Cod.Ramo :04              Poliza:4124088256             Endoso:000000
+Asegurado: 0009778691 AYALA MENDEZ MARIA GUADALUPE           Moneda: $
+Gerente Cuenta: 00711 ESTHER AGREDA
+Riesgo C.: 06379 TOYOTA COROLLA S MT 2014 Cob.: AMPLIA    Suma:  11,347,900.00
+F.Emision: 05/12/2013 Vigencia:17/11/2013 al 01/12/2018      C.N.  C.RecFin  C.TAgente   : 33559 LORANT MARTINEZ SALAS Y CIA, AGTE D   1083.16
+Promotor :
+Of. Emis.: 267 SAN JERONIMO 06 N.E.       Plazo 1er Rbo 30 Dias  Venc:17/12/2013
+Renueva :              Renovada :                 Cond.Vig. : QJ/01 0813-IA
+F. Pago : R    Prima :    36,105.48   Bon.Tec.:     4,011.72   % R.Finan:
+ Vto.        Importe  Recibo    Cia  %Part   Remesa  Di ** Pagos  Realizados ***
+17/11/13    42439.16   75319764            0015764025   R 2 16/12/13    42439.16
+   Prima Neta    Der. Pol.    Recargo       I.V.A.    Bonificacion   Prima Total
+     36105.48       480.00                 5853.68                     42439.16
+RTN=Cont,G=Gral,P=Pag,S=Stro,B=Cob,V=Veh,F=fin,T=Tx:B  Saldo Tot:
+0          ** CONSULTA DE COBERTURAS DE POLIZA/ENDOSO **   15:31:05 05 FEB 2019
+Cod.Ramo : 04            Nro.Poliza: 4124088256   Nro.Endoso: 000000
+  Asegurado  : 0009778691 AYALA MENDEZ MARIA GUADALUPE
+  Contratante:
+  Benef.Pref.: 000834 TOYOTA FINANCIAL SERVICES MEXICO, S.A. DE C.V.
+  Fec.Emision: 05/12/13              Vigencia  : 17/11/13 al 01/12/18
+  Pol.Compen.: 023
+  Moneda     : $
+  Suma Aseg. :  11,347,900.00
+  Prima Total:      42,439.16        Rec.Finan.:  0.00 %
+  Prima      :      36,105.48        % I.V.A.  : 16.00 %
+1.-           PRIMAS POR RAMO SUBRAMO                     2.-         ENDOSOS
+R./SR    Descripcion          Prima     C.N.A R.F.A C.T.A Numero   Tipo endoso
+----- ------------------ -------------- ----- ----- ----- ------ ---------------
+04/01 AUTOMOVILES RESIDE      36,105.48  3.00  3.00  0.00 353965 Endoso sin mov.
+           ** CONSULTA DE COBERTURAS DE POLIZA/ENDOSO **
+  Total Vehiculos:    1
+  Item   C.E   Cob               Marca               Modelo   Placas    Dispositiv----   ---   ---   ------------------------------   ----    --------  -------
+  0001   (I)   AMP   TOYOTA COROLLA S MT              2014               (  )
+Nro= informacion vehiculos       <RETURN>= Continuar       F= Salir
+15:31:30: ingresando salirOperaciones
+15:31:33: enter
+15:31:42: Cod.Ramo : 04            Nro.Poliza: 4124088256   Nro.Endoso: 000000  0001
+ Subramo : 01 AUTOMOVILES RESIDENTES         REPUVE    :
+ Marca     : 06379 TOYOTA COROLLA S MT       Modelo    : 2014
+ Placas    :                                 Cobertura : AMPLIA
+ Motor     : 2ZR-L000381                     Serie     : 5YFBURHE4EP023022
+ Tipo      : 105 Automoviles ImportaRem :    Uso       : 01 NORMAL
+ Carroceria: 01 SEDAN                        Origen    : Importado
+ Anexos    :                                 Servicio  : PARTICULAR
+ Ocupantes :  05   DISPOSITIVO: 0            Toneladas :
+ Moneda    : $ Dias Ded.: RC:      RCPer:     RCB:    RCPas:      RCEco:
+ Pma. D.M. :      22,336.56                  Ajuste Aut:       %
+ Pma. R.T. :       8,114.05                  Deduc. DM :      5.00 %
+ Pma. R.C. :       5,516.15                  Deduc. RT :     10.00 %
+ Pma. G.M. :       1,353.81                  Valor 0KM :     239,890.00
+ Pma. E.E. :           0.00  Ded.E.E.0%      Suma.Aseg.:     239,890.00
+ Pma. DM A :           0.00                  Suma R.C. :   4,000,000.00
+ Pma. RT A :           0.00                  Suma G.M. :     200,000.00
+ Pma A.Aut.:           0.00                  Suma E.E. :           0.00
+ Pma. G.L. :       1,014.38                  Suma ADAP :           0.00
+ Pma. A.V. :       1,178.06                  Suma Aj.Au:           0.00
+ Pma. RCP. :           0.00                  Suma G.L. :     500,000.00
+ A.V. AVQ(3300 4534/01 800 253 0553)          uma A.V. :       8,560.00
+ <RETURN> = Continuar G = Texto AGTES    F = Fin
+15:31:42: ingresa a infoCoberturas
+15:31:42: Suma.Aseg Cober     239,890.00
+15:31:42: Suma R.C.   4,000,000.00
+15:31:42: Suma G.M.     200,000.00
+15:31:42: Suma E.E.           0.00
+15:31:42: Suma ADAP           0.00
+15:31:42: Suma Aj.Au.           0.00
+15:31:42: Suma G.L.     500,000.00
+15:31:42: Suma A.V.       8,560.00
+15:31:53: ingresando coberturas de poliza
+15:31:57: ingresando poliza
+15:32:01: ingresando endoso
+15:32:13: 25.Status   : 03 Con siniestro 26.Gerente: TOYOTA FIN 27.Stro. Asig:   1219947
+Sa Cabinista:  01006 MARICRUZ DIAZ PULIDO             Oficina Cabinista:010
+QUALITAS DESARROLLO                                         15:29:13 05 FEB 2019
+               ** CONSULTA DE CONTROL DE TIEMPOS DE SINIESTROS **
+--------------------------------------------------------------------------------
+C/A/M/R/?/F : C     Oficina : F.. Ramo :    Ejercicio :    Siniestro :o
+ 1.Numero de Reporte     :
+ 2.Numero de Poliza      :              Fecha de registro :
+   Numero de Endoso      :
+   Numero de Anexo       :
+          Agente         :
+          Asegurado      :
+          Vigencia       :
+          Moneda         :
+ 3.Detalle del Siniestro :
+ 4.Conductor/Accidentado :
+ 5.Fecha ocurrido        :               6.Cod. de Estado :
+ 7.Fecha reclamo         :               8.Ajustador      :
+ 9.Fecha demanda legal   :              10.Fecha ajuste   :
+11.Causa Siniestro       :
+12.Entidad               :
+   Modificar?    Solo 6  : A. (N=No Mod A=Anul H=Hist O=Obs Q=Finiquito    (No)
+                                   /Pend R=Repo E=Endoso I=Inciso M=Marca)
+QUALITAS DESARROLLO            *** CUAJIMALPA ***               15:29 05/02/2019
+CO-SIN                    ** CONSULTA DE SINIESTROS **                 CVALVERDE
+                      1. Consulta de Siniestros por Poliza
+                      2. Consulta de Autorizaciones de Pago
+                      3. Consulta de Pagos por Siniestros
+                      4. Consulta de Estimaciones Historicas
+                      5. Consulta de Reportes por Poliza
+                      6. Reporte de Siniestros con Ded RC
+                      7. Numeros de serie ultimos 8 digitos
+                      8. Listados Varios
+                      9. Consulta de Reclamos
+                     10. Consulta de Reportes
+                     11. Consulta de Tramites
+                     12. Consulta de Oficinas y Centro de Costo
+                     13. Consulta de Siniestros de un inciso
+                     14. Consulta de Folios Automaticos
+                     15. Consulta de Folios/Subfolios Medicos
+                     16. Reporte de Siniestros sin Deducible R.C. (P. Nocturno)
+                     17. Reporte de Inspeccion
+                     18. Marcar Siniestros Catastróficos
+Digite la alternativa seleccionada (F=Fin) F
+QUALITAS DESARROLLO            *** CUAJIMALPA ***               15:29 05/02/2019
+ME-SIN-ADM                 ** S I N I E S T R O S **                   CVALVERDE
+   0. Papeleria y Expedientes              21. Depuracion de reservas
+   1. Reportes                             22. Suma Asegurada Gastos de Transp.
+   2. Reclamos                             23. Depuracion de reservas (opcion 2)   3. Estimaciones de Valuacion            24. Pago de Nomina a Ajustadores
+   4. Autorizacion Tecnica de Pago         25. Carga % para apertura aut. de Salva 5. Generacion de Ordenes de Pago        26. Reporte del Proceso de Depuracion
+   6. Siniestros Pendientes de Pago        27. Incremento de S.A. en Siniestros
+   7. Siniestros Pagados en el Mes         28. Control de Tiempos (SEVASA)
+   8. Consulta de Siniestros               29. Alta Causas x Incremento en S.A.
+   9. Consulta por Conductor/Accidentado   30. Reportes para SEVASA
+  10. Consulta de Polizas/Endosos          31. Reporte de Ingresos Pendientes
+  11. Consulta de Prestadores              32. Autoriz. para PT con Rec.Pend.
+  12. Listados Varios                      33. Autoriz. para Deducible Manual
+  13. Consulta caratulas                   34. REPORTE CAUCIONES RH
+  14. Cardex de Siniestros                 35. Mas opciones ...
+  15. Consulta de Cardex de Siniestros
+  16. Listado de Polizas Pagadas para Grabado
+  17. Listado de Polizas Pagadas a Grabado X Gerente
+  19. Listado de Cuentas Deudoras Aseguradoras
+  20. Tramites de Siniestros
+Digite la alternativa seleccionada (F=Fin):10
+QUALITAS DESARROLLO            *** CUAJIMALPA ***               15:29 05/02/2019
+CO-EMI                                                                 CVALVERDE
+                    ** CONSULTA DE POLIZAS/ENDOSOS **
+                       1. Consulta de Operaciones
+                       2. Consulta de Coberturas
+                       3. Consulta desde el Ultimo Endoso
+                       4. Detalle de Pagos (Impresion)
+                       5. Consulta de Coberturas del Ultimo Endoso
+                       6. Consulta de Recibos de Pago
+                       7. Consulta de Siniestros por Poliza
+                       8. Consulta de Incisos por Numero de Serie
+                       9. Consulta Recibos Pendientes y Pagados de Poliza
+                      10. Consultas los Movimientos de un Inciso
+                      11. Consulta Polizas con Cargo y Devolucion de Derecho
+                      12. Consulta de Polizas por Numero de Serie
+                      13. Consulta de Pagos de Siniestros
+                      14. Consulta de Cambio de Agente a Polizas
+                      15. Sistema de Informacion Asegurados/Agentes/Placas/Conductores                16. Mas Opciones
+                      17. Consulta de Caratulas
+                      18. Consulta de Movimientos X Endoso
+                      19. Consulta de Autorizaciones x Poliza
+Digite la alternativa seleccionada (F=Fin) 10
+QUALITAS DESARROLLO                                        15:29:38 05 FEB 2019
+                       ** CONSULTA DE POLIZA/ENDOSO **
+Cod.Ramo : F. (F=Fin)     Nro.Poliza:            Nro.Inciso:
+QUALITAS DESARROLLO            *** CUAJIMALPA ***               15:30 05/02/2019
+CO-EMI                                                                 CVALVERDE
+                    ** CONSULTA DE POLIZAS/ENDOSOS **
+                       1. Consulta de Operaciones
+                       2. Consulta de Coberturas
+                       3. Consulta desde el Ultimo Endoso
+                       4. Detalle de Pagos (Impresion)
+                       5. Consulta de Coberturas del Ultimo Endoso
+                       6. Consulta de Recibos de Pago
+                       7. Consulta de Siniestros por Poliza
+                       8. Consulta de Incisos por Numero de Serie
+                       9. Consulta Recibos Pendientes y Pagados de Poliza
+                      10. Consultas los Movimientos de un Inciso
+                      11. Consulta Polizas con Cargo y Devolucion de Derecho
+                      12. Consulta de Polizas por Numero de Serie
+                      13. Consulta de Pagos de Siniestros
+                      14. Consulta de Cambio de Agente a Polizas
+                      15. Sistema de Informacion Asegurados/Agentes/Placas/Conductores                16. Mas Opciones
+                      17. Consulta de Caratulas
+                      18. Consulta de Movimientos X Endoso
+                      19. Consulta de Autorizaciones x Poliza
+Digite la alternativa seleccionada (F=Fin) 1
+                       ** CONSULTA DE POLIZA/ENDOSO **
+                                                                                Cod.Ramo :04              Poliza:4124088256             Endoso:000000
+Asegurado: 0009778691 AYALA MENDEZ MARIA GUADALUPE           Moneda: $
+Gerente Cuenta: 00711 ESTHER AGREDA
+Riesgo C.: 06379 TOYOTA COROLLA S MT 2014 Cob.: AMPLIA    Suma:  11,347,900.00
+F.Emision: 05/12/2013 Vigencia:17/11/2013 al 01/12/2018      C.N.  C.RecFin  C.TAgente   : 33559 LORANT MARTINEZ SALAS Y CIA, AGTE D   1083.16
+Promotor :
+Of. Emis.: 267 SAN JERONIMO 06 N.E.       Plazo 1er Rbo 30 Dias  Venc:17/12/2013
+Renueva :              Renovada :                 Cond.Vig. : QJ/01 0813-IA
+F. Pago : R    Prima :    36,105.48   Bon.Tec.:     4,011.72   % R.Finan:
+ Vto.        Importe  Recibo    Cia  %Part   Remesa  Di ** Pagos  Realizados ***
+17/11/13    42439.16   75319764            0015764025   R 2 16/12/13    42439.16
+   Prima Neta    Der. Pol.    Recargo       I.V.A.    Bonificacion   Prima Total
+     36105.48       480.00                 5853.68                     42439.16
+RTN=Cont,G=Gral,P=Pag,S=Stro,B=Cob,V=Veh,F=fin,T=Tx:B  Saldo Tot:
+0          ** CONSULTA DE COBERTURAS DE POLIZA/ENDOSO **   15:31:05 05 FEB 2019
+Cod.Ramo : 04            Nro.Poliza: 4124088256   Nro.Endoso: 000000
+  Asegurado  : 0009778691 AYALA MENDEZ MARIA GUADALUPE
+  Contratante:
+  Benef.Pref.: 000834 TOYOTA FINANCIAL SERVICES MEXICO, S.A. DE C.V.
+  Fec.Emision: 05/12/13              Vigencia  : 17/11/13 al 01/12/18
+  Pol.Compen.: 023
+  Moneda     : $
+  Suma Aseg. :  11,347,900.00
+  Prima Total:      42,439.16        Rec.Finan.:  0.00 %
+  Prima      :      36,105.48        % I.V.A.  : 16.00 %
+1.-           PRIMAS POR RAMO SUBRAMO                     2.-         ENDOSOS
+R./SR    Descripcion          Prima     C.N.A R.F.A C.T.A Numero   Tipo endoso
+----- ------------------ -------------- ----- ----- ----- ------ ---------------
+04/01 AUTOMOVILES RESIDE      36,105.48  3.00  3.00  0.00 353965 Endoso sin mov.
+           ** CONSULTA DE COBERTURAS DE POLIZA/ENDOSO **
+Cod.Ramo : 04            Nro.Poliza: 4124088256   Nro.Endoso: 000000  0001
+                          RESIDENTES         REPUVE    :                        
+Cod.Ramo : F. (F=Fin)     Nro.Poliza:            Nro.Endoso:
+QUALITAS DESARROLLO            *** CUAJIMALPA ***               15:31 05/02/2019
+CO-EMI                                                                 CVALVERDE
+                    ** CONSULTA DE POLIZAS/ENDOSOS **
+                       1. Consulta de Operaciones
+                       2. Consulta de Coberturas
+                       3. Consulta desde el Ultimo Endoso
+                       4. Detalle de Pagos (Impresion)
+                       5. Consulta de Coberturas del Ultimo Endoso
+                       6. Consulta de Recibos de Pago
+                       7. Consulta de Siniestros por Poliza
+                       8. Consulta de Incisos por Numero de Serie
+                       9. Consulta Recibos Pendientes y Pagados de Poliza
+                      10. Consultas los Movimientos de un Inciso
+                      11. Consulta Polizas con Cargo y Devolucion de Derecho
+                      12. Consulta de Polizas por Numero de Serie
+                      13. Consulta de Pagos de Siniestros
+                      14. Consulta de Cambio de Agente a Polizas
+                      15. Sistema de Informacion Asegurados/Agentes/Placas/Conductores                16. Mas Opciones
+                      17. Consulta de Caratulas
+                      18. Consulta de Movimientos X Endoso
+                      19. Consulta de Autorizaciones x Poliza
+Digite la alternativa seleccionada (F=Fin) 2
+                  ** CONSULTA DE COBERTURAS DE POLIZA/ENDOSO **
+Cod.Ramo : 04            Nro.Poliza: 4124088256      Nro.Endoso: 000000
+QUALITAS DESARROLL** CONSULTA DE COBERTURAS DE POLIZA/ENDOSO **2:01 05 FEB 2019
+Cod.Ramo : 04            Nro.Poliza: 4124088256   Nro.Endoso: 000000
+  Asegurado  : 0009778691 AYALA MENDEZ MARIA GUADALUPE
+  Contratante:
+  Benef.Pref.: 000834 TOYOTA FINANCIAL SERVICES MEXICO, S.A. DE C.V.
+  Fec.Emision: 05/12/13              Vigencia  : 17/11/13 al 01/12/18
+  Pol.Compen.: 023
+  Moneda     : $
+  Suma Aseg. :  11,347,900.00
+  Prima Total:      42,439.16        Rec.Finan.:  0.00 %
+  Prima      :      36,105.48        % I.V.A.  : 16.00 %
+1.-           PRIMAS POR RAMO SUBRAMO                     2.-         ENDOSOS
+R./SR    Descripcion          Prima     C.N.A R.F.A C.T.A Numero   Tipo endoso
+----- ------------------ -------------- ----- ----- ----- ------ ---------------
+04/01 AUTOMOVILES RESIDE      36,105.48  3.00  3.00  0.00 353965 Endoso sin mov.
+Nro= Avanza Datos Correspondientes     <RETURN> Continua     F- Fin
+15:32:13: ingresa a infoOperaciones2
+15:32:13: Suma asegurada  11,347,900.00
+15:32:13: ingresando terminarConsultas

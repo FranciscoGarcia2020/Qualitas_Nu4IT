@@ -1,0 +1,44 @@
+Archivo LOG de reportes del 2019/02/08 14:54:59
+*******************************************************
+14:54:59: Iniciando QContent descarga de documentos
+14:55:02: Se busca comparar el archivo 20190128105758536 con un patrón de Póliza. sin OCR
+14:55:27: Se busca comparar el archivo 20190128105758536 con un patrón de Póliza
+14:55:27: Se busca comparar el archivo 20190128105758536 con un patrón de Factura
+14:55:27: Se encontró que el archivo 20190128105758536 es una Factura
+14:55:27: Se movió el documento 20190128105758536 al directorio de Factura
+14:55:28: Se busca comparar el archivo idc--59254917F con un patrón de Póliza. sin OCR
+14:55:28: Se busca comparar el archivo idc--59254917F con un patrón de Factura sin OCR. sin OCR
+14:55:28: Se encontró que el archivo idc--59254917F es una Factura. sin OCR
+14:55:28: Se movió el documento idc--59254917F al directorio de Factura. sin OCR
+14:59:34: Se navega a la URL: https://tramitesdigitales.sat.gob.mx/Sicofi.ValidacionCFD/Default.aspx
+14:59:35: Se toma screenshot y se procesar CAPTCHA con valor: yV7Yf
+14:59:35: Se digita el captcha con valor: yV7Yf
+14:59:35: Se manda click al elemento Continuar
+14:59:35: Se digita el RFC del emisor: AUT091023H43
+14:59:35: Se digita la serie: 
+14:59:35: Se digita el Folio del Comprobante: 
+14:59:36: Se digita el Número de Aprobación: 
+14:59:36: Se digita el Año de Aprobación: 
+14:59:36: Se manda click al botón Consultar
+15:01:15: Se navega a la URL: https://tramitesdigitales.sat.gob.mx/Sicofi.ValidacionCFD/Default.aspx
+15:01:15: Se toma screenshot y se procesar CAPTCHA con valor: yV7Yf
+15:01:15: Se digita el captcha con valor: yV7Yf
+15:01:16: Se manda click al elemento Continuar
+15:01:16: Se digita el RFC del emisor: AUT091023H46
+15:01:16: Se digita la serie: E
+15:01:16: Se digita el Folio del Comprobante: 0000897
+15:01:16: Se digita el Número de Aprobación: 424694
+15:01:16: Se digita el Año de Aprobación: 2011
+15:01:16: Se manda click al botón Consultar
+15:01:48: Coincide 00001000000202409238
+15:02:01: Estatus: Activo
+15:03:25: Se navega a la URL: https://tramitesdigitales.sat.gob.mx/Sicofi.ValidacionCFD/Default.aspx
+15:03:25: Se toma screenshot y se procesar CAPTCHA con valor: yV7Yf
+15:03:25: Se digita el captcha con valor: yV7Yf
+15:03:26: Se manda click al elemento Continuar
+15:03:26: Se digita el RFC del emisor: OKE100921P813
+15:03:26: Se digita la serie: WAU9FD8T3EA007986
+15:03:26: Se digita el Folio del Comprobante: EANI00000116
+15:03:26: Se digita el Número de Aprobación: 
+15:03:26: Se digita el Año de Aprobación: 14-04-07
+15:03:26: Se manda click al botón Consultar

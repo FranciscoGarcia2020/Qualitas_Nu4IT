@@ -1,0 +1,274 @@
+Archivo LOG de reportes del 2019/02/19 10:12:30
+*******************************************************
+10:12:35: C:\Users\Fernanda Rey\Desktop\pruebas\Siniestros\04182635987
+10:12:35: Se busca comparar el archivo 20190128105758536 con un patrón de Póliza. sin OCR
+10:13:04: Se busca comparar el archivo 20190128105758536 con un patrón de Póliza
+10:13:04: Se busca comparar el archivo 20190128105758536 con un patrón de Factura
+10:13:04: Se crea el directorio: C:\Users\Fernanda Rey\Desktop\pruebas\Siniestros\04182635987\Factura
+10:13:04: Se encontró que el archivo 20190128105758536 es una Factura
+10:13:04: Se movió el documento 20190128105758536 al directorio de Factura
+10:13:04: Se busca comparar el archivo idc-73951168F con un patrón de Póliza. sin OCR
+10:13:10: Se busca comparar el archivo idc-73951168F con un patrón de Póliza
+10:13:10: Se busca comparar el archivo idc-73951168F con un patrón de Factura
+10:13:10: Se encontró que el archivo idc-73951168F es una Factura
+10:13:10: Se movió el documento idc-73951168F al directorio de Factura
+10:13:10: Se busca comparar el archivo idc-73951175T con un patrón de Póliza. sin OCR
+10:13:16: Se busca comparar el archivo idc-73951175T con un patrón de Póliza
+10:13:16: Se busca comparar el archivo idc-73951175T con un patrón de Tenencia
+10:13:16: Se crea el directorio: C:\Users\Fernanda Rey\Desktop\pruebas\Siniestros\04182635987\Tenencia
+10:13:16: Se encontró que el archivo idc-73951175T es una Tenencia
+10:13:16: Se movió el documento idc-73951175T al directorio de Tenencia
+10:13:16: Se busca comparar el archivo idc-73951181T con un patrón de Póliza. sin OCR
+10:13:20: Se busca comparar el archivo idc-73951181T con un patrón de Póliza
+10:13:20: Se busca comparar el archivo idc-73951181T con un patrón de Tenencia
+10:13:20: Se encontró que el archivo idc-73951181T es una Tenencia
+10:13:20: Se movió el documento idc-73951181T al directorio de Tenencia
+10:13:21: Se busca comparar el archivo idc-75266885P con un patrón de Póliza. sin OCR
+10:13:21: Se crea el directorio: C:\Users\Fernanda Rey\Desktop\pruebas\Siniestros\04182635987\Poliza
+10:13:21: Se encontró que el archivo idc-75266885P es una Póliza. sin OCR
+10:13:21: Se movió el documento idc-75266885P al directorio de Poliza. sin OCR
+10:13:21: Se extrajo poliza: 2150004104 endoso: 000_00 inciso:|000
+10:13:21: Se extrajo serie: 9BWCC05W87P000692
+10:13:21: Se extrajo modelo: 2007
+10:13:21: Se extrajo motor: BJY043645
+10:13:21: Se extrajo vigencia: Desde: las 12:00 P.M. del 26/DIC/2017  Hasta: las 12:00 P.M. del 26/DIC/2018 
+10:13:21: Se extrajo DM:  5%
+10:13:21: Se extrajo RT:  5%
+10:13:21: Se busca comparar el archivo idc-75266891F con un patrón de Póliza. sin OCR
+10:13:21: Se busca comparar el archivo idc-75266891F con un patrón de Factura sin OCR. sin OCR
+10:13:21: Se encontró que el archivo idc-75266891F es una Factura. sin OCR
+10:13:21: Se movió el documento idc-75266891F al directorio de Factura. sin OCR
+10:13:21: Se busca comparar el archivo idc-75266899T con un patrón de Póliza. sin OCR
+10:13:21: Se busca comparar el archivo idc-75266899T con un patrón de Tenencia sin OCR. sin OCR
+10:13:21: Se encontró que el archivo idc-75266899T es una Tenencia. sin OCR
+10:13:21: Se movió el documento idc-75266899T al directorio de Tenencia. sin OCR
+10:13:21: Se busca comparar el archivo idc-75393119P con un patrón de Póliza. sin OCR
+10:13:21: Se encontró que el archivo idc-75393119P es una Póliza. sin OCR
+10:13:21: Se movió el documento idc-75393119P al directorio de Poliza. sin OCR
+10:13:21: Se extrajo poliza: 0970722505 endoso: 000000 inciso:0001
+10:13:21: Se extrajo serie: 4J0CB75E26A024223
+10:13:21: Se extrajo modelo: 2006
+10:13:21: Se extrajo motor: HECHO
+10:13:21: Se extrajo vigencia: Desde: las 12:00 P.M. del 08/NOV/2018  Hasta: las 12:00 P.M. del 08/NOV/2019 
+10:13:21: Se extrajo DM: 10%
+10:13:21: Se extrajo RT: 10%
+10:13:21: Se busca comparar el archivo idc-75393130T con un patrón de Póliza. sin OCR
+10:13:21: Se busca comparar el archivo idc-75393130T con un patrón de Tenencia sin OCR. sin OCR
+10:13:21: Se encontró que el archivo idc-75393130T es una Tenencia. sin OCR
+10:13:21: Se movió el documento idc-75393130T al directorio de Tenencia. sin OCR
+10:13:21: Se busca comparar el archivo idc-75393137F con un patrón de Póliza. sin OCR
+10:13:21: Se busca comparar el archivo idc-75393137F con un patrón de Factura sin OCR. sin OCR
+10:13:21: Se encontró que el archivo idc-75393137F es una Factura. sin OCR
+10:13:21: Se movió el documento idc-75393137F al directorio de Factura. sin OCR
+10:13:21: Se busca comparar el archivo idc-75487751P con un patrón de Póliza. sin OCR
+10:13:21: Se encontró que el archivo idc-75487751P es una Póliza. sin OCR
+10:13:21: Se movió el documento idc-75487751P al directorio de Poliza. sin OCR
+10:13:21: Se extrajo serie: 9362KN6A66BOO3409
+10:13:21: Se extrajo modelo: 2006
+10:13:21: Se extrajo motor: Placas'
+10:13:21: Se extrajo vigencia: Desde: las 1,2:00 P.M. del 31/MARi2018 Hasta: 
+10:13:21: Se extrajo DM:  5%
+10:13:21: Se extrajo RT:  5%
+10:13:21: Se busca comparar el archivo idc-75487767T con un patrón de Póliza. sin OCR
+10:13:21: Se busca comparar el archivo idc-75487767T con un patrón de Tenencia sin OCR. sin OCR
+10:13:21: Se encontró que el archivo idc-75487767T es una Tenencia. sin OCR
+10:13:21: Se movió el documento idc-75487767T al directorio de Tenencia. sin OCR
+10:13:21: Se busca comparar el archivo idc-75514407F con un patrón de Póliza. sin OCR
+10:13:21: Se busca comparar el archivo idc-75514407F con un patrón de Factura sin OCR. sin OCR
+10:13:21: Se encontró que el archivo idc-75514407F es una Factura. sin OCR
+10:13:21: Se movió el documento idc-75514407F al directorio de Factura. sin OCR
+10:13:22: Se busca comparar el archivo idc-75514409T con un patrón de Póliza. sin OCR
+10:13:34: Se busca comparar el archivo idc-75514409T con un patrón de Póliza
+10:13:34: Se busca comparar el archivo idc-75514409T con un patrón de Tenencia
+10:13:34: Se encontró que el archivo idc-75514409T es una Tenencia
+10:13:34: Se movió el documento idc-75514409T al directorio de Tenencia
+10:13:34: Se busca comparar el archivo idc-75514418F con un patrón de Póliza. sin OCR
+10:13:34: Se busca comparar el archivo idc-75514418F con un patrón de Factura sin OCR. sin OCR
+10:13:34: Se encontró que el archivo idc-75514418F es una Factura. sin OCR
+10:13:34: Se movió el documento idc-75514418F al directorio de Factura. sin OCR
+10:13:34: Se busca comparar el archivo idc-75515166P con un patrón de Póliza. sin OCR
+10:13:53: Se busca comparar el archivo idc-75515166P con un patrón de Póliza
+10:13:53: Se encontró que el archivo idc-75515166P es una Póliza
+10:13:53: Se movió el documento idc-75515166P al directorio de Poliza
+10:13:53: Se extrajo poliza: POLIZA|DE| endoso: EGURO| inciso:E|AU
+10:13:53: Se extrajo serie: 
+10:13:53: Se extrajo modelo: 
+10:13:53: Se extrajo motor: z
+10:13:53: Se extrajo vigencia: Desde: Ias 12 00 P. M. del 20lJUNl2018 Hasta: Ias 12.00 P. M del 20lJUNl2019 
+10:13:53: No se pudo extraer DM
+10:13:53: N o se pudo extraer RT 
+10:13:53: Se busca comparar el archivo idc-75515169F con un patrón de Póliza. sin OCR
+10:14:11: Se busca comparar el archivo idc-75515169F con un patrón de Póliza
+10:14:11: Se busca comparar el archivo idc-75515169F con un patrón de Factura
+10:14:11: Se encontró que el archivo idc-75515169F es una Factura
+10:14:11: Se movió el documento idc-75515169F al directorio de Factura
+10:14:11: Se busca comparar el archivo idc-75515171T con un patrón de Póliza. sin OCR
+10:14:16: Se busca comparar el archivo idc-75515171T con un patrón de Póliza
+10:14:16: Se busca comparar el archivo idc-75515171T con un patrón de Tenencia
+10:14:16: Se encontró que el archivo idc-75515171T es una Tenencia
+10:14:16: Se movió el documento idc-75515171T al directorio de Tenencia
+10:14:16: Se busca comparar el archivo idc-75517250P con un patrón de Póliza. sin OCR
+10:14:16: Se encontró que el archivo idc-75517250P es una Póliza. sin OCR
+10:14:16: Se movió el documento idc-75517250P al directorio de Poliza. sin OCR
+10:14:16: Se extrajo poliza: 4052947365 endoso: 000000 inciso:0001
+10:14:16: Se extrajo serie: 3VWRV09M54M118530
+10:14:16: Se extrajo modelo: 2004
+10:14:16: Se extrajo motor: Placas:
+10:14:16: Se extrajo vigencia: Desde: las 12:00 P.M. del 15/JUN/2018  Hasta: las 12:00 P.M. del 15/JUN/2019 
+10:14:16: Se extrajo DM:  5%
+10:14:16: Se extrajo RT:  5%
+10:14:16: Se busca comparar el archivo idc-75517255T con un patrón de Póliza. sin OCR
+10:14:25: Se busca comparar el archivo idc-75517255T con un patrón de Póliza
+10:14:25: Se busca comparar el archivo idc-75517255T con un patrón de Tenencia
+10:14:25: Se encontró que el archivo idc-75517255T es una Tenencia
+10:14:25: Se movió el documento idc-75517255T al directorio de Tenencia
+10:14:25: Se busca comparar el archivo idc-75533025P con un patrón de Póliza. sin OCR
+10:14:25: Se encontró que el archivo idc-75533025P es una Póliza. sin OCR
+10:14:25: Se movió el documento idc-75533025P al directorio de Poliza. sin OCR
+10:14:25: Se extrajo serie: 3N1BC1AS6CK268248
+10:14:25: Se extrajo modelo: 2012
+10:14:25: Se extrajo motor: MR18897711
+10:14:25: Se extrajo vigencia: Desde: las 12:00 P.M. del 2S/MAY/2018  Hasta: las 12:00 P.M. del 24/NOV/2018 
+10:14:25: Se extrajo DM: 10%
+10:14:25: Se extrajo RT: 10%
+10:14:25: Se busca comparar el archivo idc-75533026F con un patrón de Póliza. sin OCR
+10:14:25: Se busca comparar el archivo idc-75533026F con un patrón de Factura sin OCR. sin OCR
+10:14:25: Se encontró que el archivo idc-75533026F es una Factura. sin OCR
+10:14:25: Se movió el documento idc-75533026F al directorio de Factura. sin OCR
+10:14:25: Se busca comparar el archivo idc-75533030T con un patrón de Póliza. sin OCR
+10:14:25: Se busca comparar el archivo idc-75533030T con un patrón de Tenencia sin OCR. sin OCR
+10:14:25: Se encontró que el archivo idc-75533030T es una Tenencia. sin OCR
+10:14:25: Se movió el documento idc-75533030T al directorio de Tenencia. sin OCR
+10:14:26: Se busca comparar el archivo idc-75544378 con un patrón de Póliza. sin OCR
+10:14:26: Se busca comparar el archivo idc-75544378 con un patrón de Factura sin OCR. sin OCR
+10:14:26: Se encontró que el archivo idc-75544378 es una Factura. sin OCR
+10:14:26: Se movió el documento idc-75544378 al directorio de Factura. sin OCR
+10:14:33: Se navega a la URL: https://tramitesdigitales.sat.gob.mx/Sicofi.ValidacionCFD/Default.aspx
+10:14:33: Se toma screenshot y se procesar CAPTCHA con valor: yV7Yf
+10:14:33: Se digita el captcha con valor: yV7Yf
+10:14:34: Se manda click al elemento Continuar
+10:14:34: Se digita el RFC del emisor: AUT091023H43
+10:14:34: Se digita la serie: 
+10:14:34: Se digita el Folio del Comprobante: 
+10:14:34: Se digita el Número de Aprobación: 
+10:14:34: Se digita el Año de Aprobación: 
+10:14:34: Se manda click al botón Consultar
+10:19:37: Se navega a la URL: https://tramitesdigitales.sat.gob.mx/Sicofi.ValidacionCFD/Default.aspx
+10:19:37: Se toma screenshot y se procesar CAPTCHA con valor: yV7Yf
+10:19:38: Se digita el captcha con valor: yV7Yf
+10:19:38: Se manda click al elemento Continuar
+10:19:38: Se digita el RFC del emisor: AUT091023H46
+10:19:39: Se digita la serie: E
+10:19:39: Se digita el Folio del Comprobante: 0000897
+10:19:39: Se digita el Número de Aprobación: 424694
+10:19:39: Se digita el Año de Aprobación: 2011
+10:19:39: Se manda click al botón Consultar
+10:19:43: Se navega a la URL: https://tramitesdigitales.sat.gob.mx/Sicofi.ValidacionCFD/Default.aspx
+10:19:43: Se toma screenshot y se procesar CAPTCHA con valor: yV7Yf
+10:19:43: Se digita el captcha con valor: yV7Yf
+10:19:44: Se manda click al elemento Continuar
+10:19:44: Se digita el RFC del emisor: 1012232530171
+10:19:45: Se digita la serie: 
+10:19:45: Se digita el Folio del Comprobante: 
+10:19:45: Se digita el Número de Aprobación: 
+10:19:45: Se digita el Año de Aprobación: 
+10:19:45: Se manda click al botón Consultar
+10:19:51: Se navega a la URL: https://tramitesdigitales.sat.gob.mx/Sicofi.ValidacionCFD/Default.aspx
+10:19:51: Se toma screenshot y se procesar CAPTCHA con valor: yV7Yf
+10:19:51: Se digita el captcha con valor: yV7Yf
+10:19:52: Se manda click al elemento Continuar
+10:19:52: Se digita el RFC del emisor: PAU-831108-IV2
+10:19:52: Se digita la serie: 9BWCCO5W8
+10:19:52: Se digita el Folio del Comprobante: 1787
+10:19:52: Se digita el Número de Aprobación: 
+10:19:52: Se digita el Año de Aprobación: MERIDA,
+10:19:52: Se manda click al botón Consultar
+10:20:00: Se navega a la URL: https://tramitesdigitales.sat.gob.mx/Sicofi.ValidacionCFD/Default.aspx
+10:20:00: Se toma screenshot y se procesar CAPTCHA con valor: yV7Yf
+10:20:00: Se digita el captcha con valor: yV7Yf
+10:20:01: Se manda click al elemento Continuar
+10:20:01: Se digita el RFC del emisor: TO0A500725CGA
+10:20:01: Se digita la serie: 4JGCB751226A024223
+10:20:01: Se digita el Folio del Comprobante: 1943
+10:20:02: Se digita el Número de Aprobación: 
+10:20:02: Se digita el Año de Aprobación: 01/04/2013
+10:20:02: Se manda click al botón Consultar
+10:20:11: Se navega a la URL: https://tramitesdigitales.sat.gob.mx/Sicofi.ValidacionCFD/Default.aspx
+10:20:11: Se toma screenshot y se procesar CAPTCHA con valor: yV7Yf
+10:20:11: Se digita el captcha con valor: yV7Yf
+10:20:12: Se manda click al elemento Continuar
+10:20:12: Se digita el RFC del emisor: SAU-010303-K73
+10:20:12: Se digita la serie: 
+10:20:12: Se digita el Folio del Comprobante: 4338
+10:20:12: Se digita el Número de Aprobación: 
+10:20:12: Se digita el Año de Aprobación: 54-80-00
+10:20:12: Se manda click al botón Consultar
+10:20:19: Se navega a la URL: https://tramitesdigitales.sat.gob.mx/Sicofi.ValidacionCFD/Default.aspx
+10:20:19: Se toma screenshot y se procesar CAPTCHA con valor: yV7Yf
+10:20:19: Se digita el captcha con valor: yV7Yf
+10:20:20: Se manda click al elemento Continuar
+10:20:20: Se digita el RFC del emisor: T4BJ066169,MO
+10:20:20: Se digita la serie: 93Y1362JT4BJ066169,
+10:20:20: Se digita el Folio del Comprobante: PT-45052
+10:20:20: Se digita el Número de Aprobación: 
+10:20:20: Se digita el Año de Aprobación: 18-12-26
+10:20:20: Se manda click al botón Consultar
+10:20:27: Se navega a la URL: https://tramitesdigitales.sat.gob.mx/Sicofi.ValidacionCFD/Default.aspx
+10:20:27: Se toma screenshot y se procesar CAPTCHA con valor: yV7Yf
+10:20:27: Se digita el captcha con valor: yV7Yf
+10:20:28: Se manda click al elemento Continuar
+10:20:28: Se digita el RFC del emisor: 200202018Asp
+10:20:28: Se digita la serie: 
+10:20:28: Se digita el Folio del Comprobante: 
+10:20:29: Se digita el Número de Aprobación: 
+10:20:29: Se digita el Año de Aprobación: EstlEnti
+10:20:29: Se manda click al botón Consultar
+10:20:37: Se navega a la URL: https://tramitesdigitales.sat.gob.mx/Sicofi.ValidacionCFD/Default.aspx
+10:20:37: Se toma screenshot y se procesar CAPTCHA con valor: yV7Yf
+10:20:37: Se digita el captcha con valor: yV7Yf
+10:20:37: Se manda click al elemento Continuar
+10:20:37: Se digita el RFC del emisor: POCE680822i
+10:20:37: Se digita la serie: IIBC1AS6C1(26B24B
+10:20:37: Se digita el Folio del Comprobante: 
+10:20:38: Se digita el Número de Aprobación: 
+10:20:38: Se digita el Año de Aprobación: 73-15-43
+10:20:38: Se manda click al botón Consultar
+10:20:43: Se navega a la URL: https://tramitesdigitales.sat.gob.mx/Sicofi.ValidacionCFD/Default.aspx
+10:20:43: Se toma screenshot y se procesar CAPTCHA con valor: yV7Yf
+10:20:43: Se digita el captcha con valor: yV7Yf
+10:20:43: Se manda click al elemento Continuar
+10:20:44: Se digita el RFC del emisor: 
+10:20:44: Se digita la serie: 
+10:20:44: Se digita el Folio del Comprobante: 
+10:20:44: Se digita el Número de Aprobación: 
+10:20:44: Se digita el Año de Aprobación: 
+10:20:44: Se manda click al botón Consultar
+10:20:52: Se navega a la URL: https://verificacfdi.facturaelectronica.sat.gob.mx/
+10:21:11: Se encontró el siguiente error: OpenQA.Selenium.WebDriverException: unknown error: Element <input name="ctl00$MainContent$TxtUUID" type="text" maxlength="36" id="ctl00_MainContent_TxtUUID" class="form-control" style="text-transform: uppercase;"> is not clickable at point (1530, 514). Other element would receive the click: <div class="list-info">...</div>
+  (Session info: chrome=72.0.3626.109)
+  (Driver info: chromedriver=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb),platform=Windows NT 10.0.17134 x86_64)
+   en OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   en OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   en OpenQA.Selenium.Remote.RemoteWebElement.Click()
+   en QPil.Procesos.CaptchaSAT2.procesoCaptchaSAT2(DataRow datos, IWebDriver Driver) en C:\Users\Fernanda Rey\Desktop\RepoQualitas\QPil\Procesos\CaptchaSAT2.cs:línea 111
+10:21:16: Se navega a la URL: https://verificacfdi.facturaelectronica.sat.gob.mx/
+10:21:35: Se encontró el siguiente error: OpenQA.Selenium.WebDriverException: unknown error: Element <input name="ctl00$MainContent$TxtUUID" type="text" maxlength="36" id="ctl00_MainContent_TxtUUID" class="form-control" style="text-transform: uppercase;"> is not clickable at point (1530, 514). Other element would receive the click: <div class="list-info">...</div>
+  (Session info: chrome=72.0.3626.109)
+  (Driver info: chromedriver=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb),platform=Windows NT 10.0.17134 x86_64)
+   en OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   en OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   en OpenQA.Selenium.Remote.RemoteWebElement.Click()
+   en QPil.Procesos.CaptchaSAT2.procesoCaptchaSAT2(DataRow datos, IWebDriver Driver) en C:\Users\Fernanda Rey\Desktop\RepoQualitas\QPil\Procesos\CaptchaSAT2.cs:línea 111
+10:21:40: Se navega a la URL: https://verificacfdi.facturaelectronica.sat.gob.mx/
+10:21:53: Se encontró el siguiente error: OpenQA.Selenium.WebDriverException: unknown error: Element <input name="ctl00$MainContent$TxtUUID" type="text" maxlength="36" id="ctl00_MainContent_TxtUUID" class="form-control" style="text-transform: uppercase;"> is not clickable at point (1530, 514). Other element would receive the click: <div class="list-info">...</div>
+  (Session info: chrome=72.0.3626.109)
+  (Driver info: chromedriver=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb),platform=Windows NT 10.0.17134 x86_64)
+   en OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   en OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   en OpenQA.Selenium.Remote.RemoteWebElement.Click()
+   en QPil.Procesos.CaptchaSAT2.procesoCaptchaSAT2(DataRow datos, IWebDriver Driver) en C:\Users\Fernanda Rey\Desktop\RepoQualitas\QPil\Procesos\CaptchaSAT2.cs:línea 111
+10:22:05: Se navega a la URL: https://verificacfdi.facturaelectronica.sat.gob.mx/
+10:22:07: Se ingresó folio fiscal: 
+10:22:08: Se ingresó RFC de Emisor: 
+10:22:08: Se ingresó RFC de Receptor: 
+10:22:08: Se ingresó Captcha: 

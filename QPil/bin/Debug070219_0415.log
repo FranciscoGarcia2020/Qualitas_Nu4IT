@@ -1,0 +1,11 @@
+Archivo LOG de reportes del 2019/02/07 16:15:58
+*******************************************************
+16:15:58: Iniciando QContent descarga de documentos
+16:16:01: Se busca comparar el archivo idc--59254916T con un patrón de Póliza. sin OCR
+16:16:01: Se busca comparar el archivo idc--59254916T con un patrón de Tenencia sin OCR. sin OCR
+16:16:01: Se encontró que el archivo idc--59254916T es una Tenencia. sin OCR
+16:16:01: Se movió el documento idc--59254916T al directorio de Tenencia. sin OCR
+16:16:01: Se busca comparar el archivo idc--59254917F con un patrón de Póliza. sin OCR
+16:16:01: Se busca comparar el archivo idc--59254917F con un patrón de Factura sin OCR. sin OCR
+16:16:01: Se encontró que el archivo idc--59254917F es una Factura. sin OCR
+16:16:01: Se movió el documento idc--59254917F al directorio de Factura. sin OCR

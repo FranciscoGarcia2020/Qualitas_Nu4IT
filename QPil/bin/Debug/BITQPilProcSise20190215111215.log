@@ -1,0 +1,53 @@
+Archivo LOG de reportes del 2019/02/15 11:12:22
+*******************************************************
+11:12:27: C:\Users\Fernanda Rey\Desktop\pruebas\Siniestros\04182635987
+11:12:28: Se busca comparar el archivo 20190128105758536 con un patrón de Póliza. sin OCR
+11:12:53: Se busca comparar el archivo 20190128105758536 con un patrón de Póliza
+11:12:53: Se busca comparar el archivo 20190128105758536 con un patrón de Factura
+11:12:53: Se encontró que el archivo 20190128105758536 es una Factura
+11:12:53: Se movió el documento 20190128105758536 al directorio de Factura
+11:12:53: Se busca comparar el archivo idc-75544378 con un patrón de Póliza. sin OCR
+11:12:53: Se busca comparar el archivo idc-75544378 con un patrón de Factura sin OCR. sin OCR
+11:12:53: Se encontró que el archivo idc-75544378 es una Factura. sin OCR
+11:12:53: Se movió el documento idc-75544378 al directorio de Factura. sin OCR
+11:12:57: Se navega a la URL: https://tramitesdigitales.sat.gob.mx/Sicofi.ValidacionCFD/Default.aspx
+11:12:58: Se toma screenshot y se procesar CAPTCHA con valor: yV7Yf
+11:12:58: Se digita el captcha con valor: yV7Yf
+11:12:58: Se manda click al elemento Continuar
+11:12:59: Se digita el RFC del emisor: AUT091023H43
+11:12:59: Se digita la serie: 
+11:12:59: Se digita el Folio del Comprobante: 
+11:12:59: Se digita el Número de Aprobación: 
+11:12:59: Se digita el Año de Aprobación: 
+11:12:59: Se manda click al botón Consultar
+11:13:07: Se navega a la URL: https://tramitesdigitales.sat.gob.mx/Sicofi.ValidacionCFD/Default.aspx
+11:13:07: Se toma screenshot y se procesar CAPTCHA con valor: yV7Yf
+11:13:07: Se digita el captcha con valor: yV7Yf
+11:13:08: Se manda click al elemento Continuar
+11:13:08: Se digita el RFC del emisor: 
+11:13:08: Se digita la serie: 
+11:13:08: Se digita el Folio del Comprobante: 
+11:13:08: Se digita el Número de Aprobación: 
+11:13:08: Se digita el Año de Aprobación: 
+11:13:08: Se manda click al botón Consultar
+11:13:24: Se navega a la URL: https://verificacfdi.facturaelectronica.sat.gob.mx/
+11:13:26: Se ingresó folio fiscal: 
+11:13:26: Se ingresó RFC de Emisor: 
+11:13:27: Se ingresó RFC de Receptor: 
+11:13:27: Se ingresó Captcha: 
+11:13:47: Se encontró el siguiente error: OpenQA.Selenium.WebDriverException: no such session
+  (Driver info: chromedriver=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb),platform=Windows NT 10.0.17134 x86_64)
+   en OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   en OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   en OpenQA.Selenium.Remote.RemoteWebDriver.Close()
+   en QPil.Procesos.CaptchaSAT2.procesoCaptchaSAT2(DataRow datos, IWebDriver Driver) en C:\Users\Fernanda Rey\Desktop\RepoQualitas\QPil\Procesos\CaptchaSAT2.cs:línea 178
+11:13:51: Se navega a la URL: https://verificacfdi.facturaelectronica.sat.gob.mx/
+11:13:53: Se ingresó folio fiscal: 
+11:13:53: Se ingresó RFC de Emisor: 
+11:13:54: Se ingresó RFC de Receptor: 
+11:13:54: Se ingresó Captcha: 
+11:14:12: Se accede a la URL: http://www2.repuve.gob.mx:8080/ciudadania/
+11:14:13: Se toma captura a la pantalla y se procesa captcha con valor: 3ks
+11:14:13: Se ingresa el número de serie: 
+11:14:16: Se ingresa el captcha: 3ks
+11:14:16: Se manda click al botón buscar

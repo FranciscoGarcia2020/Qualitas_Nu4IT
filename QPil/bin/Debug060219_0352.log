@@ -1,0 +1,6 @@
+Archivo LOG de reportes del 2019/02/06 15:52:25
+*******************************************************
+15:52:25: Iniciando QContent descarga de documentos
+15:52:43: Se busca comparar el archivo idc-75487751P con un patrón de Póliza. sin OCR
+15:52:59: Se encontró que el archivo idc-75487751P es una Póliza. sin OCR
+15:53:00: Se movió el documento idc-75487751P al directorio de Poliza. sin OCR

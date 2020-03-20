@@ -1,0 +1,14 @@
+Archivo LOG de reportes del 2019/02/06 13:45:48
+*******************************************************
+13:45:48: Iniciando QContent descarga de documentos
+13:45:48: Se busca comparar el archivo idc-75515166P con un patrón de Póliza. sin OCR
+13:45:53: Excepción System.IO.IOException: El proceso no puede obtener acceso al archivo 'C:\Users\Fernanda Rey\Desktop\RepoQualitas\QPil\bin\Debug\PDFaImagen\idc-75515166P.png' porque está siendo utilizado en otro proceso.
+   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)
+   en System.IO.FileStream..ctor(String path, FileMode mode)
+   en QPil.HerramientasGral.PDFaPNG(String rutaPDF, String nombreArchivoSalida) en C:\Users\Fernanda Rey\Desktop\RepoQualitas\QPil\Procesos\HerramientasGral.cs:línea 273
+   en QPil.Procesos.ManejoDeDocumentos.leePDFconOCR(String nombreDirectorioSiniestro, String documento) en C:\Users\Fernanda Rey\Desktop\RepoQualitas\QPil\Procesos\ManejoDeDocumentos.cs:línea 222
+13:45:53: Se busca comparar el archivo idc-75517250P con un patrón de Póliza. sin OCR
+13:45:53: Se encontró que el archivo idc-75517250P es una Póliza. sin OCR
+13:45:53: Se movió el documento idc-75517250P al directorio de Poliza. sin OCR

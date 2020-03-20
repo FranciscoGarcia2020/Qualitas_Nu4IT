@@ -1,0 +1,30 @@
+Archivo LOG de reportes del 2019/02/18 12:07:05
+*******************************************************
+12:07:10: C:\Users\Fernanda Rey\Desktop\pruebas\Siniestros\04182635987
+12:07:10: Se busca comparar el archivo 20190128105758536 con un patrón de Póliza. sin OCR
+12:07:35: Se busca comparar el archivo 20190128105758536 con un patrón de Póliza
+12:07:35: Se busca comparar el archivo 20190128105758536 con un patrón de Factura
+12:07:35: Se encontró que el archivo 20190128105758536 es una Factura
+12:07:35: Se movió el documento 20190128105758536 al directorio de Factura
+12:07:35: Se busca comparar el archivo idc-73951168F con un patrón de Póliza. sin OCR
+12:07:41: Se busca comparar el archivo idc-73951168F con un patrón de Póliza
+12:07:41: Se busca comparar el archivo idc-73951168F con un patrón de Factura
+12:07:41: Se encontró que el archivo idc-73951168F es una Factura
+12:07:41: Se movió el documento idc-73951168F al directorio de Factura
+12:07:42: Se busca comparar el archivo idc-75266891F con un patrón de Póliza. sin OCR
+12:07:42: Se busca comparar el archivo idc-75266891F con un patrón de Factura sin OCR. sin OCR
+12:07:42: Se encontró que el archivo idc-75266891F es una Factura. sin OCR
+12:07:42: Se movió el documento idc-75266891F al directorio de Factura. sin OCR
+12:07:42: Se busca comparar el archivo idc-75393137F con un patrón de Póliza. sin OCR
+12:07:42: Se busca comparar el archivo idc-75393137F con un patrón de Factura sin OCR. sin OCR
+12:07:42: Se encontró que el archivo idc-75393137F es una Factura. sin OCR
+12:07:42: Se movió el documento idc-75393137F al directorio de Factura. sin OCR
+12:07:42: Se busca comparar el archivo idc-75514407F con un patrón de Póliza. sin OCR
+12:07:42: Se busca comparar el archivo idc-75514407F con un patrón de Factura sin OCR. sin OCR
+12:07:42: Se encontró que el archivo idc-75514407F es una Factura. sin OCR
+12:07:42: Se movió el documento idc-75514407F al directorio de Factura. sin OCR
+12:07:42: Se busca comparar el archivo idc-75514418F con un patrón de Póliza. sin OCR
+12:07:42: Se busca comparar el archivo idc-75514418F con un patrón de Factura sin OCR. sin OCR
+12:07:42: Se encontró que el archivo idc-75514418F es una Factura. sin OCR
+12:07:42: Se movió el documento idc-75514418F al directorio de Factura. sin OCR
+12:07:42: Se busca comparar el archivo idc-75515169F con un patrón de Póliza. sin OCR

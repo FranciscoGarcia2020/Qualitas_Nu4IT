@@ -1,0 +1,57 @@
+Archivo LOG de reportes del 2019/02/08 10:47:18
+*******************************************************
+10:47:18: Iniciando QContent descarga de documentos
+10:47:22: Se busca comparar el archivo idc--59254917F con un patrón de Póliza. sin OCR
+10:47:22: Se busca comparar el archivo idc--59254917F con un patrón de Factura sin OCR. sin OCR
+10:47:22: Se encontró que el archivo idc--59254917F es una Factura. sin OCR
+10:47:22: Se movió el documento idc--59254917F al directorio de Factura. sin OCR
+10:47:30: Se navega a la URL: https://tramitesdigitales.sat.gob.mx/Sicofi.ValidacionCFD/Default.aspx
+10:47:30: Se toma screenshot y se procesar CAPTCHA con valor: yV7Yf
+10:47:30: Se digita el captcha con valor: yV7Yf
+10:47:31: Se manda click al elemento Continuar
+10:47:31: Se digita el RFC del emisor: OKE100921P813
+10:47:31: Se digita la serie: WAU9FD8T3EA007986
+10:47:31: Se digita el Folio del Comprobante: EANI00000116
+10:47:31: Se digita el Número de Aprobación: 
+10:47:32: Se digita el Año de Aprobación: 14-04-07
+10:47:32: Se manda click al botón Consultar
+10:47:40: Se navega a la URL: https://tramitesdigitales.sat.gob.mx/Sicofi.ValidacionCFD/Default.aspx
+10:47:40: Se toma screenshot y se procesar CAPTCHA con valor: yV7Yf
+10:47:40: Se digita el captcha con valor: yV7Yf
+10:47:41: Se manda click al elemento Continuar
+10:47:41: Se digita el RFC del emisor: OKE100921P813
+10:47:41: Se digita la serie: WAU9FD8T3EA007986
+10:47:41: Se digita el Folio del Comprobante: EANI00000116
+10:47:41: Se digita el Número de Aprobación: 
+10:47:42: Se digita el Año de Aprobación: 14-04-07
+10:47:42: Se manda click al botón Consultar
+10:47:57: Se navega a la URL: https://tramitesdigitales.sat.gob.mx/Sicofi.ValidacionCFD/Default.aspx
+10:48:01: Se toma screenshot y se procesar CAPTCHA con valor: yV7Yf
+10:48:01: Se digita el captcha con valor: yV7Yf
+10:48:03: Se manda click al elemento Continuar
+10:48:05: Se digita el RFC del emisor: OKE100921P813
+10:48:05: Se digita la serie: WAU9FD8T3EA007986
+10:48:06: Se digita el Folio del Comprobante: EANI00000116
+10:48:07: Se digita el Número de Aprobación: 
+10:48:07: Se digita el Año de Aprobación: 14-04-07
+10:48:08: Se manda click al botón Consultar
+10:49:34: Se navega a la URL: https://tramitesdigitales.sat.gob.mx/Sicofi.ValidacionCFD/Default.aspx
+10:49:38: Se toma screenshot y se procesar CAPTCHA con valor: yV7Yf
+10:49:38: Se digita el captcha con valor: yV7Yf
+10:49:40: Se manda click al elemento Continuar
+10:49:41: Se digita el RFC del emisor: OKE100921P813
+10:49:42: Se digita la serie: WAU9FD8T3EA007986
+10:49:42: Se digita el Folio del Comprobante: EANI00000116
+10:49:43: Se digita el Número de Aprobación: 
+10:49:44: Se digita el Año de Aprobación: 14-04-07
+10:49:44: Se manda click al botón Consultar
+10:52:14: Se navega a la URL: https://tramitesdigitales.sat.gob.mx/Sicofi.ValidacionCFD/Default.aspx
+10:52:17: Se toma screenshot y se procesar CAPTCHA con valor: yV7Yf
+10:52:17: Se digita el captcha con valor: yV7Yf
+10:52:19: Se manda click al elemento Continuar
+10:52:20: Se digita el RFC del emisor: OKE100921P813
+10:52:21: Se digita la serie: WAU9FD8T3EA007986
+10:52:22: Se digita el Folio del Comprobante: EANI00000116
+10:55:05: Se digita el Número de Aprobación: 
+10:55:06: Se digita el Año de Aprobación: 14-04-07
+10:55:07: Se manda click al botón Consultar

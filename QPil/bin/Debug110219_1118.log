@@ -1,0 +1,17 @@
+Archivo LOG de reportes del 2019/02/11 11:18:37
+*******************************************************
+11:18:37: Iniciando QContent descarga de documentos
+11:18:40: Se busca comparar el archivo 20190128105758536 con un patrón de Póliza. sin OCR
+11:19:06: Se busca comparar el archivo 20190128105758536 con un patrón de Póliza
+11:19:06: Se busca comparar el archivo 20190128105758536 con un patrón de Factura
+11:19:06: Se encontró que el archivo 20190128105758536 es una Factura
+11:19:06: Se movió el documento 20190128105758536 al directorio de Factura
+11:19:23: Se busca comparar el archivo idc--59254917F con un patrón de Póliza. sin OCR
+11:19:23: Se busca comparar el archivo idc--59254917F con un patrón de Factura sin OCR. sin OCR
+11:19:23: Se encontró que el archivo idc--59254917F es una Factura. sin OCR
+11:19:23: Se movió el documento idc--59254917F al directorio de Factura. sin OCR
+11:19:45: Se accede a la URL: http://www2.repuve.gob.mx:8080/ciudadania/
+11:19:46: Se toma captura a la pantalla y se procesa captcha con valor: 
+11:19:46: Se ingresa el número de serie: 
+11:19:49: Se ingresa el captcha: 
+11:19:49: Se manda click al botón buscar

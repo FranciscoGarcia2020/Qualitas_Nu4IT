@@ -1,0 +1,51 @@
+Archivo LOG de reportes del 2019/02/14 11:28:17
+*******************************************************
+11:28:22: C:\Users\Fernanda Rey\Desktop\pruebas\Siniestros\04182635987
+11:28:22: Se busca comparar el archivo 20190128105758536 con un patrón de Póliza. sin OCR
+11:28:48: Se busca comparar el archivo 20190128105758536 con un patrón de Póliza
+11:28:48: Se busca comparar el archivo 20190128105758536 con un patrón de Factura
+11:28:48: Se encontró que el archivo 20190128105758536 es una Factura
+11:28:48: Se movió el documento 20190128105758536 al directorio de Factura
+11:28:48: Se busca comparar el archivo idc--59254917F con un patrón de Póliza. sin OCR
+11:28:48: Se busca comparar el archivo idc--59254917F con un patrón de Factura sin OCR. sin OCR
+11:28:48: Se encontró que el archivo idc--59254917F es una Factura. sin OCR
+11:28:48: Se movió el documento idc--59254917F al directorio de Factura. sin OCR
+11:28:48: Se busca comparar el archivo idc-73951168F con un patrón de Póliza. sin OCR
+11:28:54: Se busca comparar el archivo idc-73951168F con un patrón de Póliza
+11:28:54: Se busca comparar el archivo idc-73951168F con un patrón de Factura
+11:28:54: Se encontró que el archivo idc-73951168F es una Factura
+11:28:54: Se movió el documento idc-73951168F al directorio de Factura
+11:30:54: Se navega a la URL: https://tramitesdigitales.sat.gob.mx/Sicofi.ValidacionCFD/Default.aspx
+11:30:55: Se toma screenshot y se procesar CAPTCHA con valor: yV7Yf
+11:30:56: Se digita el captcha con valor: yV7Yf
+11:30:56: Se manda click al elemento Continuar
+11:30:57: Se digita el RFC del emisor: AUT091023H43
+11:30:57: Se digita la serie: 
+11:30:57: Se digita el Folio del Comprobante: 
+11:30:57: Se digita el Número de Aprobación: 
+11:30:57: Se digita el Año de Aprobación: 
+11:30:57: Se manda click al botón Consultar
+11:36:37: Se navega a la URL: https://tramitesdigitales.sat.gob.mx/Sicofi.ValidacionCFD/Default.aspx
+11:36:38: Se toma screenshot y se procesar CAPTCHA con valor: yV7Yf
+11:36:38: Se digita el captcha con valor: yV7Yf
+11:36:38: Se manda click al elemento Continuar
+11:36:38: Se digita el RFC del emisor: OKE100921P813
+11:36:39: Se digita la serie: WAU9FD8T3EA007986
+11:36:39: Se digita el Folio del Comprobante: EANI00000116
+11:36:39: Se digita el Número de Aprobación: 
+11:36:39: Se digita el Año de Aprobación: 14-04-07
+11:36:39: Se manda click al botón Consultar
+11:36:59: Se encontró el siguiente error: System.NullReferenceException: Referencia a objeto no establecida como instancia de un objeto.
+   en QPil.Procesos.CaptchaSAT.ProcesoCaptchaSat(DataRow datos) en C:\Users\Fernanda Rey\Desktop\RepoQualitas\QPil\Procesos\CaptchaSAT.cs:línea 184
+11:37:03: Se navega a la URL: https://tramitesdigitales.sat.gob.mx/Sicofi.ValidacionCFD/Default.aspx
+11:37:04: Se toma screenshot y se procesar CAPTCHA con valor: yV7Yf
+11:37:04: Se digita el captcha con valor: yV7Yf
+11:37:04: Se manda click al elemento Continuar
+11:37:04: Se digita el RFC del emisor: 1012232530171
+11:37:04: Se digita la serie: 
+11:37:05: Se digita el Folio del Comprobante: 
+11:37:05: Se digita el Número de Aprobación: 
+11:37:05: Se digita el Año de Aprobación: 
+11:37:05: Se manda click al botón Consultar
+11:37:08: Se encontró el siguiente error: System.NullReferenceException: Referencia a objeto no establecida como instancia de un objeto.
+   en QPil.Procesos.CaptchaSAT.ProcesoCaptchaSat(DataRow datos) en C:\Users\Fernanda Rey\Desktop\RepoQualitas\QPil\Procesos\CaptchaSAT.cs:línea 184

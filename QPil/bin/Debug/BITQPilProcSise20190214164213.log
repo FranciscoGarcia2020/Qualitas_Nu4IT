@@ -1,0 +1,96 @@
+Archivo LOG de reportes del 2019/02/14 16:42:32
+*******************************************************
+16:42:37: C:\Users\Fernanda Rey\Desktop\pruebas\Siniestros\04182635987
+16:42:37: Se busca comparar el archivo 20190128105758536 con un patrón de Póliza. sin OCR
+16:43:03: Se busca comparar el archivo 20190128105758536 con un patrón de Póliza
+16:43:03: Se busca comparar el archivo 20190128105758536 con un patrón de Factura
+16:43:03: Se encontró que el archivo 20190128105758536 es una Factura
+16:43:03: Se movió el documento 20190128105758536 al directorio de Factura
+16:43:03: Se busca comparar el archivo idc-75508646 con un patrón de Póliza. sin OCR
+16:43:03: Se busca comparar el archivo idc-75508646 con un patrón de Factura sin OCR. sin OCR
+16:43:03: Se encontró que el archivo idc-75508646 es una Factura. sin OCR
+16:43:03: Se movió el documento idc-75508646 al directorio de Factura. sin OCR
+16:43:03: Se busca comparar el archivo idc-75544378 con un patrón de Póliza. sin OCR
+16:43:03: Se busca comparar el archivo idc-75544378 con un patrón de Factura sin OCR. sin OCR
+16:43:03: Se encontró que el archivo idc-75544378 es una Factura. sin OCR
+16:43:03: Se movió el documento idc-75544378 al directorio de Factura. sin OCR
+16:43:03: Se busca comparar el archivo idc-75544385 con un patrón de Póliza. sin OCR
+16:43:03: Se busca comparar el archivo idc-75544385 con un patrón de Factura sin OCR. sin OCR
+16:43:03: Se encontró que el archivo idc-75544385 es una Factura. sin OCR
+16:43:03: Se movió el documento idc-75544385 al directorio de Factura. sin OCR
+16:43:03: Se busca comparar el archivo idc-78792276 con un patrón de Póliza. sin OCR
+16:43:03: Se busca comparar el archivo idc-78792276 con un patrón de Factura sin OCR. sin OCR
+16:43:03: Se encontró que el archivo idc-78792276 es una Factura. sin OCR
+16:43:03: Se movió el documento idc-78792276 al directorio de Factura. sin OCR
+16:43:10: Se navega a la URL: https://tramitesdigitales.sat.gob.mx/Sicofi.ValidacionCFD/Default.aspx
+16:43:11: Se toma screenshot y se procesar CAPTCHA con valor: yV7Yf
+16:43:11: Se digita el captcha con valor: yV7Yf
+16:43:12: Se manda click al elemento Continuar
+16:43:12: Se digita el RFC del emisor: AUT091023H43
+16:43:12: Se digita la serie: 
+16:43:12: Se digita el Folio del Comprobante: 
+16:43:12: Se digita el Número de Aprobación: 
+16:43:12: Se digita el Año de Aprobación: 
+16:43:12: Se manda click al botón Consultar
+16:43:18: Se navega a la URL: https://tramitesdigitales.sat.gob.mx/Sicofi.ValidacionCFD/Default.aspx
+16:43:18: Se toma screenshot y se procesar CAPTCHA con valor: yV7Yf
+16:43:18: Se digita el captcha con valor: yV7Yf
+16:43:19: Se manda click al elemento Continuar
+16:43:19: Se digita el RFC del emisor: TRA0710029P9L
+16:43:19: Se digita la serie: 3WKAD40X5EF854781.(Número
+16:43:19: Se digita el Folio del Comprobante: 
+16:43:19: Se digita el Número de Aprobación: 
+16:43:19: Se digita el Año de Aprobación: 18-12-0371
+16:43:19: Se manda click al botón Consultar
+16:43:24: Se navega a la URL: https://tramitesdigitales.sat.gob.mx/Sicofi.ValidacionCFD/Default.aspx
+16:43:24: Se toma screenshot y se procesar CAPTCHA con valor: yV7Yf
+16:43:25: Se digita el captcha con valor: yV7Yf
+16:43:25: Se manda click al elemento Continuar
+16:43:25: Se digita el RFC del emisor: 
+16:43:25: Se digita la serie: 
+16:43:26: Se digita el Folio del Comprobante: 
+16:43:26: Se digita el Número de Aprobación: 
+16:43:26: Se digita el Año de Aprobación: 
+16:43:26: Se manda click al botón Consultar
+16:43:31: Se navega a la URL: https://tramitesdigitales.sat.gob.mx/Sicofi.ValidacionCFD/Default.aspx
+16:43:31: Se toma screenshot y se procesar CAPTCHA con valor: yV7Yf
+16:43:31: Se digita el captcha con valor: yV7Yf
+16:43:32: Se manda click al elemento Continuar
+16:43:32: Se digita el RFC del emisor: 04180618736Af
+16:43:32: Se digita la serie: 3C6JRBCT8JG158859
+16:43:32: Se digita el Folio del Comprobante: 2929
+16:43:32: Se digita el Número de Aprobación: 
+16:43:32: Se digita el Año de Aprobación: 18-10-01
+16:43:32: Se manda click al botón Consultar
+16:43:37: Se navega a la URL: https://tramitesdigitales.sat.gob.mx/Sicofi.ValidacionCFD/Default.aspx
+16:43:37: Se toma screenshot y se procesar CAPTCHA con valor: yV7Yf
+16:43:37: Se digita el captcha con valor: yV7Yf
+16:43:38: Se manda click al elemento Continuar
+16:43:38: Se digita el RFC del emisor: ajvA141303•vom
+16:43:38: Se digita la serie: 3SCPZWDE731016324
+16:43:38: Se digita el Folio del Comprobante: 
+16:43:38: Se digita el Número de Aprobación: 
+16:43:38: Se digita el Año de Aprobación: Emisión
+16:43:38: Se manda click al botón Consultar
+16:43:48: Se navega a la URL: https://verificacfdi.facturaelectronica.sat.gob.mx/
+16:43:50: Se ingresó folio fiscal: 
+16:43:50: Se ingresó RFC de Emisor: 
+16:43:50: Se ingresó RFC de Receptor: 
+16:43:50: Se ingresó Captcha: 
+16:45:07: Se encontró el siguiente error: OpenQA.Selenium.WebDriverException: no such session
+  (Driver info: chromedriver=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb),platform=Windows NT 10.0.17134 x86_64)
+   en OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   en OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   en OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(String mechanism, String value)
+   en OpenQA.Selenium.Remote.RemoteWebDriver.FindElementById(String id)
+   en OpenQA.Selenium.By.<>c__DisplayClass16_0.<Id>b__0(ISearchContext context)
+   en OpenQA.Selenium.By.FindElement(ISearchContext context)
+   en OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(By by)
+   en OpenQA.Selenium.Support.UI.ExpectedConditions.<>c__DisplayClass6_0.<ElementExists>b__0(IWebDriver driver)
+   en OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition)
+   en QPil.Procesos.CaptchaSAT2.procesoCaptchaSAT2(DataRow datos) en C:\Users\Fernanda Rey\Desktop\RepoQualitas\QPil\Procesos\CaptchaSAT2.cs:línea 143
+16:45:11: Se navega a la URL: https://verificacfdi.facturaelectronica.sat.gob.mx/
+16:45:13: Se ingresó folio fiscal: 
+16:45:13: Se ingresó RFC de Emisor: 
+16:45:13: Se ingresó RFC de Receptor: 
+16:45:14: Se ingresó Captcha: 

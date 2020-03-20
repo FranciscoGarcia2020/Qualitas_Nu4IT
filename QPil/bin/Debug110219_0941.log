@@ -1,0 +1,42 @@
+Archivo LOG de reportes del 2019/02/11 09:41:12
+*******************************************************
+09:41:12: Iniciando QContent descarga de documentos
+09:41:20: Se busca comparar el archivo 20190128105758536 con un patrón de Póliza. sin OCR
+09:41:46: Se busca comparar el archivo 20190128105758536 con un patrón de Póliza
+09:41:46: Se busca comparar el archivo 20190128105758536 con un patrón de Factura
+09:41:46: Se encontró que el archivo 20190128105758536 es una Factura
+09:41:46: Se movió el documento 20190128105758536 al directorio de Factura
+09:41:51: Se busca comparar el archivo idc--59254917F con un patrón de Póliza. sin OCR
+09:41:51: Se busca comparar el archivo idc--59254917F con un patrón de Factura sin OCR. sin OCR
+09:41:51: Se encontró que el archivo idc--59254917F es una Factura. sin OCR
+09:41:51: Se movió el documento idc--59254917F al directorio de Factura. sin OCR
+09:42:13: Se navega a la URL: https://tramitesdigitales.sat.gob.mx/Sicofi.ValidacionCFD/Default.aspx
+09:42:13: Se toma screenshot y se procesar CAPTCHA con valor: yV7Yf
+09:42:13: Se digita el captcha con valor: yV7Yf
+09:42:14: Se manda click al elemento Continuar
+09:42:14: Se digita el RFC del emisor: AUT091023H43
+09:42:14: Se digita la serie: 
+09:42:14: Se digita el Folio del Comprobante: 
+09:42:14: Se digita el Número de Aprobación: 
+09:42:14: Se digita el Año de Aprobación: 
+09:42:14: Se manda click al botón Consultar
+09:44:06: Se encontró el siguiente error: System.IndexOutOfRangeException: Índice fuera de los límites de la matriz.
+   en QPil.Forms.ValidaDatosSat.btnEditar_Click(Object sender, EventArgs e)
+   en System.Windows.Forms.Control.OnClick(EventArgs e)
+   en System.Windows.Forms.Button.OnClick(EventArgs e)
+   en System.Windows.Forms.Button.OnMouseUp(MouseEventArgs mevent)
+   en System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   en System.Windows.Forms.Control.WndProc(Message& m)
+   en System.Windows.Forms.ButtonBase.WndProc(Message& m)
+   en System.Windows.Forms.Button.WndProc(Message& m)
+   en System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   en System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   en System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   en System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   en System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   en System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   en System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   en System.Windows.Forms.Application.RunDialog(Form form)
+   en System.Windows.Forms.Form.ShowDialog(IWin32Window owner)
+   en System.Windows.Forms.Form.ShowDialog()
+   en QPil.Procesos.CaptchaSAT.ProcesoCaptchaSat(DataRow datos)

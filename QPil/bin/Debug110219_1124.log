@@ -1,0 +1,72 @@
+Archivo LOG de reportes del 2019/02/11 11:24:32
+*******************************************************
+11:24:32: Iniciando QContent descarga de documentos
+11:24:42: Se busca comparar el archivo 20190128105758536 con un patrón de Póliza. sin OCR
+11:25:10: Se busca comparar el archivo 20190128105758536 con un patrón de Póliza
+11:25:10: Se busca comparar el archivo 20190128105758536 con un patrón de Factura
+11:25:10: Se encontró que el archivo 20190128105758536 es una Factura
+11:25:10: Se movió el documento 20190128105758536 al directorio de Factura
+11:25:18: Se busca comparar el archivo idc--59254917F con un patrón de Póliza. sin OCR
+11:25:18: Se busca comparar el archivo idc--59254917F con un patrón de Factura sin OCR. sin OCR
+11:25:18: Se encontró que el archivo idc--59254917F es una Factura. sin OCR
+11:25:18: Se movió el documento idc--59254917F al directorio de Factura. sin OCR
+11:25:38: Se accede a la URL: http://www2.repuve.gob.mx:8080/ciudadania/
+11:25:39: Se toma captura a la pantalla y se procesa captcha con valor: 105
+11:25:39: Se ingresa el número de serie: 
+11:25:42: Se ingresa el captcha: 105
+11:25:42: Se manda click al botón buscar
+11:26:03: Se accede a la URL: http://www2.repuve.gob.mx:8080/ciudadania/
+11:26:04: Se toma captura a la pantalla y se procesa captcha con valor: kck
+11:26:04: Se ingresa el número de serie: 
+11:26:07: Se ingresa el captcha: kck
+11:26:07: Se manda click al botón buscar
+11:26:42: Se accede a la URL: http://www2.repuve.gob.mx:8080/ciudadania/
+11:26:43: Se toma captura a la pantalla y se procesa captcha con valor: rhI
+11:26:43: Se ingresa el número de serie: 
+11:26:46: Se ingresa el captcha: rhI
+11:26:46: Se manda click al botón buscar
+11:27:42: Se accede a la URL: http://www2.repuve.gob.mx:8080/ciudadania/
+11:27:43: Se toma captura a la pantalla y se procesa captcha con valor: ze3
+11:27:43: Se ingresa el número de serie: 
+11:27:46: Se ingresa el captcha: ze3
+11:27:46: Se manda click al botón buscar
+11:28:49: Se accede a la URL: http://www2.repuve.gob.mx:8080/ciudadania/
+11:28:49: Se toma captura a la pantalla y se procesa captcha con valor: 
+11:28:49: Se ingresa el número de serie: 
+11:28:52: Se ingresa el captcha: 
+11:28:56: Se manda click al botón buscar
+11:29:31: Se accede a la URL: http://www2.repuve.gob.mx:8080/ciudadania/
+11:29:32: Se toma captura a la pantalla y se procesa captcha con valor: 
+11:29:32: Se ingresa el número de serie: WAU9FD8T3EA007986
+11:29:34: Se ingresa el captcha: 
+11:29:35: Se manda click al botón buscar
+11:29:41: Se accede a la URL: http://www2.repuve.gob.mx:8080/ciudadania/
+11:29:41: Se toma captura a la pantalla y se procesa captcha con valor: 
+11:29:42: Se ingresa el número de serie: WAU9FD8T3EA007986
+11:29:44: Se ingresa el captcha: 
+11:29:44: Se manda click al botón buscar
+11:29:51: Se accede a la URL: http://www2.repuve.gob.mx:8080/ciudadania/
+11:29:51: Se toma captura a la pantalla y se procesa captcha con valor: 
+11:29:51: Se ingresa el número de serie: WAU9FD8T3EA007986
+11:29:54: Se ingresa el captcha: 
+11:29:54: Se manda click al botón buscar
+11:30:03: Se accede a la URL: http://www2.repuve.gob.mx:8080/ciudadania/
+11:30:03: Se toma captura a la pantalla y se procesa captcha con valor: rhts
+11:30:03: Se ingresa el número de serie: WAU9FD8T3EA007986
+11:30:06: Se ingresa el captcha: rhts
+11:30:06: Se manda click al botón buscar
+11:30:07: Se manda click al elemento PGJ
+11:30:07: El vehiculo con serie WAU9FD8T3EA007986tiene el siguiente reporte en PGJ: Sin Reporte de Robo
+11:30:07: Se manda click al elemento OCRA
+11:30:07: El vehiculo con serie WAU9FD8T3EA007986  tiene el siguiente reporte en OCRA: Sin Reporte de Robo
+11:30:07: La marca de esa serie es:  AUDI
+11:30:07: El modelo de esa serie es:  A5
+11:30:07: El año de esa serie es:  2014
+11:30:07: La clase de esa serie es:  AUTOMOVIL
+11:30:07: El tipo de esa serie es:  COUPE
+11:30:07: La planta de ensamblaje de esa serie es:  INGOLSTAD (ALEMANIA
+11:30:12: Se navega a la URL: https://verificacfdi.facturaelectronica.sat.gob.mx/
+11:30:14: Se ingresó folio fiscal: 
+11:30:14: Se ingresó RFC de Emisor: 
+11:30:14: Se ingresó RFC de Receptor: 
+11:30:14: Se ingresó Captcha: 

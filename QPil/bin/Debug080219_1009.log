@@ -1,0 +1,23 @@
+Archivo LOG de reportes del 2019/02/08 10:09:23
+*******************************************************
+10:09:23: Iniciando QContent descarga de documentos
+10:09:23: Se busca comparar el archivo idc--59254911P con un patrón de Póliza. sin OCR
+10:09:23: Se crea el directorio: C:\Users\Fernanda Rey\Desktop\pruebas\Siniestros\04182635987\Poliza
+10:09:23: Se encontró que el archivo idc--59254911P es una Póliza. sin OCR
+10:09:23: Se movió el documento idc--59254911P al directorio de Poliza. sin OCR
+10:09:23: Se extrajo poliza: 2660279436 endoso: 000000 inciso:0001
+10:09:23: Se extrajo serie: WAU9FDET.11
+10:09:23: Se extrajo modelo: 
+10:09:23: Se extrajo motor: 
+10:09:23: Se extrajo DM:  5%
+10:09:23: Se extrajo RT:  5%
+10:09:53: Se busca comparar el archivo idc--59254916T con un patrón de Póliza. sin OCR
+10:09:55: Se busca comparar el archivo idc--59254916T con un patrón de Tenencia sin OCR. sin OCR
+10:09:57: Se crea el directorio: C:\Users\Fernanda Rey\Desktop\pruebas\Siniestros\04182635987\Tenencia
+10:09:57: Se encontró que el archivo idc--59254916T es una Tenencia. sin OCR
+10:09:58: Se movió el documento idc--59254916T al directorio de Tenencia. sin OCR
+10:10:13: Se busca comparar el archivo idc--59254917F con un patrón de Póliza. sin OCR
+10:10:15: Se busca comparar el archivo idc--59254917F con un patrón de Factura sin OCR. sin OCR
+10:10:17: Se crea el directorio: C:\Users\Fernanda Rey\Desktop\pruebas\Siniestros\04182635987\Factura
+10:10:18: Se encontró que el archivo idc--59254917F es una Factura. sin OCR
+10:10:20: Se movió el documento idc--59254917F al directorio de Factura. sin OCR

@@ -1,0 +1,86 @@
+Archivo LOG de reportes del 2019/02/15 17:08:31
+*******************************************************
+17:08:36: C:\Users\Fernanda Rey\Desktop\pruebas\Siniestros\04182635987
+17:08:36: Se busca comparar el archivo 20190128105758536 con un patrón de Póliza. sin OCR
+17:09:02: Se busca comparar el archivo 20190128105758536 con un patrón de Póliza
+17:09:02: Se busca comparar el archivo 20190128105758536 con un patrón de Factura
+17:09:02: Se encontró que el archivo 20190128105758536 es una Factura
+17:09:02: Se movió el documento 20190128105758536 al directorio de Factura
+17:09:02: Se busca comparar el archivo idc--59254917F con un patrón de Póliza. sin OCR
+17:09:02: Se busca comparar el archivo idc--59254917F con un patrón de Factura sin OCR. sin OCR
+17:09:02: Se encontró que el archivo idc--59254917F es una Factura. sin OCR
+17:09:02: Se movió el documento idc--59254917F al directorio de Factura. sin OCR
+17:09:02: Se busca comparar el archivo idc-73951168F con un patrón de Póliza. sin OCR
+17:09:08: Se busca comparar el archivo idc-73951168F con un patrón de Póliza
+17:09:08: Se busca comparar el archivo idc-73951168F con un patrón de Factura
+17:09:08: Se encontró que el archivo idc-73951168F es una Factura
+17:09:08: Se movió el documento idc-73951168F al directorio de Factura
+17:09:08: Se busca comparar el archivo idc-75266891F con un patrón de Póliza. sin OCR
+17:09:08: Se busca comparar el archivo idc-75266891F con un patrón de Factura sin OCR. sin OCR
+17:09:08: Se encontró que el archivo idc-75266891F es una Factura. sin OCR
+17:09:08: Se movió el documento idc-75266891F al directorio de Factura. sin OCR
+17:09:08: Se busca comparar el archivo idc-75393137F con un patrón de Póliza. sin OCR
+17:09:08: Se busca comparar el archivo idc-75393137F con un patrón de Factura sin OCR. sin OCR
+17:09:08: Se encontró que el archivo idc-75393137F es una Factura. sin OCR
+17:09:08: Se movió el documento idc-75393137F al directorio de Factura. sin OCR
+17:09:08: Se busca comparar el archivo idc-75514407F con un patrón de Póliza. sin OCR
+17:09:08: Se busca comparar el archivo idc-75514407F con un patrón de Factura sin OCR. sin OCR
+17:09:08: Se encontró que el archivo idc-75514407F es una Factura. sin OCR
+17:09:08: Se movió el documento idc-75514407F al directorio de Factura. sin OCR
+17:09:08: Se busca comparar el archivo idc-75514418F con un patrón de Póliza. sin OCR
+17:09:08: Se busca comparar el archivo idc-75514418F con un patrón de Factura sin OCR. sin OCR
+17:09:08: Se encontró que el archivo idc-75514418F es una Factura. sin OCR
+17:09:08: Se movió el documento idc-75514418F al directorio de Factura. sin OCR
+17:09:08: Se busca comparar el archivo idc-75515169F con un patrón de Póliza. sin OCR
+17:09:27: Se busca comparar el archivo idc-75515169F con un patrón de Póliza
+17:09:27: Se busca comparar el archivo idc-75515169F con un patrón de Factura
+17:09:27: Se encontró que el archivo idc-75515169F es una Factura
+17:09:27: Se movió el documento idc-75515169F al directorio de Factura
+17:09:27: Se busca comparar el archivo idc-75533026F con un patrón de Póliza. sin OCR
+17:09:27: Se busca comparar el archivo idc-75533026F con un patrón de Factura sin OCR. sin OCR
+17:09:27: Se encontró que el archivo idc-75533026F es una Factura. sin OCR
+17:09:27: Se movió el documento idc-75533026F al directorio de Factura. sin OCR
+17:09:27: Se busca comparar el archivo idc-75544378 con un patrón de Póliza. sin OCR
+17:09:27: Se busca comparar el archivo idc-75544378 con un patrón de Factura sin OCR. sin OCR
+17:09:27: Se encontró que el archivo idc-75544378 es una Factura. sin OCR
+17:09:27: Se movió el documento idc-75544378 al directorio de Factura. sin OCR
+17:11:14: Se encontró el siguiente error: OpenQA.Selenium.WebDriverException: no such session
+  (Driver info: chromedriver=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb),platform=Windows NT 10.0.17134 x86_64)
+   en OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   en OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   en OpenQA.Selenium.Remote.RemoteWebDriver.set_Url(String value)
+   en OpenQA.Selenium.Remote.RemoteNavigator.GoToUrl(String url)
+   en QPil.Procesos.CaptchaRepuve.ProcesoCaptchaRepuve(DataRow datos, IWebDriver Driver)
+17:14:39: Se accede a la URL: http://www2.repuve.gob.mx:8080/ciudadania/
+17:14:40: Se toma captura a la pantalla y se procesa captcha con valor: nkn
+17:14:40: Se ingresa el número de serie: 
+17:14:43: Se ingresa el captcha: nkn
+17:14:43: Se manda click al botón buscar
+17:15:21: Se accede a la URL: http://www2.repuve.gob.mx:8080/ciudadania/
+17:15:22: Se toma captura a la pantalla y se procesa captcha con valor: 5Ie
+17:15:22: Se ingresa el número de serie: 9BWCCO5W8
+17:15:24: Se ingresa el captcha: 5Ie
+17:15:25: Se manda click al botón buscar
+17:16:19: Se accede a la URL: http://www2.repuve.gob.mx:8080/ciudadania/
+17:16:20: Se toma captura a la pantalla y se procesa captcha con valor: l6n
+17:16:20: Se ingresa el número de serie: 9BWCCO5W87P000692
+17:16:23: Se ingresa el captcha: l6n
+17:16:23: Se manda click al botón buscar
+17:17:52: Se accede a la URL: http://www2.repuve.gob.mx:8080/ciudadania/
+17:17:52: Se toma captura a la pantalla y se procesa captcha con valor: Zafz
+17:17:53: Se ingresa el número de serie: 4JGCB751226A024223
+17:17:55: Se ingresa el captcha: Zafz
+17:17:56: Se manda click al botón buscar
+17:18:19: Se toma captura a la pantalla y se procesa captcha con valor: 5wb6
+17:18:19: Se ingresa el número de serie: 4JGCB751226A024223
+17:18:22: Se ingresa el captcha: 5wb6
+17:18:22: Se manda click al botón buscar
+17:19:37: Se manda click al elemento PGJ
+17:19:37: El vehiculo con serie WAU9FD8T3EA007986tiene el siguiente reporte en PGJ: Sin Reporte de Robo
+17:19:37: Se manda click al elemento OCRA
+17:19:37: El vehiculo con serie WAU9FD8T3EA007986  tiene el siguiente reporte en OCRA: Sin Reporte de Robo
+17:19:59: Se accede a la URL: http://www2.repuve.gob.mx:8080/ciudadania/
+17:20:00: Se toma captura a la pantalla y se procesa captcha con valor: llee
+17:20:00: Se ingresa el número de serie: 
+17:20:03: Se ingresa el captcha: llee
+17:20:03: Se manda click al botón buscar

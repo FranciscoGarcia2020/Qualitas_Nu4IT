@@ -1,0 +1,34 @@
+Archivo LOG de reportes del 2019/02/14 15:44:21
+*******************************************************
+15:44:26: C:\Users\Fernanda Rey\Desktop\pruebas\Siniestros\04182635987
+15:44:26: Se busca comparar el archivo 20190128105758536 con un patrón de Póliza. sin OCR
+15:44:51: Se busca comparar el archivo 20190128105758536 con un patrón de Póliza
+15:44:51: Se busca comparar el archivo 20190128105758536 con un patrón de Factura
+15:44:51: Se encontró que el archivo 20190128105758536 es una Factura
+15:44:51: Se movió el documento 20190128105758536 al directorio de Factura
+15:44:51: Se busca comparar el archivo idc-75508646 con un patrón de Póliza. sin OCR
+15:44:52: Se busca comparar el archivo idc-75508646 con un patrón de Factura sin OCR. sin OCR
+15:44:52: Se encontró que el archivo idc-75508646 es una Factura. sin OCR
+15:44:52: Se movió el documento idc-75508646 al directorio de Factura. sin OCR
+15:44:52: Se busca comparar el archivo idc-75544378 con un patrón de Póliza. sin OCR
+15:44:52: Se busca comparar el archivo idc-75544378 con un patrón de Factura sin OCR. sin OCR
+15:44:52: Se encontró que el archivo idc-75544378 es una Factura. sin OCR
+15:44:52: Se movió el documento idc-75544378 al directorio de Factura. sin OCR
+15:44:52: Se busca comparar el archivo idc-75544385 con un patrón de Póliza. sin OCR
+15:44:52: Se busca comparar el archivo idc-75544385 con un patrón de Factura sin OCR. sin OCR
+15:44:52: Se encontró que el archivo idc-75544385 es una Factura. sin OCR
+15:44:52: Se movió el documento idc-75544385 al directorio de Factura. sin OCR
+15:44:52: Se busca comparar el archivo idc-78792276 con un patrón de Póliza. sin OCR
+15:44:52: Se busca comparar el archivo idc-78792276 con un patrón de Factura sin OCR. sin OCR
+15:44:52: Se encontró que el archivo idc-78792276 es una Factura. sin OCR
+15:44:52: Se movió el documento idc-78792276 al directorio de Factura. sin OCR
+15:45:02: Se navega a la URL: https://tramitesdigitales.sat.gob.mx/Sicofi.ValidacionCFD/Default.aspx
+15:45:02: Se toma screenshot y se procesar CAPTCHA con valor: yV7Yf
+15:45:02: Se digita el captcha con valor: yV7Yf
+15:45:03: Se manda click al elemento Continuar
+15:45:03: Se digita el RFC del emisor: AUT091023H43
+15:45:03: Se digita la serie: 
+15:45:03: Se digita el Folio del Comprobante: 
+15:45:03: Se digita el Número de Aprobación: 
+15:45:03: Se digita el Año de Aprobación: 
+15:45:03: Se manda click al botón Consultar

@@ -1,0 +1,68 @@
+Archivo LOG de reportes del 2019/02/08 11:51:57
+*******************************************************
+11:51:57: Iniciando QContent descarga de documentos
+11:51:59: Se busca comparar el archivo 20190128105758536 con un patrón de Póliza. sin OCR
+11:52:26: Se busca comparar el archivo 20190128105758536 con un patrón de Póliza
+11:52:26: Se busca comparar el archivo 20190128105758536 con un patrón de Factura
+11:52:26: Se encontró que el archivo 20190128105758536 es una Factura
+11:52:26: Se movió el documento 20190128105758536 al directorio de Factura
+11:52:27: Se busca comparar el archivo idc--59254917F con un patrón de Póliza. sin OCR
+11:52:27: Se busca comparar el archivo idc--59254917F con un patrón de Factura sin OCR. sin OCR
+11:52:27: Se encontró que el archivo idc--59254917F es una Factura. sin OCR
+11:52:27: Se movió el documento idc--59254917F al directorio de Factura. sin OCR
+11:52:40: Se navega a la URL: https://tramitesdigitales.sat.gob.mx/Sicofi.ValidacionCFD/Default.aspx
+11:52:40: Se toma screenshot y se procesar CAPTCHA con valor: yV7Yf
+11:52:40: Se digita el captcha con valor: yV7Yf
+11:52:40: Se manda click al elemento Continuar
+11:52:41: Se digita el RFC del emisor: AUT091023H43
+11:52:41: Se digita la serie: 
+11:52:41: Se digita el Folio del Comprobante: 
+11:52:41: Se digita el Número de Aprobación: 
+11:52:41: Se digita el Año de Aprobación: 
+11:52:41: Se manda click al botón Consultar
+11:53:00: Se navega a la URL: https://tramitesdigitales.sat.gob.mx/Sicofi.ValidacionCFD/Default.aspx
+11:53:00: Se toma screenshot y se procesar CAPTCHA con valor: yV7Yf
+11:53:01: Se digita el captcha con valor: yV7Yf
+11:53:01: Se manda click al elemento Continuar
+11:53:01: Se digita el RFC del emisor: AUT091023H43
+11:53:01: Se digita la serie: 
+11:53:01: Se digita el Folio del Comprobante: 
+11:53:01: Se digita el Número de Aprobación: 
+11:53:01: Se digita el Año de Aprobación: 
+11:53:01: Se manda click al botón Consultar
+11:53:15: Se navega a la URL: https://tramitesdigitales.sat.gob.mx/Sicofi.ValidacionCFD/Default.aspx
+11:53:16: Se toma screenshot y se procesar CAPTCHA con valor: yV7Yf
+11:53:16: Se digita el captcha con valor: yV7Yf
+11:53:16: Se manda click al elemento Continuar
+11:53:16: Se digita el RFC del emisor: OKE100921P813
+11:53:16: Se digita la serie: WAU9FD8T3EA007986
+11:53:17: Se digita el Folio del Comprobante: EANI00000116
+11:53:17: Se digita el Número de Aprobación: 
+11:53:17: Se digita el Año de Aprobación: 14-04-07
+11:53:17: Se manda click al botón Consultar
+11:56:15: Se encontró el siguiente error: OpenQA.Selenium.WebDriverException: no such session
+  (Driver info: chromedriver=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb),platform=Windows NT 10.0.17134 x86_64)
+   en OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   en OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   en OpenQA.Selenium.Remote.RemoteWebDriver.Close()
+   en QPil.Procesos.CaptchaSAT.ProcesoCaptchaSat(DataRow datos) en C:\Users\Fernanda Rey\Desktop\RepoQualitas\QPil\Procesos\CaptchaSAT.cs:línea 166
+11:56:41: Se navega a la URL: https://tramitesdigitales.sat.gob.mx/Sicofi.ValidacionCFD/Default.aspx
+11:56:41: Se toma screenshot y se procesar CAPTCHA con valor: yV7Yf
+11:56:41: Se digita el captcha con valor: yV7Yf
+11:56:42: Se manda click al elemento Continuar
+11:56:42: Se digita el RFC del emisor: AUT091023H43
+11:56:42: Se digita la serie: 
+11:56:42: Se digita el Folio del Comprobante: 
+11:56:42: Se digita el Número de Aprobación: 
+11:56:42: Se digita el Año de Aprobación: 
+11:56:42: Se manda click al botón Consultar
+11:57:31: Se navega a la URL: https://tramitesdigitales.sat.gob.mx/Sicofi.ValidacionCFD/Default.aspx
+11:57:35: Se toma screenshot y se procesar CAPTCHA con valor: yV7Yf
+11:57:35: Se digita el captcha con valor: yV7Yf
+11:57:36: Se manda click al elemento Continuar
+11:57:38: Se digita el RFC del emisor: OKE100921P813
+11:57:39: Se digita la serie: WAU9FD8T3EA007986
+11:57:39: Se digita el Folio del Comprobante: EANI00000116
+11:57:40: Se digita el Número de Aprobación: 
+11:57:40: Se digita el Año de Aprobación: 14-04-07
+11:57:41: Se manda click al botón Consultar

@@ -1,0 +1,39 @@
+Archivo LOG de reportes del 2019/02/14 16:45:53
+*******************************************************
+16:45:58: C:\Users\Fernanda Rey\Desktop\pruebas\Siniestros\04182635987
+16:45:58: Se busca comparar el archivo idc-75544378 con un patrón de Póliza. sin OCR
+16:45:58: Se busca comparar el archivo idc-75544378 con un patrón de Factura sin OCR. sin OCR
+16:45:58: Se encontró que el archivo idc-75544378 es una Factura. sin OCR
+16:45:58: Se movió el documento idc-75544378 al directorio de Factura. sin OCR
+16:46:08: Se navega a la URL: https://tramitesdigitales.sat.gob.mx/Sicofi.ValidacionCFD/Default.aspx
+16:46:08: Se toma screenshot y se procesar CAPTCHA con valor: yV7Yf
+16:46:08: Se digita el captcha con valor: yV7Yf
+16:46:09: Se manda click al elemento Continuar
+16:46:09: Se digita el RFC del emisor: 
+16:46:09: Se digita la serie: 
+16:46:09: Se digita el Folio del Comprobante: 
+16:46:09: Se digita el Número de Aprobación: 
+16:46:09: Se digita el Año de Aprobación: 
+16:46:09: Se manda click al botón Consultar
+16:46:23: Se navega a la URL: https://verificacfdi.facturaelectronica.sat.gob.mx/
+16:46:25: Se ingresó folio fiscal: 
+16:46:25: Se ingresó RFC de Emisor: 
+16:46:26: Se ingresó RFC de Receptor: 
+16:46:26: Se ingresó Captcha: 
+16:47:19: Se navega a la URL: https://verificacfdi.facturaelectronica.sat.gob.mx/
+16:47:21: Se ingresó folio fiscal: 
+16:47:21: Se ingresó RFC de Emisor: 
+16:47:21: Se ingresó RFC de Receptor: 
+16:47:21: Se ingresó Captcha: 
+16:57:01: Se encontró el siguiente error: OpenQA.Selenium.WebDriverException: no such session
+  (Driver info: chromedriver=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb),platform=Windows NT 10.0.17134 x86_64)
+   en OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   en OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   en OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(String mechanism, String value)
+   en OpenQA.Selenium.Remote.RemoteWebDriver.FindElementById(String id)
+   en OpenQA.Selenium.By.<>c__DisplayClass16_0.<Id>b__0(ISearchContext context)
+   en OpenQA.Selenium.By.FindElement(ISearchContext context)
+   en OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(By by)
+   en OpenQA.Selenium.Support.UI.ExpectedConditions.<>c__DisplayClass6_0.<ElementExists>b__0(IWebDriver driver)
+   en OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition)
+   en QPil.Procesos.CaptchaSAT2.procesoCaptchaSAT2(DataRow datos) en C:\Users\Fernanda Rey\Desktop\RepoQualitas\QPil\Procesos\CaptchaSAT2.cs:línea 143

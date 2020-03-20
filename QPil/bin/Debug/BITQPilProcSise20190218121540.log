@@ -1,0 +1,100 @@
+Archivo LOG de reportes del 2019/02/18 12:15:44
+*******************************************************
+12:15:49: C:\Users\Fernanda Rey\Desktop\pruebas\Siniestros\04182635987
+12:15:49: Se busca comparar el archivo 20190128105758536 con un patrón de Póliza. sin OCR
+12:16:15: Se busca comparar el archivo 20190128105758536 con un patrón de Póliza
+12:16:15: Se busca comparar el archivo 20190128105758536 con un patrón de Factura
+12:16:15: Se crea el directorio: C:\Users\Fernanda Rey\Desktop\pruebas\Siniestros\04182635987\Factura
+12:16:15: Se encontró que el archivo 20190128105758536 es una Factura
+12:16:15: Se movió el documento 20190128105758536 al directorio de Factura
+12:16:15: Se busca comparar el archivo idc-73951168F con un patrón de Póliza. sin OCR
+12:16:20: Se busca comparar el archivo idc-73951168F con un patrón de Póliza
+12:16:20: Se busca comparar el archivo idc-73951168F con un patrón de Factura
+12:16:20: Se encontró que el archivo idc-73951168F es una Factura
+12:16:20: Se movió el documento idc-73951168F al directorio de Factura
+12:16:20: Se busca comparar el archivo idc-73951175T con un patrón de Póliza. sin OCR
+12:16:25: Se busca comparar el archivo idc-73951175T con un patrón de Póliza
+12:16:25: Se busca comparar el archivo idc-73951175T con un patrón de Tenencia
+12:16:25: Se crea el directorio: C:\Users\Fernanda Rey\Desktop\pruebas\Siniestros\04182635987\Tenencia
+12:16:26: Se encontró que el archivo idc-73951175T es una Tenencia
+12:16:26: Se movió el documento idc-73951175T al directorio de Tenencia
+12:16:26: Se busca comparar el archivo idc-73951181T con un patrón de Póliza. sin OCR
+12:16:29: Se busca comparar el archivo idc-73951181T con un patrón de Póliza
+12:16:29: Se busca comparar el archivo idc-73951181T con un patrón de Tenencia
+12:16:29: Se encontró que el archivo idc-73951181T es una Tenencia
+12:16:29: Se movió el documento idc-73951181T al directorio de Tenencia
+12:16:30: Se busca comparar el archivo idc-75266885P con un patrón de Póliza. sin OCR
+12:16:30: Se crea el directorio: C:\Users\Fernanda Rey\Desktop\pruebas\Siniestros\04182635987\Poliza
+12:16:30: Se encontró que el archivo idc-75266885P es una Póliza. sin OCR
+12:16:30: Se movió el documento idc-75266885P al directorio de Poliza. sin OCR
+12:16:30: Se extrajo poliza: 2150004104 endoso: 000_00 inciso:|000
+12:16:30: Se extrajo serie: 9BWCC05W87P000692
+12:16:30: Se extrajo modelo: 2007
+12:16:30: Se extrajo motor: BJY043645
+12:16:30: Se extrajo vigencia: Desde: las 12:00 P.M. del 26/DIC/2017  Hasta: las 12:00 P.M. del 26/DIC/2018 
+12:16:30: Se extrajo DM:  5%
+12:16:30: Se extrajo RT:  5%
+12:16:30: Se busca comparar el archivo idc-75266891F con un patrón de Póliza. sin OCR
+12:16:30: Se busca comparar el archivo idc-75266891F con un patrón de Factura sin OCR. sin OCR
+12:16:30: Se encontró que el archivo idc-75266891F es una Factura. sin OCR
+12:16:30: Se movió el documento idc-75266891F al directorio de Factura. sin OCR
+12:16:30: Se busca comparar el archivo idc-75266899T con un patrón de Póliza. sin OCR
+12:16:30: Se busca comparar el archivo idc-75266899T con un patrón de Tenencia sin OCR. sin OCR
+12:16:30: Se encontró que el archivo idc-75266899T es una Tenencia. sin OCR
+12:16:30: Se movió el documento idc-75266899T al directorio de Tenencia. sin OCR
+12:16:30: Se busca comparar el archivo idc-75393119P con un patrón de Póliza. sin OCR
+12:16:30: Se encontró que el archivo idc-75393119P es una Póliza. sin OCR
+12:16:30: Se movió el documento idc-75393119P al directorio de Poliza. sin OCR
+12:16:30: Se extrajo poliza: 0970722505 endoso: 000000 inciso:0001
+12:16:30: Se extrajo serie: 4J0CB75E26A024223
+12:16:30: Se extrajo modelo: 2006
+12:16:30: Se extrajo motor: HECHO
+12:16:30: Se extrajo vigencia: Desde: las 12:00 P.M. del 08/NOV/2018  Hasta: las 12:00 P.M. del 08/NOV/2019 
+12:16:30: Se extrajo DM: 10%
+12:16:30: Se extrajo RT: 10%
+12:16:30: Se busca comparar el archivo idc-75393130T con un patrón de Póliza. sin OCR
+12:16:30: Se busca comparar el archivo idc-75393130T con un patrón de Tenencia sin OCR. sin OCR
+12:16:30: Se encontró que el archivo idc-75393130T es una Tenencia. sin OCR
+12:16:30: Se movió el documento idc-75393130T al directorio de Tenencia. sin OCR
+12:16:30: Se busca comparar el archivo idc-75393137F con un patrón de Póliza. sin OCR
+12:16:30: Se busca comparar el archivo idc-75393137F con un patrón de Factura sin OCR. sin OCR
+12:16:30: Se encontró que el archivo idc-75393137F es una Factura. sin OCR
+12:16:30: Se movió el documento idc-75393137F al directorio de Factura. sin OCR
+12:16:30: Se busca comparar el archivo idc-75487751P con un patrón de Póliza. sin OCR
+12:16:30: Se encontró que el archivo idc-75487751P es una Póliza. sin OCR
+12:16:30: Se movió el documento idc-75487751P al directorio de Poliza. sin OCR
+12:16:30: Se extrajo serie: 9362KN6A66BOO3409
+12:16:30: Se extrajo modelo: 2006
+12:16:30: Se extrajo motor: Placas'
+12:16:30: Se extrajo vigencia: Desde: las 1,2:00 P.M. del 31/MARi2018 Hasta: 
+12:16:30: Se extrajo DM:  5%
+12:16:30: Se extrajo RT:  5%
+12:16:30: Se busca comparar el archivo idc-75487767T con un patrón de Póliza. sin OCR
+12:16:30: Se busca comparar el archivo idc-75487767T con un patrón de Tenencia sin OCR. sin OCR
+12:16:30: Se encontró que el archivo idc-75487767T es una Tenencia. sin OCR
+12:16:30: Se movió el documento idc-75487767T al directorio de Tenencia. sin OCR
+12:16:30: Se busca comparar el archivo idc-75514407F con un patrón de Póliza. sin OCR
+12:16:30: Se busca comparar el archivo idc-75514407F con un patrón de Factura sin OCR. sin OCR
+12:16:30: Se encontró que el archivo idc-75514407F es una Factura. sin OCR
+12:16:30: Se movió el documento idc-75514407F al directorio de Factura. sin OCR
+12:16:30: Se busca comparar el archivo idc-75514409T con un patrón de Póliza. sin OCR
+12:16:42: Se busca comparar el archivo idc-75514409T con un patrón de Póliza
+12:16:42: Se busca comparar el archivo idc-75514409T con un patrón de Tenencia
+12:16:42: Se encontró que el archivo idc-75514409T es una Tenencia
+12:16:42: Se movió el documento idc-75514409T al directorio de Tenencia
+12:16:42: Se busca comparar el archivo idc-75514418F con un patrón de Póliza. sin OCR
+12:16:42: Se busca comparar el archivo idc-75514418F con un patrón de Factura sin OCR. sin OCR
+12:16:42: Se encontró que el archivo idc-75514418F es una Factura. sin OCR
+12:16:42: Se movió el documento idc-75514418F al directorio de Factura. sin OCR
+12:16:42: Se busca comparar el archivo idc-75515166P con un patrón de Póliza. sin OCR
+12:17:02: Se busca comparar el archivo idc-75515166P con un patrón de Póliza
+12:17:02: Se encontró que el archivo idc-75515166P es una Póliza
+12:17:02: Se movió el documento idc-75515166P al directorio de Poliza
+12:17:02: Se extrajo poliza: POLIZA|DE| endoso: EGURO| inciso:E|AU
+12:17:02: Se extrajo serie: 
+12:17:02: Se extrajo modelo: 
+12:17:02: Se extrajo motor: z
+12:17:02: Se extrajo vigencia: Desde: Ias 12 00 P. M. del 20lJUNl2018 Hasta: Ias 12.00 P. M del 20lJUNl2019 
+12:17:02: No se pudo extraer DM
+12:17:02: N o se pudo extraer RT 
+12:17:02: Se busca comparar el archivo idc-75515169F con un patrón de Póliza. sin OCR
