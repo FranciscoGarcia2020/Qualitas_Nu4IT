@@ -1,0 +1,8 @@
+﻿<Window x:Class="QPil.Resources.WindowUniversal"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="WindowUniversal" Loaded="Window_Loaded" Icon="/QPil;component/Resources/Imagenes/logo-nu2.ico" Closing="Window_Closing" 
+        Height="728.358" Width="1200" Background="White" WindowStartupLocation="CenterScreen" WindowState="Normal" SizeChanged="Window_SizeChanged" >
+    <Grid  Name="gridRoot">
+    </Grid>
+</Window>

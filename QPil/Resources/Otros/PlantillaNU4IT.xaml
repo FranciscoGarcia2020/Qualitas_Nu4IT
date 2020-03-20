@@ -1,0 +1,67 @@
+﻿<UserControl x:Class="QPil.Resources.Plantilla"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" FontFamily="Arial" 
+             Height="117.703" Width="373.093" HorizontalAlignment="Left" VerticalAlignment="Top">
+    <!-- CUERPO -->
+    <Grid Name="gridPrincipalMain">
+        <Grid.Background>
+            <ImageBrush ImageSource="/QPil;component/Resources/Imagenes/FondoNurobotF.png"/>
+        </Grid.Background>
+        <!-- ENCABEZADOS -->
+        <Grid VerticalAlignment="Top" Height="31" Margin="3,3,3,0" >
+            <Grid.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FF1469A0" Offset="0.989"/>
+                    <GradientStop Color="#FF0F4266"/>
+                </LinearGradientBrush>
+            </Grid.Background>
+            <!-- TITULOS -->
+            <Border Margin="5,1,4,4" Height="26" Width="26" HorizontalAlignment="Left" CornerRadius="20"  Effect="{DynamicResource MaterialDesignShadowDepth1}">
+                <Border.Background>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="#FFBFBFBF" Offset="1"/>
+                        <GradientStop Color="White"/>
+                    </LinearGradientBrush>
+                </Border.Background>
+                <Image Source="/QPil;component/Resources/Imagenes/logo-nu2.ico" Margin="4"/>
+            </Border>
+            <Rectangle StrokeThickness="0" Margin="0,0,90,0" />
+            <Label x:Name="lblNombre" Content="Titulo" Margin="0,0,0,0" Foreground="White" FontSize="11" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" FontWeight="Bold"/>
+        </Grid>
+        <!-- IMAGEN Y BORDE -->
+        <Rectangle StrokeThickness="3" Stroke="#FF37B554"/>
+        <Image x:Name="image" HorizontalAlignment="Right" Height="63" VerticalAlignment="Bottom" Width="126" Margin="0,0,10,18" Source="/QPil;component/Resources/Imagenes/Nu4it/nu4it logo relieve.png"/>
+        <!-- • • • • • • • • CONTENIDO  PRINCIPAL  • • • • • • • • -->
+
+        <!-- • • • • • • • • • • • • • • • • • • • • • • • • • • • -->
+        <!-- HERRAMIENTAS -->
+        <Grid Name="grdHerramientas" Margin="0,5,5,0" HorizontalAlignment="Right" VerticalAlignment="Top" Width="235" Height="27">
+            <DockPanel>
+                <Label x:Name="btnSetti" MouseDown="btnSetti_MouseDown" Content="" HorizontalAlignment="Right" Margin="0,0,0,0" VerticalAlignment="Top" Width="27" Height="27" BorderThickness="1" Foreground="{x:Null}">
+                    <Label.Background>
+                        <ImageBrush ImageSource="/QPil;component\Resources/Imagenes/Nubot/settings32.png"/>
+                    </Label.Background>
+                </Label>
+            </DockPanel>
+            <Grid Margin="0,27,10,0" VerticalAlignment="Top">
+                <Grid Background="#FF0F4469" Opacity="0.75" Margin="0,2,0,0">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition/>
+                    </Grid.ColumnDefinitions>
+                </Grid>
+                <StackPanel>
+                    <Label Content="OPCIONES" FontWeight="Bold" Foreground="#FF37B554" Background="#FF0F4469" HorizontalContentAlignment="Center" Margin="0,10,0,10"/>
+                    <!-- Opciones -->
+
+                    <!-- ******** -->
+                    <Rectangle Height="45"/>
+                    <Image Height="21" HorizontalAlignment="Right" Source="/QPil;component/Resources/Imagenes/Nu4it/nu4it_3.png" Margin="0,0,5,0"/>
+                    <Rectangle Height="5"/>
+                </StackPanel>
+            </Grid>
+        </Grid>
+    </Grid>
+</UserControl>

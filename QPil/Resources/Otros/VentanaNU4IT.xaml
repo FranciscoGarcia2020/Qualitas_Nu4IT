@@ -1,0 +1,70 @@
+﻿<Window x:Class="QPil.Resources.VentanaNU4IT"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+        Title="EnviarConvenios" Height="361.017" Width="556.78"
+        ResizeMode="CanResizeWithGrip" WindowStartupLocation="CenterScreen" Icon="/QPil;component/Resources/Imagenes/logo-nu2.ico" 
+        Background="{x:Null}" KeyUp="Window_KeyUp" Name="VentanaNu4" Loaded="VentanaNu4_Loaded" AllowsTransparency="True" WindowStyle="None" Topmost="True"
+        >
+    <!-- ANIMACION -->
+    <!--<Window.Triggers>
+        <EventTrigger RoutedEvent="Loaded" >
+            <BeginStoryboard>
+                <Storyboard>
+                    <DoubleAnimation Storyboard.TargetProperty="Opacity" Storyboard.TargetName="VentanaNu4" From="0" To="1" Duration="0:0:0.3"/>
+                </Storyboard>
+            </BeginStoryboard>
+        </EventTrigger>
+    </Window.Triggers>-->
+    <Grid Margin="3,3,3,3">
+        <!-- SOMBRA -->
+        <Grid.Effect>
+            <DropShadowEffect Direction="0" ShadowDepth="0" Opacity="0.6"/>
+        </Grid.Effect>
+        <!-- BORDE / ORILLA -->
+        <Border CornerRadius="5" Margin="2" BorderBrush="#FF004A7A" BorderThickness="3">
+            <Border.Effect>
+                <DropShadowEffect Direction="0" ShadowDepth="0" BlurRadius="10" Opacity="0.3"/>
+            </Border.Effect>
+        </Border>
+        <!-- ENCABEZADOS -->
+        <Grid Name="gridHeader" VerticalAlignment="Top" Height="31" Margin="5,5,5,0" MouseDown="gridHeader_MouseDown">
+            <Grid.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FF004A7A" Offset="0.989"/>
+                    <GradientStop Color="#FF001E32"/>
+                </LinearGradientBrush>
+            </Grid.Background>
+            <!-- TITULOS -->
+            <!--<Border Margin="1" HorizontalAlignment="Left" CornerRadius="20">
+                <Border.Background>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="#FFCDCDCD" Offset="0.996"/>
+                        <GradientStop Color="White"/>
+                    </LinearGradientBrush>
+                </Border.Background>
+                <Image Source="/QPil;component/Resources/Imagenes/logo-nu2.ico" Margin="3"/>
+            </Border>-->
+            <Border Margin="5,1,4,4" Height="26" Width="26" HorizontalAlignment="Left" CornerRadius="20"  Effect="{DynamicResource MaterialDesignShadowDepth1}">
+                <Image Source="/QPil;component/Resources/Imagenes/Nu4it/logoNU4IT_blanco.png" Margin="4"/>
+            </Border>
+            <Label x:Name="lblNu4it" Content="           NU4IT Automation" Foreground="White" FontSize="11" VerticalContentAlignment="Center"/>
+            <Label x:Name="lblTitle" Content="" Margin="0,0,0,0" Foreground="White" FontSize="15" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" FontWeight="Bold"/>
+            <!-- BOTONES -->
+            <Grid HorizontalAlignment="Right" VerticalAlignment="Top" Margin="0,4,8,0" Width="72">
+                <DockPanel>
+                    <Image Name="btnMinimiza" Source="/QPil;component/Resources/Imagenes/Nubot/minimiza32.png" Height="22" Margin="1" MouseDown="btnMinimiza_MouseDown"></Image>
+                    <Image Name="btnMaximiResta" Source="/QPil;component/Resources/Imagenes/Nubot/maximiza32.png" Height="22" Margin="1" MouseDown="btnMaximiResta_MouseDown"></Image>
+                    <Image Name="btnCerrar" Source="/QPil;component/Resources/Imagenes/Nubot/delete32.png" Height="22" Margin="1" MouseDown="btnCerrar_MouseDown" HorizontalAlignment="Right"></Image>
+                </DockPanel>
+            </Grid>
+        </Grid>
+        <!-- CONTENIDO -->
+        <Grid Margin="5,36,5,5" Name="gridRoot">
+            <Grid.Background>
+                <ImageBrush ImageSource="/QPil;component/Resources/Imagenes/Otras/bienbenidobest.png"/>
+            </Grid.Background>
+
+        </Grid>
+    </Grid>
+</Window>

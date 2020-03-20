@@ -1,0 +1,162 @@
+﻿<Window x:Class="QPil.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns:local="clr-namespace:QPil"
+        Background="{x:Null}" 
+        Foreground="{x:Null}" 
+        WindowStartupLocation="CenterScreen" FontFamily="Arial"
+        Height="700" Width="1120" Loaded="Window_Loaded" Icon="Resources/Imagenes/Icons/logo-nu2.ico" WindowStyle="None" 
+        ResizeMode="CanResizeWithGrip" AllowsTransparency="True" Closing="Window_Closing" Name="VentanaNu4MainWindow"
+        MinWidth="100" MinHeight="600" SizeChanged="VentanaNu4MainWindow_SizeChanged" Title="Nübot" LocationChanged="VentanaNu4MainWindow_LocationChanged"
+    >
+    <!-- EVENTOS -->
+    <Window.Resources>
+        <Storyboard x:Key="expanderMenu">
+            <DoubleAnimation Storyboard.TargetProperty="Width" From="47" To="190"  Duration="0:0:0.5" Storyboard.TargetName="gridClientes" />
+            <DoubleAnimation Storyboard.TargetProperty="Opacity" Storyboard.TargetName="gridClientes" From="0" To="1" Duration="0:0:0.3"/>
+        </Storyboard>
+        <Storyboard x:Key="contraerMenu">
+            <DoubleAnimation Storyboard.TargetProperty="Opacity" Storyboard.TargetName="gridClientes" From="1" To="0" Duration="0:0:0.3"/>
+            <DoubleAnimation Storyboard.TargetProperty="Width" From="190" To="47"  Duration="0:0:0.5" Storyboard.TargetName="gridClientes" />
+        </Storyboard>
+    </Window.Resources>
+    <!-- ANIMACION -->
+    <Window.Triggers>
+        <EventTrigger RoutedEvent="Loaded" >
+            <BeginStoryboard>
+                <Storyboard>
+                    <DoubleAnimation Storyboard.TargetProperty="Opacity" Storyboard.TargetName="VentanaNu4MainWindow" From="0" To="1" Duration="0:0:1"/>
+                </Storyboard>
+            </BeginStoryboard>
+        </EventTrigger>
+    </Window.Triggers>
+    <!--  MAIN  1052 x 421 -->
+    <Grid Name="gridMain" Background="White" Margin="3" MouseDown="gridMain_MouseDown">
+        <Grid.Effect>
+            <DropShadowEffect ShadowDepth="0" BlurRadius="5"/>
+        </Grid.Effect>
+        <Grid Name="gridFONDO" Margin="47,44,0,32">
+            <Image Source="Resources/Imagenes/Cliente/nu4itwalmart.png" Opacity="0.11" Margin="0,0,15,0"/>
+        </Grid>
+        <!-- CONTENIDO -->
+        <Grid Name="gridPrincipal" Margin="57,51,7,39"/>
+        <!-- ANIMACION -->
+        <Rectangle Name="rctFondo" Margin="0,44,0,32" Fill="Black" Opacity="0.3" Visibility="Collapsed"/>
+        <!--  ENCABEZADO -->
+        <Grid VerticalAlignment="Top" Name="grdEncabezado" Background="{StaticResource PrimaryHueDarkBrush}">
+            <Grid.Effect>
+                <DropShadowEffect Direction="0" ShadowDepth="0" Opacity="0.6" Color="Black"/>
+            </Grid.Effect>
+            <Rectangle Height="44" VerticalAlignment="Top" MouseDown="Rectangle_MouseDown" Fill="White" HorizontalAlignment="Left" Width="191"/>
+            <Image x:Name="image" HorizontalAlignment="Left" Height="40" Margin="45,2,0,0" VerticalAlignment="Top" Width="98" Source="Resources/Imagenes/Nu4it/nu4it logo relieve.png" Stretch="Fill"/>
+            <Rectangle Height="44" MouseDown="Rectangle_MouseDown" HorizontalAlignment="Right" Width="142" VerticalAlignment="Top"/>
+            <Label x:Name="lblTitulo" Content="Nübot - Qualitas" Foreground="White" FontWeight="Bold" FontSize="19" HorizontalContentAlignment="Center" MouseDoubleClick="lblTitulo_MouseDoubleClick" VerticalContentAlignment="Center" MouseDown="Rectangle_MouseDown"/>
+            <!-- TITULO -->
+            <DockPanel Margin="0,6,6,0" HorizontalAlignment="Right" VerticalAlignment="Top">
+                <!--  BOTONES -->
+                <Border Margin="2" x:Name="btnDownlImg" ToolTip="Actualizaciones" Width="25" Height="25" MouseEnter="BotoAzulOver" MouseLeave="BotonLeaveVacio" MouseDown="btnDownl_MouseDown" Background="{StaticResource PrimaryHueDarkBrush}" CornerRadius="30">
+                    <materialDesign:PackIcon Kind="Download" Foreground="White" Width="25" Height="25"/>
+                </Border>
+                <Border Margin="2" x:Name="btnSetti" ToolTip="Ajustes" Width="25" Height="25" MouseEnter="BotoAzulOver" MouseLeave="BotonLeaveVacio" MouseDown="btnSetti_MouseDown"  Background="{StaticResource PrimaryHueDarkBrush}" CornerRadius="30">
+                    <materialDesign:PackIcon Kind="DotsVertical" Foreground="White" Width="25" Height="25"/>
+                </Border>
+                <Border Margin="2" x:Name="btnRestart" ToolTip="Reiniciar" Width="27" Height="27" MouseEnter="BotoAzulOver" MouseLeave="BotonLeaveVacio" MouseDown="btnRestart_MouseDown"  Background="{StaticResource PrimaryHueDarkBrush}" CornerRadius="30">
+                    <materialDesign:PackIcon Kind="Restart" Foreground="White" Width="25" Height="25"/>
+                </Border>
+                <Border Margin="2" x:Name="btnMinimizar" ToolTip="Minimizar" Width="25" Height="25" MouseEnter="BotoAzulOver" MouseLeave="BotonLeaveVacio" MouseDown="btnMinimizar_MouseDown"  Background="{StaticResource PrimaryHueDarkBrush}" CornerRadius="30">
+                    <materialDesign:PackIcon Kind="WindowMinimize" Foreground="White" Width="25" Height="25"/>
+                </Border>
+                <Border Margin="2" x:Name="btnMaximResta"  ToolTip="Maximizar" Width="25" Height="25" MouseEnter="BotoAzulOver" MouseLeave="BotonLeaveVacio" MouseDown="btnMaximResta_MouseDown" Background="{StaticResource PrimaryHueDarkBrush}" CornerRadius="30">
+                    <materialDesign:PackIcon Kind="WindowMaximize" Foreground="White" Width="25" Height="25"/>
+                </Border>
+                <Border Margin="2" x:Name="btnCerar" ToolTip="Cerrar" Width="25" Height="25" MouseEnter="BotoAzulOver" MouseLeave="BotonLeaveVacio" MouseDown="btnCerar_MouseDown" Background="{StaticResource PrimaryHueDarkBrush}" CornerRadius="30">
+                    <materialDesign:PackIcon Kind="WindowClose" Foreground="White" Width="25" Height="25"/>
+                </Border>
+            </DockPanel>
+        </Grid>
+        <!--  BARRA DE STATUS  -->
+        <StatusBar Name="StatusBar" Margin="3,0,0,0" VerticalAlignment="Bottom"  x:FieldModifier="public" BorderBrush="Black" Background="WhiteSmoke">
+            <StatusBar.Effect>
+                <DropShadowEffect Direction="0" ShadowDepth="0" Opacity="0.6"/>
+            </StatusBar.Effect>
+            <Label Width="47"/>
+            <Label x:Name="STATUS" Content="Status:" x:FieldModifier="public" MouseDoubleClick="STATUS_MouseDoubleClick"/>
+            <Label x:Name="txtStatus" Content="ABCabc123" Width="990" IsManipulationEnabled="True" x:FieldModifier="public" MouseDoubleClick="txtstatus_Mousedobleclick"/>
+        </StatusBar>
+        <!--  MENU DE SETTINGS -->
+        <Grid Name="gridMenu" Height="390" Width="196" Margin="0,36,125,0" Visibility="Visible" VerticalAlignment="Top" HorizontalAlignment="Right" Background="{StaticResource MaterialDesignPaper}" MouseLeave="gridMenu_MouseLeave">
+            <Grid.Effect>
+                <DropShadowEffect Direction="0" ShadowDepth="0" Opacity="0.6"/>
+            </Grid.Effect>
+        </Grid>
+        <!-- MENU PRINCIPAL -->
+        <Grid Name="gridClientes" HorizontalAlignment="Left" Margin="0,44,0,0" Width="190" >
+            <Grid.Effect>
+                <DropShadowEffect Direction="0" ShadowDepth="0" Opacity="0.6" Color="Black"/>
+            </Grid.Effect>
+            <Rectangle Name="rctGridClientes" Fill="{StaticResource PrimaryHueMidBrush}"/>
+            <Rectangle Name="rctGridClientesFondo" Fill="{StaticResource AzulDegradadoNU4IT}" Margin="0,129,0,6" Visibility="Visible"/>
+            <Grid>
+                <StackPanel>
+                    <!-- Imagen de usuario -->
+                    <StackPanel Name="imgCarita" Height="123" Background="{StaticResource PrimaryHueDarkBrush}">
+                        <Border Name="imgUsuario" CornerRadius="50" Height="84" Width="84" Margin="0,5,0,0" HorizontalAlignment="Center" VerticalAlignment="Center" BorderBrush="{StaticResource PrimaryHueMidBrush}" BorderThickness="3">
+                            <Border.Background>
+                                <ImageBrush ImageSource="Resources/Imagenes/Gifs/docubot.gif"/>
+                            </Border.Background>
+                        </Border>
+                        <Label x:Name="lblUsuario" VerticalAlignment="Bottom" Margin="0,-4,0,0" HorizontalAlignment="Center" Foreground="White" FontSize="21" BorderBrush="White">
+                            <Label.Content>
+                                <AccessText Name="lblNombreVisible" TextWrapping="Wrap" Text="Jormar 21" TextAlignment="Center"/>
+                            </Label.Content>
+                        </Label>
+                    </StackPanel>
+                    <!-- Boton de menu -->
+                    <ToggleButton Style="{StaticResource ToogleButtonStyle_MENU}" Background="{StaticResource PrimaryHueDarkBrush}" IsChecked="True" Name="btnMenu" Height="25" VerticalAlignment="Top" HorizontalAlignment="Right" Width="23" Margin="0,8,8,0" Click="btnMenu_Click" MouseDown="btnMenu_MouseDown"/>
+                </StackPanel>
+            </Grid>
+        </Grid>
+        <!-- PANEL DE MENUS -->
+        <ScrollViewer Name="scrPanelRobots" VerticalScrollBarVisibility="Hidden" HorizontalScrollBarVisibility="Hidden" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="0,205,0,0" MinHeight="480">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="1*"/>
+                    <ColumnDefinition Width="1*"/>
+                </Grid.ColumnDefinitions>
+                <!-- MENUS -->
+                <StackPanel Name="PanelRobots" Width="190" MouseEnter="PanelRobots_MouseEnter" MouseDown="PanelRobots_MouseDown" Grid.Column="0" HorizontalAlignment="Left" Effect="{DynamicResource MaterialDesignShadowDepth1}">
+                    <!-- ejemplo de menu -->
+                    <Grid>
+                        <Label BorderThickness="8,0,0,0" Background="{StaticResource PrimaryHueMidBrush}" BorderBrush="Green"/>
+                        <DockPanel>
+                            <Image Margin="13,8,5,7" Width="26" Height="26" Source="Resources/Imagenes/Botones/question.png"/>
+                            <Label Content="Menu X" Foreground="White" FontWeight="Bold" HorizontalAlignment="Center" VerticalAlignment="Center" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
+                        </DockPanel>
+                        <Border Name="brdIndicador" CornerRadius="20" Height="20" Width="20" HorizontalAlignment="Left" Background="#FFCF2323" VerticalAlignment="Top" Margin="0">
+                            <Label Foreground="White" Content="21" FontSize="12" FontWeight="Bold" Margin="-6" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                        </Border>
+                    </Grid>
+                </StackPanel>
+                <!-- Fondo -->
+                <Rectangle Name="rctSubMenus" HorizontalAlignment="Left" Width="190" VerticalAlignment="Top" Margin="0" Height="82" MouseLeave="stkSubmenus_MouseLeave" Grid.Column="1" Fill="#FF05294D" StrokeThickness="2"/>
+                <!-- SUBMENUS -->
+                <Grid Name="grdSubmenus" HorizontalAlignment="Left" Width="190" VerticalAlignment="Top" Margin="0" Height="82" MouseLeave="stkSubmenus_MouseLeave" Grid.Column="1">
+                    <StackPanel Name="stkSubmenus" MouseDown="stkSubmenus_MouseDown" MouseEnter="stkSubmenus_MouseEnter" Background="{DynamicResource MDsubmenu}" Opacity="0.95" >
+                        <!-- ejemplo de submenu -->
+                        <Grid Height="41">
+                            <Label BorderThickness="0,0,8,0"/>
+                            <Label Content="Submenu Y 1" Foreground="White" FontWeight="Bold"  HorizontalAlignment="Center" VerticalAlignment="Center" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
+                        </Grid>
+                        <Grid Height="41" Background="{StaticResource PrimaryHueDarkBrush}">
+                            <Label BorderThickness="0,0,8,0"/>
+                            <Label Content="Submenu Y 2" Foreground="White" FontWeight="Bold"  HorizontalAlignment="Center" VerticalAlignment="Center" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
+                        </Grid>
+                    </StackPanel>
+                </Grid>
+            </Grid>
+        </ScrollViewer>
+        <!-- PIE DE PAGINA -->
+    </Grid>
+    <!--#endregion-->
+</Window>

@@ -1,0 +1,20 @@
+﻿<Window x:Class="QPil.Resources.Pruebas"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:QPil.Resources"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        mc:Ignorable="d" FontFamily="Arial"
+        Title="Pruebas" Height="300" Width="300">
+    <TabControl>
+        <TabItem Header="A">
+            <StackPanel Margin="10">
+                <DockPanel>
+                    <Label Content="1:" FontWeight="Bold"/>
+                    <Label Content="FWE QWE " />
+                </DockPanel>
+            </StackPanel>
+        </TabItem>
+    </TabControl>
+</Window>

@@ -1,0 +1,44 @@
+﻿<UserControl x:Class="QPil.Pages.Settings"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:QPil.Pages"
+             mc:Ignorable="d" FontFamily="Arial" 
+             Height="259" Width="200" 
+             HorizontalAlignment="Left" VerticalAlignment="Top"
+             >
+    <Grid Name="GridMenuArea" HorizontalAlignment="Left" VerticalAlignment="Top" MouseLeave="GridMenuArea_MouseLeave" Margin="0,-2,0,0">
+        <Grid.Effect>
+            <DropShadowEffect ShadowDepth="0" BlurRadius="5"/>
+        </Grid.Effect>
+        <Grid.Triggers>
+            <EventTrigger RoutedEvent="Loaded" >
+                <BeginStoryboard>
+                    <Storyboard>
+                        <DoubleAnimation Storyboard.TargetProperty="Height" Storyboard.TargetName="GridMenuArea" From="0" To="238" Duration="0:0:0.1"/>
+                        <DoubleAnimation Storyboard.TargetProperty="Opacity" Storyboard.TargetName="GridMenuArea" From="0" To="1" Duration="0:0:0.2"/>
+                    </Storyboard>
+                </BeginStoryboard>
+            </EventTrigger>
+        </Grid.Triggers>
+        <Rectangle Fill="{StaticResource PrimaryHueDarkBrush}" HorizontalAlignment="Left" Height="233" Margin="32,10,0,0" VerticalAlignment="Top" Width="168"/>
+        <Rectangle Fill="{StaticResource PrimaryHueMidBrush}" HorizontalAlignment="Right" Height="10" VerticalAlignment="Top" Width="32"/>
+        <Label x:Name="lblTitulo" Content="HERRAMIENTAS" VerticalAlignment="Top" HorizontalContentAlignment="Center" BorderBrush="{StaticResource PrimaryHueMidBrush}" Foreground="White" FontWeight="Bold" FontSize="14" BorderThickness="0,0,0,3" Margin="32,10,0,0" Height="33"/>
+        <StackPanel Margin="32,43,0,3">
+            <!-- INICIO BOTONES -->
+            <StackPanel Name="PanelRobots" Height="135"/>
+            <!-- FIN BOTONES -->
+            <StackPanel>
+                <Rectangle x:Name="lblDivisor1" Fill="{StaticResource PrimaryHueMidBrush}" Height="3"/>
+                <Label x:Name="btnAyuda" Content="Ayuda" Width="168" Foreground="White" MouseEnter="MouseEnterLbl" MouseLeave="MouseLeaveLbl" MouseDown="MouseDownLbl" VerticalContentAlignment="Center" HorizontalContentAlignment="Center"/>
+                <Rectangle x:Name="lblDivisor2" Fill="{StaticResource PrimaryHueMidBrush}" Height="3"/>
+                <DockPanel>
+                    <Rectangle Width="12"/>
+                    <Label x:Name="btnSignOut" Content="Cerrar sesión" Foreground="Red" MouseEnter="MouseEnterLbl" MouseLeave="MouseLeaveLbl" MouseDown="MouseDownLbl" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" HorizontalAlignment="Right" FontWeight="Bold" FontStyle="Italic" Width="131"/>
+                    <Image Source="/QPil;component/Resources/Imagenes/QPil/delete32.png" Height="18" Width="18" HorizontalAlignment="Right" Margin="0,0,5,0"/>
+                </DockPanel>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</UserControl>

@@ -1,0 +1,64 @@
+﻿<Window x:Class="QPil.Pages.SplashWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:QPil.Pages"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns:gif="http://wpfanimatedgif.codeplex.com"
+        mc:Ignorable="d"
+        Title="SplashWindow" Height="345" Width="621.725" AllowsTransparency="True" WindowStyle="None"
+        WindowStartupLocation="CenterScreen" Icon="/QPil;component/Resources/Imagenes/Icons/logo-nu2.ico"
+        Closing="Window_Closing" Loaded="Window_Loaded" Background="{x:Null}" MouseDown="Window_MouseDown"
+        >
+    <Grid Name="GridSplash" Margin="3">
+        <Grid.Effect>
+            <DropShadowEffect ShadowDepth="0" BlurRadius="8"/>
+        </Grid.Effect>
+        <Grid.Triggers>
+            <EventTrigger RoutedEvent="Loaded" >
+                <BeginStoryboard>
+                    <Storyboard>
+                        <DoubleAnimation Storyboard.TargetProperty="Opacity" Storyboard.TargetName="GridSplash" From="0" To=".9" Duration="0:0:1"/>
+                    </Storyboard>
+                </BeginStoryboard>
+            </EventTrigger>
+        </Grid.Triggers>
+        <!-- FONDO -->
+        <Rectangle RadiusX="10" RadiusY="10" Fill="{StaticResource AzulDegradadoNU4IT}">
+            <!--<Rectangle.Fill>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FF0F517C" Offset="0.989"/>
+                    <GradientStop Color="#FF09283E"/>
+                </LinearGradientBrush>
+            </Rectangle.Fill>-->
+        </Rectangle>
+        <!-- CERRAR -->
+        <Border x:Name="label" HorizontalAlignment="Right" VerticalAlignment="Top" Width="21" Height="21" MouseDown="label_MouseDown" Opacity="0.8" Margin="0,10,10,0" Background="#FF0F507B">
+            <Grid>
+                <Rectangle Fill="{StaticResource PrimaryHueDarkBrush}" RadiusX="30" RadiusY="30" Opacity=".1"/>
+                <materialDesign:PackIcon Kind="WindowClose" Foreground="White" Width="21" Height="21"/>
+            </Grid>
+        </Border>
+        <!-- GIF -->
+        <Rectangle HorizontalAlignment="Left" Height="36" Margin="0,301,0,0" RadiusY="10" VerticalAlignment="Top" Width="622" StrokeThickness="2" Fill="White"/>
+        <!-- IMAGEN NU4IT -->
+        <Image Source="/QPil;component/Resources/Imagenes/Nu4it/nu4it_3.png" VerticalAlignment="Center" HorizontalAlignment="Center" Height="156" Opacity=".95"  Margin="114,74,114,109" Width="388">
+            <Image.Effect>
+                <DropShadowEffect ShadowDepth="0" BlurRadius="5" Opacity="1" Color="White" />
+            </Image.Effect>
+        </Image>
+        <!-- PIE DE PAGINA -->
+        <Rectangle Fill="{DynamicResource PrimaryHueMidBrush}" HorizontalAlignment="Left" Height="52" Margin="0,287,0,0" VerticalAlignment="Top" Width="616" Stroke="{DynamicResource PrimaryHueMidBrush}"/>
+        <Rectangle HorizontalAlignment="Left" Height="44" Margin="0,291,0,0" RadiusY="10" VerticalAlignment="Top" Width="616" Fill="White" StrokeThickness="2"/>
+        <Image Name="imgUpdatisng2" gif:ImageBehavior.AnimatedSource="/QPil;component/Resources/Imagenes/Gifs/1.gif" HorizontalAlignment="Right" VerticalAlignment="Bottom" Height="102" Width="173" Margin="0,0,0,-26" Source="/QPil;component/Resources/Imagenes/Gifs/1.gif"/>
+        <Label Name="lblVersion" Content="0.0.0.0" Foreground="White" FontFamily="CordiaUPC" FontSize="15" FontStyle="Italic" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,10,0,0" FontWeight="Bold">
+            <Label.Effect>
+                <DropShadowEffect ShadowDepth="0" BlurRadius="5" Opacity="1" Color="White" />
+            </Label.Effect>
+        </Label>
+        <!-- MENSAJE -->
+        <Label x:Name="lblStatus" Content="Inicializando..." HorizontalAlignment="Left" VerticalAlignment="Bottom" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontStyle="Italic" FontSize="13" Margin="10,0,0,13" FontFamily="Global User Interface" />
+
+    </Grid>
+</Window>

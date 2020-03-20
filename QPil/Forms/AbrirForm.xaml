@@ -1,0 +1,22 @@
+﻿<UserControl x:Class="QPil.Forms.AbrirForm"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:QPil.Forms"
+             xmlns:wf="clr-namespace:System.Windows.Forms;assembly=System.Windows.Forms"  
+             mc:Ignorable="d" FontFamily="Arial" 
+             Height="300" Width="300">
+    <Grid Name="gridMain" Background="#FF682828">
+        <Grid.Triggers>
+            <EventTrigger RoutedEvent="Loaded" >
+                <BeginStoryboard>
+                    <Storyboard>
+                        <DoubleAnimation Storyboard.TargetProperty="Opacity" Storyboard.TargetName="gridMain" From="0" To="1" Duration="0:0:1"/>
+                    </Storyboard>
+                </BeginStoryboard>
+            </EventTrigger>
+        </Grid.Triggers>
+        <WindowsFormsHost Margin="10" Name="host"/>
+    </Grid>
+</UserControl>

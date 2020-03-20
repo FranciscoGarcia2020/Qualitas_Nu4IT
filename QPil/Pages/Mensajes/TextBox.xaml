@@ -1,0 +1,17 @@
+﻿<Window x:Class="QPil.Pages.Mensajes.TextBox"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:QPil.Pages.Mensajes" Tag="Inserta datos"
+        mc:Ignorable="d" FontFamily="Arial" Topmost="True" WindowStartupLocation="CenterScreen"
+        Title="Nü4it Automation" Height="152.173" Width="404.181" Icon="/QPil;component/Resources/Imagenes/Icons/logo-nu2.ico" Style="{StaticResource WindowStyle_NUBOT_NoResize}" ResizeMode="NoResize">
+    <Grid>
+        <Image x:Name="image" HorizontalAlignment="Right" Height="50" VerticalAlignment="Bottom" Width="100" Margin="0,0,0,3" Source="/QPil;component/Resources/Imagenes/Nu4it/SplashScreen1.png"/>
+        <!-- CONTENIDO -->
+        <Label x:Name="lblTitulo" Content="..." HorizontalAlignment="Center" VerticalAlignment="Top" FontWeight="Bold" Margin="0,10,0,0"/>
+        <TextBox x:Name="txtTexto" Focusable="True" TextChanged="txtTexto_TextChanged" Margin="10,41,10,58" TextWrapping="Wrap" Text=""/>
+        <Button IsDefault="True"  x:Name="btnOK" Content="Aceptar" HorizontalAlignment="Left" Margin="10,0,0,18" VerticalAlignment="Bottom" Width="100" Height="25" Click="btnOK_Click"/>
+        <PasswordBox x:Name="txtTextoPassword" Focusable="True" Margin="10,29,10,58" PasswordChanged="txtTextoPassword_PasswordChanged"/>
+    </Grid>
+</Window>
